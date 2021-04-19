@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="premiere" tvg-name="premiere" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" tvg-url="" group-title="premiere",premiere hd
-http://sp.zserversolutions.online:8080//live/Alessa/123456/46518.ts?token=T0BeWUZZGlxGBVVbAwlSVQ0EXVVfDFBVB1NSDVVRAVABUFNdV1AJVAFET0AVTRYEVF07DF0XDwQAVwYNShcWElEQaVFREwJEUFFVVFYbSENBWQkAGw8EBgdaAA1RA1pSGEBGUVETAkRXU1FWVxtIQ1BIEABLW1RcaQZSQw9WBkMODENUWR0aCQo5BwcLWAoFFwpGVBsZF1lFEhUPCEAPDRhAVFFBQ1kSAURZQFcBVFUXHEYGVkBbREQbFQ9EdzFDGEBTQEFUVhUNCQ1AXBsQEhccRgxKakdVRRZFUAdYBhMWWBQIFx0aCwUePAEJVwoEVkQNCldGFwoUUxUZRFgMD10WWUpqQVECRlxBVVYMRhw=
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_2000/index.m3u8
