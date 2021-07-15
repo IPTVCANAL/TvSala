@@ -70,3 +70,7 @@ http://sv1.casaplayer.cf:80/valtinho/102030/46732
 http://sv1.casaplayer.cf:80/valtinho/102030/27251
 #EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN¹4K¹" tvg-logo="http://floriu.com/imagem/espn.png" group-title="ESPORTE",ESPN¹4K¹
 http://sv1.casaplayer.cf:80/valtinho/102030/46730
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT 4K¹" tvg-logo="http://floriu.com/imagem/tnt.png" group-title="TNT SPORT",TNT 4K¹
+http://sv1.casaplayer.cf:80/valtinho/102030/46717
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD¹" tvg-logo="http://floriu.com/imagem/tnt.png" group-title="TNT SPORT",TNT HD¹
+http://sv1.casaplayer.cf:80/valtinho/102030/46716
