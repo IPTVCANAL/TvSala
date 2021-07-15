@@ -26,3 +26,15 @@ http://sv1.casaplayer.cf:80/valtinho/102030/6567
 http://sv1.casaplayer.cf:80/valtinho/102030/6569
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes" tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE",Premiere Clubes
 http://sv1.casaplayer.cf:80/valtinho/102030/3538
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 01" tvg-logo="" group-title="CONMEBOL",Conmebol TV 01
+http://sv1.casaplayer.cf:80/valtinho/102030/46950
+#EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="Conmebol TV 02" tvg-logo="" group-title="CONMEBOL",Conmebol TV 02
+http://sv1.casaplayer.cf:80/valtinho/102030/46951
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 03" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CONMEBOL",CONMEBOL TV 03
+http://sv1.casaplayer.cf:80/valtinho/102030/21767
+#EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="Conmebol TV 03" tvg-logo="" group-title="CONMEBOL",Conmebol TV 03
+http://sv1.casaplayer.cf:80/valtinho/102030/46952
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 04" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CONMEBOL",CONMEBOL TV 04
+http://sv1.casaplayer.cf:80/valtinho/102030/21768
+#EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-name="Conmebol TV 04" tvg-logo="" group-title="CONMEBOL",Conmebol TV 04
+http://sv1.casaplayer.cf:80/valtinho/102030/46953
