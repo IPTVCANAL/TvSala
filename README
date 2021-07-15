@@ -52,3 +52,21 @@ http://sv1.casaplayer.cf:80/valtinho/102030/3506
 http://sv1.casaplayer.cf:80/valtinho/102030/3383
 #EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SPORTV 3 HD
 http://sv1.casaplayer.cf:80/valtinho/102030/3505
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="http://floriu.com/imagem/espnbr.png" group-title="ESPORTE",ESPN BRASIL HD
+http://sv1.casaplayer.cf:80/valtinho/102030/27260
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil¹" tvg-logo="http://floriu.com/imagem/espnbr.png" group-title="ESPORTE",ESPN Brasil¹
+http://sv1.casaplayer.cf:80/valtinho/102030/46726
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN EXTRA" tvg-logo="http://floriu.com/imagem/espnextra.png" group-title="ESPORTE",ESPN EXTRA
+http://sv1.casaplayer.cf:80/valtinho/102030/18683
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN EXTRA HD" tvg-logo="http://floriu.com/imagem/espnextra.png" group-title="ESPORTE",ESPN EXTRA HD
+http://sv1.casaplayer.cf:80/valtinho/102030/6067
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://floriu.com/imagem/espn.png" group-title="ESPORTE",ESPN HD
+http://sv1.casaplayer.cf:80/valtinho/102030/3654
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2²4K" tvg-logo="http://floriu.com/imagem/espn2.png" group-title="ESPORTE",ESPN2²4K
+http://sv1.casaplayer.cf:80/valtinho/102030/46731
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2²HD" tvg-logo="http://floriu.com/imagem/espn2.png" group-title="ESPORTE",ESPN2²HD
+http://sv1.casaplayer.cf:80/valtinho/102030/46732
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPNBRASIL 4K¹" tvg-logo="http://floriu.com/imagem/espnbr.png" group-title="ESPORTE",ESPNBRASIL 4K¹
+http://sv1.casaplayer.cf:80/valtinho/102030/27251
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN¹4K¹" tvg-logo="http://floriu.com/imagem/espn.png" group-title="ESPORTE",ESPN¹4K¹
+http://sv1.casaplayer.cf:80/valtinho/102030/46730
