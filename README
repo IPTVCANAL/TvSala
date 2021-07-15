@@ -38,3 +38,17 @@ http://sv1.casaplayer.cf:80/valtinho/102030/46952
 http://sv1.casaplayer.cf:80/valtinho/102030/21768
 #EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-name="Conmebol TV 04" tvg-logo="" group-title="CONMEBOL",Conmebol TV 04
 http://sv1.casaplayer.cf:80/valtinho/102030/46953
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="ESPORTE",SporTV
+http://sv1.casaplayer.cf:80/valtinho/102030/27922
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SporTV 2
+http://sv1.casaplayer.cf:80/valtinho/102030/3508
+#EXTINF:-1 tvg-id="SporTV 2 [Alter]" tvg-name="SPORTV 2 4K" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SPORTV 2 4K
+http://sv1.casaplayer.cf:80/valtinho/102030/3382
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SPORTV 2 HD
+http://sv1.casaplayer.cf:80/valtinho/102030/3507
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SporTV 3
+http://sv1.casaplayer.cf:80/valtinho/102030/3506
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 4K" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SPORTV 3 4K
+http://sv1.casaplayer.cf:80/valtinho/102030/3383
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SPORTV 3 HD
+http://sv1.casaplayer.cf:80/valtinho/102030/3505
