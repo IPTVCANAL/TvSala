@@ -1,2 +1,243 @@
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 HD" tvg-logo="http://fonteangelusiptv.com:25461/images/944fd8b268de23ee479fbdce6da25027.png" group-title="COPA LIBERTADORES",CONMEBOL 2 HD
-http://fonteangelusiptv.com:25461/matheus2021/2021matheus/237833
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 HD" tvg-logo="https://i.imgur.com/IpYsID7.png" group-title="CN: DOCUMENTARIOS",Arte 1 HD
+http://c.ystartv.gq:80/Cristian/654321/2
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="https://i.imgur.com/51oLNvi.png" group-title="CN: DOCUMENTARIOS",Animal Planet HD
+http://c.ystartv.gq:80/Cristian/654321/3
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="https://i.imgur.com/5eDswJI.png" group-title="CN: DOCUMENTARIOS",Nat Geo Wild HD
+http://c.ystartv.gq:80/Cristian/654321/5
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="https://i.imgur.com/WoayVA4.png" group-title="CN: DOCUMENTARIOS",History HD
+http://c.ystartv.gq:80/Cristian/654321/6
+#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" tvg-logo="https://i.imgur.com/4P92vil.png" group-title="CN: DOCUMENTARIOS",History 2 HD
+http://c.ystartv.gq:80/Cristian/654321/7
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/TgjoGpS.png" group-title="CN: DOCUMENTARIOS",Discovery Channel HD
+http://c.ystartv.gq:80/Cristian/654321/8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="https://i.imgur.com/uEA0XWF.png" group-title="CN: DOCUMENTARIOS",Discovery Turbo HD
+http://c.ystartv.gq:80/Cristian/654321/9
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD" tvg-logo="https://i.imgur.com/MHLB1xa.png" group-title="CN: DOCUMENTARIOS",Discovery ID HD
+http://c.ystartv.gq:80/Cristian/654321/10
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="https://i.imgur.com/DP13qHb.png" group-title="CN: DOCUMENTARIOS",Discovery Science HD
+http://c.ystartv.gq:80/Cristian/654321/11
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/pERLlsR.png" group-title="CN: DOCUMENTARIOS",Discovery World HD
+http://c.ystartv.gq:80/Cristian/654321/12
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="https://i.imgur.com/wzMC4dk.png" group-title="CN: DOCUMENTARIOS",Discovery Theater HD
+http://c.ystartv.gq:80/Cristian/654321/13
+#EXTINF:-1 tvg-id="" tvg-name="Gazeta HD" tvg-logo="https://i.imgur.com/O8xJd0z.png" group-title="CN: ABERTOS",Gazeta HD
+http://c.ystartv.gq:80/Cristian/654321/14
+#EXTINF:-1 tvg-id="" tvg-name="Cultura HD" tvg-logo="https://i.imgur.com/K4774KE.png" group-title="CN: ABERTOS",Cultura HD
+http://c.ystartv.gq:80/Cristian/654321/15
+#EXTINF:-1 tvg-id="" tvg-name="Terra Viva HD" tvg-logo="https://i.imgur.com/78sYMu7.png" group-title="CN: ABERTOS",Terra Viva HD
+http://c.ystartv.gq:80/Cristian/654321/16
+#EXTINF:-1 tvg-id="" tvg-name="Agro Mais HD" tvg-logo="https://i.imgur.com/bvUdroU.png" group-title="CN: ABERTOS",Agro Mais HD
+http://c.ystartv.gq:80/Cristian/654321/17
+#EXTINF:-1 tvg-id="" tvg-name="Agro Brasil HD" tvg-logo="https://i.imgur.com/F4AsEGM.png" group-title="CN: ABERTOS",Agro Brasil HD
+http://c.ystartv.gq:80/Cristian/654321/18
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi HD" tvg-logo="https://i.imgur.com/njNnNVM.png" group-title="CN: ABERTOS",Canal do Boi HD
+http://c.ystartv.gq:80/Cristian/654321/19
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil HD" tvg-logo="https://i.imgur.com/xQO0vNX.png" group-title="CN: ABERTOS",TV Brasil HD
+http://c.ystartv.gq:80/Cristian/654321/20
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil 2 HD" tvg-logo="https://i.imgur.com/MKeO37M.png" group-title="CN: ABERTOS",TV Brasil 2 HD
+http://c.ystartv.gq:80/Cristian/654321/21
+#EXTINF:-1 tvg-id="" tvg-name="Canal Saúde HD" tvg-logo="https://i.imgur.com/Cmdzs7v.png" group-title="CN: ABERTOS",Canal Saúde HD
+http://c.ystartv.gq:80/Cristian/654321/22
+#EXTINF:-1 tvg-id="" tvg-name="Sesc TV HD" tvg-logo="https://i.imgur.com/rdyPjVV.png" group-title="CN: ABERTOS",Sesc TV HD
+http://c.ystartv.gq:80/Cristian/654321/23
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV HD" tvg-logo="https://i.imgur.com/0zSZ8qd.png" group-title="CN: ABERTOS",Rede TV HD
+http://c.ystartv.gq:80/Cristian/654321/25
+#EXTINF:-1 tvg-id="" tvg-name="Futura HD" tvg-logo="https://i.imgur.com/zHDt4Aa.png" group-title="CN: ABERTOS",Futura HD
+http://c.ystartv.gq:80/Cristian/654321/26
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="https://i.imgur.com/9n9boo3.png" group-title="CN: TELECINE",Telecine Action HD
+http://c.ystartv.gq:80/Cristian/654321/27
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="https://i.imgur.com/ZZxY55p.png" group-title="CN: TELECINE",Telecine Premium HD
+http://c.ystartv.gq:80/Cristian/654321/28
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="https://i.imgur.com/Ns47Tfm.png" group-title="CN: TELECINE",Telecine Touch HD
+http://c.ystartv.gq:80/Cristian/654321/29
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="https://i.imgur.com/9nwihyb.png" group-title="CN: TELECINE",Telecine Fun HD
+http://c.ystartv.gq:80/Cristian/654321/30
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="https://i.imgur.com/HtsOTJm.png" group-title="CN: TELECINE",Telecine Pipoca HD
+http://c.ystartv.gq:80/Cristian/654321/31
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD" tvg-logo="https://i.imgur.com/fPwVtGc.png" group-title="CN: TELECINE",Telecine Cult HD
+http://c.ystartv.gq:80/Cristian/654321/32
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/LgwcKj8.png" group-title="CN: FILMES & SEIRES",AMC HD
+http://c.ystartv.gq:80/Cristian/654321/33
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://i.imgur.com/mJaqCHz.png" group-title="CN: FILMES & SEIRES",Cinemax HD
+http://c.ystartv.gq:80/Cristian/654321/34
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="https://i.imgur.com/y6x7Wih.png" group-title="CN: FILMES & SEIRES",Megapix HD
+http://c.ystartv.gq:80/Cristian/654321/35
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://i.imgur.com/9jNLdmb.png" group-title="CN: FILMES & SEIRES",Space HD
+http://c.ystartv.gq:80/Cristian/654321/36
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/kbn9RMu.png" group-title="CN: FILMES & SEIRES",TNT HD
+http://c.ystartv.gq:80/Cristian/654321/37
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="https://i.imgur.com/e6jeNHj.png" group-title="CN: FILMES & SEIRES",Studio Universal HD
+http://c.ystartv.gq:80/Cristian/654321/38
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="https://i.imgur.com/pjtRpMJ.png" group-title="CN: FILMES & SEIRES",Star Channel HD
+http://c.ystartv.gq:80/Cristian/654321/39
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD" tvg-logo="https://i.imgur.com/HIxR2IQ.png" group-title="CN: FILMES & SEIRES",Syfy HD
+http://c.ystartv.gq:80/Cristian/654321/40
+#EXTINF:-1 tvg-id="" tvg-name="TNT Séries victor" tvg-logo="https://i.imgur.com/wEbH3GS.png" group-title="CN: FILMES & SEIRES",TNT Séries victor
+http://c.ystartv.gq:80/Cristian/654321/41
+#EXTINF:-1 tvg-id="" tvg-name="Warner HD" tvg-logo="https://i.imgur.com/3okIisi.png" group-title="CN: FILMES & SEIRES",Warner HD
+http://c.ystartv.gq:80/Cristian/654321/42
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/0CvrC4E.png" group-title="CN: FILMES & SEIRES",A&E HD
+http://c.ystartv.gq:80/Cristian/654321/43
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/d5t89zO.png" group-title="CN: FILMES & SEIRES",Lifetime HD
+http://c.ystartv.gq:80/Cristian/654321/44
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/oUV0QV1.png" group-title="CN: FILMES & SEIRES",AXN HD
+http://c.ystartv.gq:80/Cristian/654321/47
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="https://i.imgur.com/nQ1fUkI.png" group-title="CN: FILMES & SEIRES",FX HD
+http://c.ystartv.gq:80/Cristian/654321/48
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="https://i.imgur.com/l1n1Sj2.png" group-title="CN: FILMES & SEIRES",Sony HD
+http://c.ystartv.gq:80/Cristian/654321/49
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="https://i.imgur.com/vdQW0YJ.png" group-title="CN: FILMES & SEIRES",Paramount HD
+http://c.ystartv.gq:80/Cristian/654321/50
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="https://i.imgur.com/0GSjPOQ.png" group-title="CN: FILMES & SEIRES",TBS HD
+http://c.ystartv.gq:80/Cristian/654321/51
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://i.imgur.com/OAm1Jy6.png" group-title="CN: FILMES & SEIRES",Comedy Central HD
+http://c.ystartv.gq:80/Cristian/654321/52
+#EXTINF:-1 tvg-id="" tvg-name="Universal HD" tvg-logo="https://i.imgur.com/T1aKafr.png" group-title="CN: FILMES & SEIRES",Universal HD
+http://c.ystartv.gq:80/Cristian/654321/53
+#EXTINF:-1 tvg-id="" tvg-name="TV Rá Tim Bum HD" tvg-logo="https://i.imgur.com/4FroC8b.png" group-title="CN: INFANTIL",TV Rá Tim Bum HD
+http://c.ystartv.gq:80/Cristian/654321/54
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="https://i.imgur.com/p1RWiN8.png" group-title="CN: INFANTIL",Boomerang HD
+http://c.ystartv.gq:80/Cristian/654321/55
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="https://i.imgur.com/YnyzKXl.png" group-title="CN: INFANTIL",Tooncast HD
+http://c.ystartv.gq:80/Cristian/654321/56
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV HD" tvg-logo="https://i.imgur.com/TYE8Snr.png" group-title="CN: INFANTIL",Baby TV HD
+http://c.ystartv.gq:80/Cristian/654321/57
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids HD" tvg-logo="https://i.imgur.com/skZYGd3.png" group-title="CN: INFANTIL",Nat Geo Kids HD
+http://c.ystartv.gq:80/Cristian/654321/58
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="https://i.imgur.com/V48Pf2p.png" group-title="CN: INFANTIL",Cartoon Network HD
+http://c.ystartv.gq:80/Cristian/654321/59
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="https://i.imgur.com/nDTemS8.png" group-title="CN: INFANTIL",Discovery Kids HD
+http://c.ystartv.gq:80/Cristian/654321/60
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD" tvg-logo="https://i.imgur.com/JiHEwyd.png" group-title="CN: INFANTIL",Disney XD HD
+http://c.ystartv.gq:80/Cristian/654321/61
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="https://i.imgur.com/TwkfvEA.png" group-title="CN: INFANTIL",Disney Junior HD
+http://c.ystartv.gq:80/Cristian/654321/62
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="https://i.imgur.com/YLxzKMr.png" group-title="CN: INFANTIL",Disney Channel HD
+http://c.ystartv.gq:80/Cristian/654321/63
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD" tvg-logo="https://i.imgur.com/gWMxHGO.png" group-title="CN: ESPORTES",ESPN Brasil HD
+http://c.ystartv.gq:80/Cristian/654321/64
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/dupf1HF.png" group-title="CN: ESPORTES",ESPN HD
+http://c.ystartv.gq:80/Cristian/654321/65
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/dupf1HF.png" group-title="CN: ESPORTES",ESPN 2 HD
+http://c.ystartv.gq:80/Cristian/654321/66
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra HD" tvg-logo="https://i.imgur.com/XeMcjmV.png" group-title="CN: ESPORTES",ESPN Extra HD
+http://c.ystartv.gq:80/Cristian/654321/67
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="https://i.imgur.com/9OImjrI.png" group-title="CN: ESPORTES",Fox Sports HD
+http://c.ystartv.gq:80/Cristian/654321/68
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="https://i.imgur.com/Q3kKKK7.png" group-title="CN: ESPORTES",Fox Sports 2 HD
+http://c.ystartv.gq:80/Cristian/654321/69
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo Kids HD" tvg-logo="https://i.imgur.com/G7sE8oN.png" group-title="CN: INFANTIL",Zoomoo Kids HD
+http://c.ystartv.gq:80/Cristian/654321/70
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="https://i.imgur.com/ZjLSLiY.png" group-title="CN: INFANTIL",Nickelodeon HD
+http://c.ystartv.gq:80/Cristian/654321/71
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr HD" tvg-logo="https://i.imgur.com/CaXODpD.png" group-title="CN: INFANTIL",Nick Jr HD
+http://c.ystartv.gq:80/Cristian/654321/72
+#EXTINF:-1 tvg-id="" tvg-name="Band HD" tvg-logo="https://i.imgur.com/308XdbV.png" group-title="CN: ABERTOS",Band HD
+http://c.ystartv.gq:80/Cristian/654321/73
+#EXTINF:-1 tvg-id="" tvg-name="Off HD" tvg-logo="https://i.imgur.com/8Qzh7wD.png" group-title="CN: ESPORTES",Off HD
+http://c.ystartv.gq:80/Cristian/654321/74
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/qtr3DmP.png" group-title="CN: ESPORTES",Combate HD
+http://c.ystartv.gq:80/Cristian/654321/76
+#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="https://i.imgur.com/AayuYgm.png" group-title="CN: ESPORTES",SporTV HD
+http://c.ystartv.gq:80/Cristian/654321/78
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="https://i.imgur.com/sXMmah6.png" group-title="CN: ESPORTES",SporTV 2 HD
+http://c.ystartv.gq:80/Cristian/654321/80
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="https://i.imgur.com/cAdgMA2.png" group-title="CN: ESPORTES",SporTV 3 HD
+http://c.ystartv.gq:80/Cristian/654321/82
+#EXTINF:-1 tvg-id="" tvg-name="Globo News HD" tvg-logo="https://i.imgur.com/4EZSjaY.png" group-title="CN: NOTICIAS",Globo News HD
+http://c.ystartv.gq:80/Cristian/654321/84
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" tvg-logo="https://i.imgur.com/hrhg7hm.png" group-title="CN: NOTICIAS",Band Sports HD
+http://c.ystartv.gq:80/Cristian/654321/85
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV HD" tvg-logo="https://i.imgur.com/zJ0X2nA.png" group-title="CN: NOTICIAS",Fish TV HD
+http://c.ystartv.gq:80/Cristian/654321/86
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/yCOw4af.png" group-title="CN: HBO",HBO HD
+http://c.ystartv.gq:80/Cristian/654321/97
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://i.imgur.com/Y8f3n0a.png" group-title="CN: HBO",HBO 2 HD
+http://c.ystartv.gq:80/Cristian/654321/98
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="https://i.imgur.com/q2JngP2.png" group-title="CN: HBO",HBO Plus HD
+http://c.ystartv.gq:80/Cristian/654321/99
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="https://i.imgur.com/Ie8zKEm.png" group-title="CN: HBO",HBO Signature HD
+http://c.ystartv.gq:80/Cristian/654321/100
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="https://i.imgur.com/i6XeuxI.png" group-title="CN: HBO",HBO Family HD
+http://c.ystartv.gq:80/Cristian/654321/101
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi HD" tvg-logo="https://i.imgur.com/5q7QN2J.png" group-title="CN: HBO",HBO Mundi HD
+http://c.ystartv.gq:80/Cristian/654321/102
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme HD" tvg-logo="https://i.imgur.com/nO17EQV.png" group-title="CN: HBO",HBO Xtreme HD
+http://c.ystartv.gq:80/Cristian/654321/103
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop HD" tvg-logo="https://i.imgur.com/1eslf5M.png" group-title="CN: HBO",HBO Pop HD
+http://c.ystartv.gq:80/Cristian/654321/104
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho HD" tvg-logo="https://i.imgur.com/V9CMcBn.png" group-title="CN: INFANTIL",Gloobinho HD
+http://c.ystartv.gq:80/Cristian/654321/105
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="https://i.imgur.com/Oo95VAG.png" group-title="CN: INFANTIL",Gloob HD
+http://c.ystartv.gq:80/Cristian/654321/107
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/ul1uxS0.png" group-title="CN: PREMIERE",Premiere Clubes HD
+http://c.ystartv.gq:80/Cristian/654321/109
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="https://i.imgur.com/ul1uxS0.png" group-title="CN: PREMIERE",Premiere 2 HD
+http://c.ystartv.gq:80/Cristian/654321/110
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="https://i.imgur.com/ul1uxS0.png" group-title="CN: PREMIERE",Premiere 3 HD
+http://c.ystartv.gq:80/Cristian/654321/111
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="https://i.imgur.com/ul1uxS0.png" group-title="CN: PREMIERE",Premiere 4 HD
+http://c.ystartv.gq:80/Cristian/654321/112
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="https://i.imgur.com/ul1uxS0.png" group-title="CN: PREMIERE",Premiere 5 HD
+http://c.ystartv.gq:80/Cristian/654321/113
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="https://i.imgur.com/ul1uxS0.png" group-title="CN: PREMIERE",Premiere 6 HD
+http://c.ystartv.gq:80/Cristian/654321/114
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="https://i.imgur.com/ul1uxS0.png" group-title="CN: PREMIERE",Premiere 7 HD
+http://c.ystartv.gq:80/Cristian/654321/115
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 HD" tvg-logo="https://i.imgur.com/ul1uxS0.png" group-title="CN: PREMIERE",Premiere 8 HD
+http://c.ystartv.gq:80/Cristian/654321/116
+#EXTINF:-1 tvg-id="" tvg-name="Mais na Tela HD" tvg-logo="https://i.imgur.com/rNDMrFF.png" group-title="CN: VARIEDADES E MUSICA",Mais na Tela HD
+http://c.ystartv.gq:80/Cristian/654321/125
+#EXTINF:-1 tvg-id="" tvg-name="Bis HD" tvg-logo="https://i.imgur.com/CooR1US.png" group-title="CN: VARIEDADES E MUSICA",Bis HD
+http://c.ystartv.gq:80/Cristian/654321/127
+#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="https://i.imgur.com/c609JzP.png" group-title="CN: VARIEDADES E MUSICA",Viva HD
+http://c.ystartv.gq:80/Cristian/654321/129
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="https://i.imgur.com/lGVsOTc.png" group-title="CN: VARIEDADES E MUSICA",GNT HD
+http://c.ystartv.gq:80/Cristian/654321/131
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV HD" tvg-logo="https://i.imgur.com/67BO8tv.png" group-title="CN: VARIEDADES E MUSICA",Fashion TV HD
+http://c.ystartv.gq:80/Cristian/654321/133
+#EXTINF:-1 tvg-id="" tvg-name="Loading HD" tvg-logo="https://i.imgur.com/F0m1RWE.png" group-title="CN: VARIEDADES E MUSICA",Loading HD
+http://c.ystartv.gq:80/Cristian/654321/134
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo HD" tvg-logo="https://i.imgur.com/aRZGICa.png" group-title="CN: VARIEDADES E MUSICA",Woohoo HD
+http://c.ystartv.gq:80/Cristian/654321/136
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil HD" tvg-logo="https://i.imgur.com/m3m5nAx.png" group-title="CN: VARIEDADES E MUSICA",Music Box Brazil HD
+http://c.ystartv.gq:80/Cristian/654321/137
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil HD" tvg-logo="https://i.imgur.com/4gQVOrB.png" group-title="CN: VARIEDADES E MUSICA",Prime Box Brazil HD
+http://c.ystartv.gq:80/Cristian/654321/138
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/sBUELJ6.png" group-title="CN: VARIEDADES E MUSICA",MTV HD
+http://c.ystartv.gq:80/Cristian/654321/139
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="https://i.imgur.com/KagpnyD.png" group-title="CN: VARIEDADES E MUSICA",MTV Live HD
+http://c.ystartv.gq:80/Cristian/654321/140
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="https://i.imgur.com/ewerIgr.png" group-title="CN: VARIEDADES E MUSICA",Food Network HD
+http://c.ystartv.gq:80/Cristian/654321/141
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/ehvv49v.png" group-title="CN: VARIEDADES E MUSICA",HGTV HD
+http://c.ystartv.gq:80/Cristian/654321/142
+#EXTINF:-1 tvg-id="" tvg-name="Star Life HD" tvg-logo="https://i.imgur.com/xgAalG7.png" group-title="CN: VARIEDADES E MUSICA",Star Life HD
+http://c.ystartv.gq:80/Cristian/654321/143
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/Ti1dqxD.png" group-title="CN: VARIEDADES E MUSICA",TLC HD
+http://c.ystartv.gq:80/Cristian/654321/144
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD" tvg-logo="https://i.imgur.com/BDbKim3.png" group-title="CN: VARIEDADES E MUSICA",Discovery H&H HD
+http://c.ystartv.gq:80/Cristian/654321/145
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="https://i.imgur.com/WAxnYVN.png" group-title="CN: VARIEDADES E MUSICA",E! HD
+http://c.ystartv.gq:80/Cristian/654321/146
+#EXTINF:-1 tvg-id="" tvg-name="Curta! HD" tvg-logo="https://i.imgur.com/k4JIVsC.png" group-title="CN: VARIEDADES E MUSICA",Curta! HD
+http://c.ystartv.gq:80/Cristian/654321/147
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="https://i.imgur.com/DclFnqB.png" group-title="CN: VARIEDADES E MUSICA",Multishow HD
+http://c.ystartv.gq:80/Cristian/654321/148
+#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo HD" tvg-logo="https://i.imgur.com/yiTLVJj.png" group-title="CN: RELIGIOSO",Novo Tempo HD
+http://c.ystartv.gq:80/Cristian/654321/149
+#EXTINF:-1 tvg-id="" tvg-name="Aparecida HD" tvg-logo="https://i.imgur.com/NAyYCx8.png" group-title="CN: RELIGIOSO",Aparecida HD
+http://c.ystartv.gq:80/Cristian/654321/150
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida HD" tvg-logo="https://i.imgur.com/qvbSKWV.png" group-title="CN: RELIGIOSO",Rede Vida HD
+http://c.ystartv.gq:80/Cristian/654321/151
+#EXTINF:-1 tvg-id="" tvg-name="Canção Nova HD" tvg-logo="https://i.imgur.com/2CuL18g.png" group-title="CN: RELIGIOSO",Canção Nova HD
+http://c.ystartv.gq:80/Cristian/654321/152
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT HD" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="CN: ESPORTES",TNT SPORT HD
+http://c.ystartv.gq:80/Cristian/654321/153
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="http://img.miptv.ws/SBT.png" group-title="CN: ABERTOS",SBT HD
+http://c.ystartv.gq:80/Cristian/654321/154
+#EXTINF:-1 tvg-id="" tvg-name="Record News HD" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="CN: NOTICIAS",Record News HD
+http://c.ystartv.gq:80/Cristian/654321/155
+#EXTINF:-1 tvg-id="" tvg-name="Globo HD" tvg-logo="http://img.miptv.ws/Globo_Internacional.png" group-title="CN: ABERTOS",Globo HD
+http://c.ystartv.gq:80/Cristian/654321/156
