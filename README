@@ -1,74 +1,2312 @@
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 2 FHD
-http://serverfulltop.com:80/frederico/123456/792
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 2 HD
-http://serverfulltop.com:80/frederico/123456/580
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="PREMIERES",Premiere 2 HD [ALTER]
-http://serverfulltop.com:80/frederico/123456/75
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 2 SD
-http://serverfulltop.com:80/frederico/123456/581
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 FHD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 3 FHD
-http://serverfulltop.com:80/frederico/123456/793
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 3 HD
-http://serverfulltop.com:80/frederico/123456/582
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="PREMIERES",Premiere 3 HD [ALTER]
-http://serverfulltop.com:80/frederico/123456/76
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 3 SD
-http://serverfulltop.com:80/frederico/123456/583
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 FHD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 4 FHD
-http://serverfulltop.com:80/frederico/123456/794
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 4 HD
-http://serverfulltop.com:80/frederico/123456/584
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="PREMIERES",Premiere 4 HD [ALTER]
-http://serverfulltop.com:80/frederico/123456/77
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 4 SD
-http://serverfulltop.com:80/frederico/123456/585
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 FHD" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="PREMIERES",Premiere 5 FHD
-http://serverfulltop.com:80/frederico/123456/795
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 5 HD
-http://serverfulltop.com:80/frederico/123456/586
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 5 SD
-http://serverfulltop.com:80/frederico/123456/587
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 FHD" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="PREMIERES",Premiere 6 FHD
-http://serverfulltop.com:80/frederico/123456/796
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 6 HD
-http://serverfulltop.com:80/frederico/123456/588
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 6 SD
-http://serverfulltop.com:80/frederico/123456/589
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 FHD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 7 FHD
-http://serverfulltop.com:80/frederico/123456/19337
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 7 HD
-http://serverfulltop.com:80/frederico/123456/590
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 7 SD
-http://serverfulltop.com:80/frederico/123456/591
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 FHD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 8 FHD
-http://serverfulltop.com:80/frederico/123456/19338
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 8 HD
-http://serverfulltop.com:80/frederico/123456/19339
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 8 SD
-http://serverfulltop.com:80/frederico/123456/592
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes 4K" tvg-logo="http://ux.minhatela.vip:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="4K",Premiere Clubes 4K
-http://serverfulltop.com:80/frederico/123456/260
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere Clubes FHD
-http://serverfulltop.com:80/frederico/123456/797
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes HD" tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere Clubes HD
-http://serverfulltop.com:80/frederico/123456/593
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="PREMIERES",Premiere Clubes HD [ALTER]
-http://serverfulltop.com:80/frederico/123456/78
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere Clubes SD
-http://serverfulltop.com:80/frederico/123456/594
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SporTV 2
-http://sv1.casaplayer.cf:80/valtinho/102030/3508
-#EXTINF:-1 tvg-id="SporTV 2 [Alter]" tvg-name="SPORTV 2 4K" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SPORTV 2 4K
-http://sv1.casaplayer.cf:80/valtinho/102030/3382
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SPORTV 2 HD
-http://sv1.casaplayer.cf:80/valtinho/102030/3507
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SporTV 3
-http://sv1.casaplayer.cf:80/valtinho/102030/3506
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 4K" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SPORTV 3 4K
-http://sv1.casaplayer.cf:80/valtinho/102030/3383
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SPORTV 3 HD
-http://sv1.casaplayer.cf:80/valtinho/102030/3505
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="ESPORTE",SPORTV 4K
-http://sv1.casaplayer.cf:80/valtinho/102030/46536
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="ESPORTE",SPORTV HD
-http://sv1.casaplayer.cf:80/valtinho/102030/46723
+#EXTM3U
+#EXTINF:-1 tvg-name="Band" tvg-logo="https://i.ibb.co/pWdRD7J/band.png TV Aberta" group-title="RJ ABERTOS", [ALT 1] Band 4K
+http://199.127.62.234:2086/streams/13_.m3u8
+
+#EXTINF:-1 tvg-name="Band" tvg-logo="https://i.ibb.co/pWdRD7J/band.png TV Aberta" group-title="RJ ABERTOS", [ALT 1] Band HD
+http://199.127.62.234:2086/streams/13_.m3u8
+
+#EXTINF:-1 tvg-name="Globo Rio" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png TV Aberta" group-title="RJ ABERTOS", [ALT 1] Globo HD
+http://199.127.62.234:2086/streams/26_.m3u8
+
+#EXTINF:-1 tvg-name="Globo Rio" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png TV Aberta" group-title="RJ ABERTOS", [ALT 1] Globo RJ HD
+http://199.127.62.234:2086/streams/26_.m3u8
+
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png TV Aberta" group-title="RJ ABERTOS", [ALT 1] Record RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-p.m3u8
+
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png TV Aberta" group-title="RJ ABERTOS", [ALT 1] Record RJ 4K
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png TV Aberta" group-title="RJ ABERTOS", [ALT 1] Record RJ
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-p.m3u8
+
+#EXTINF:-1 tvg-name="RedeTV!" tvg-logo="https://i.ibb.co/wR1cmgM/redetv.png TV Aberta" group-title="RJ ABERTOS", [ALT 1] RedeTV! 4K
+http://199.127.62.234:2086/streams/34_.m3u8
+
+#EXTINF:-1 tvg-name="RedeTV!" tvg-logo="https://i.ibb.co/wR1cmgM/redetv.png TV Aberta" group-title="RJ ABERTOS", [ALT 1] RedeTV! HD
+http://199.127.62.234:2086/streams/33_.m3u8
+
+#EXTINF:-1 tvg-name="SBT" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png TV Aberta" group-title="RJ ABERTOS", [ALT 1] SBT 4K
+http://199.127.62.234:2086/streams/37_.m3u8
+
+#EXTINF:-1 tvg-name="SBT" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png TV Aberta" group-title="RJ ABERTOS", [ALT 1] SBT HD
+http://199.127.62.234:2086/streams/37_.m3u8
+
+
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png Filme e Serie" group-title="[ALT 1] VARIEDADES", [ALT 1] AMC 4K
+http://199.127.62.234:2086/streams/158_.m3u8
+
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png Filme e Serie" group-title="[ALT 1] VARIEDADES", [ALT 1] AMC HD
+http://199.127.62.234:2086/streams/158_.m3u8
+#EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://i.ibb.co/QNkBQc6/arte1.png Variedade" group-title="[ALT 1] VARIEDADES", [ALT 1] Arte 1 4K
+http://199.127.62.234:2086/streams/147_.m3u8
+
+#EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://i.ibb.co/QNkBQc6/arte1.png Variedade" group-title="[ALT 1] VARIEDADES", [ALT 1] Arte 1 HD
+http://199.127.62.234:2086/streams/147_.m3u8
+
+#EXTINF:-1 tvg-name="BIS" tvg-logo="https://i.ibb.co/B2DbLdN/bis.png Entretenimento e Musica" group-title="[ALT 1] VARIEDADES", [ALT 1] BIS 4K
+http://199.127.62.234:2086/streams/140_.m3u8
+
+#EXTINF:-1 tvg-name="BIS" tvg-logo="https://i.ibb.co/B2DbLdN/bis.png Entretenimento e Musica" group-title="[ALT 1] VARIEDADES", [ALT 1] BIS HD
+http://199.127.62.234:2086/streams/140_.m3u8
+
+#EXTINF:-1 tvg-name="Curta" tvg-logo="https://i.ibb.co/YRKtq0s/curta.png Variedade" group-title="[ALT 1] VARIEDADES", [ALT 1] Curta! HD
+http://199.127.62.234:2086/streams/20_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="https://i.ibb.co/z2JDsg0/discoverytheater.png Documentario" group-title="[ALT 1] VARIEDADES", [ALT 1] Discovery Theater HD
+http://199.127.62.234:2086/streams/104_.m3u8
+#EXTINF:-1 tvg-name="Discovery Home & Health" tvg-logo="https://i.imgur.com/TZRHb9R.png" group-title="[ALT 1] VARIEDADES", [ALT 1] Discovery Home & Health HD
+http://199.127.62.234:2086/streams/100_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Home & Health FHD" tvg-logo="https://i.imgur.com/TZRHb9R.png" group-title="[ALT 1] VARIEDADES", [ALT 1] Discovery Home & Health 4K
+http://199.127.62.234:2086/streams/101_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://i.ibb.co/LkFmVss/discoveryturbob.png Documentario" group-title="[ALT 1] VARIEDADES", [ALT 1] Discovery Turbo 4K
+http://199.127.62.234:2086/streams/107_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://i.ibb.co/LkFmVss/discoveryturbob.png Documentario" group-title="[ALT 1] VARIEDADES", [ALT 1] Discovery Turbo HD
+http://199.127.62.234:2086/streams/106_.m3u8
+
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://i.ibb.co/wS6TzSk/foodnetwork.png Variedade" group-title="[ALT 1] VARIEDADES", [ALT 1] Food Network HD
+http://199.127.62.234:2086/streams/111_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Life FHD" tvg-logo="https://i.ibb.co/Z6hgvP7/foxlifeb.png Entretenimento" group-title="[ALT 1] VARIEDADES", [ALT 1] Fox Life 4K
+http://199.127.62.234:2086/streams/164_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Life" tvg-logo="https://i.ibb.co/Z6hgvP7/foxlifeb.png Variedade" group-title="[ALT 1] VARIEDADES", [ALT 1] Fox Life HD
+http://199.127.62.234:2086/streams/163_.m3u8
+
+#EXTINF:-1 tvg-name="GNT" tvg-logo="https://i.ibb.co/DDW7Xcz/gnt.png Variedade" group-title="[ALT 1] VARIEDADES", [ALT 1] GNT HD
+http://199.127.62.234:2086/streams/150_.m3u8
+
+#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://i.ibb.co/5rp1PW0/lifetime.png Filme e Serie" group-title="[ALT 1] VARIEDADES", [ALT 1] Lifetime HD
+http://199.127.62.234:2086/streams/169_.m3u8
+
+#EXTINF:-1 tvg-name="Mais Globosat" tvg-logo="https://i.ibb.co/tsRJmPR/maisglobosatb.png Variedade" group-title="[ALT 1] VARIEDADES", [ALT 1] Mais Globosat HD
+http://199.127.62.234:2086/streams/151_.m3u8
+
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://i.ibb.co/W5VwW2N/mtvb.png Entretenimento e Musica" group-title="[ALT 1] VARIEDADES", [ALT 1] MTV EUA 4K
+http://199.127.62.234:2086/streams/142_.m3u8
+
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://i.ibb.co/W5VwW2N/mtvb.png Entretenimento e Musica" group-title="[ALT 1] VARIEDADES", [ALT 1] MTV HD
+http://199.127.62.234:2086/streams/141_.m3u8
+
+#EXTINF:-1 tvg-name="Multishow" tvg-logo="https://i.ibb.co/R0nqMq0/multishow.png Entretenimento e Musica" group-title="[ALT 1] VARIEDADES", [ALT 1] Multishow HD
+http://199.127.62.234:2086/streams/143_.m3u8
+
+#EXTINF:-1 tvg-name="Off" tvg-logo="https://i.ibb.co/J23V5yZ/canaloffb.png Variedade e Esporte" group-title="[ALT 1] VARIEDADES", [ALT 1] Off HD
+http://199.127.62.234:2086/streams/59_.m3u8
+
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://i.ibb.co/njTvjL1/tlc.png Variedade" group-title="[ALT 1] VARIEDADES", [ALT 1] TLC HD
+http://199.127.62.234:2086/streams/122_.m3u8
+
+#EXTINF:-1 tvg-name="VH1" tvg-logo="https://i.ibb.co/p3cFRcS/vh1.png Entretenimento e Musica" group-title="[ALT 1] VARIEDADES", [ALT 1] VH1 HD
+http://199.127.62.234:2086/streams/145_.m3u8
+
+#EXTINF:-1 tvg-name="VH1 Megahits" tvg-logo="https://i.ibb.co/WHdMy8M/vh1megahits.png Entretenimento e Musica" group-title="[ALT 1] VARIEDADES", [ALT 1] VH1 Megahits HD
+http://199.127.62.234:2086/streams/146_.m3u8
+
+#EXTINF:-1 tvg-name="Viva" tvg-logo="https://i.ibb.co/W0w20Dn/viva2018.png Variedade" group-title="[ALT 1] VARIEDADES", [ALT 1] Viva HD
+http://199.127.62.234:2086/streams/153_.m3u8
+
+#EXTINF:-1 tvg-name="Woohoo" tvg-logo="https://i.ibb.co/rvT7WT5/woohoo.png Variedade" group-title="[ALT 1] VARIEDADES", [ALT 1] Woohoo HD
+http://199.127.62.234:2086/streams/154_.m3u8
+
+#EXTINF:-1 tvg-name="Zoomoo HD" tvg-logo="https://i.ibb.co/XL5sJVf/zoomoo.png Infantil" group-title="[ALT 1] VARIEDADES", [ALT 1] Zoomoo 4K
+http://199.127.62.234:2086/streams/137_.m3u8
+
+#EXTINF:-1 tvg-name="Zoomoo HD" tvg-logo="https://i.ibb.co/XL5sJVf/zoomoo.png Infantil" group-title="[ALT 1] VARIEDADES", [ALT 1] Zoomoo HD
+http://199.127.62.234:2086/streams/137_.m3u8
+
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] AMC HD
+http://199.127.62.234:2086/streams/158_.m3u8
+
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://i.ibb.co/stn1js5/axnb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] AXN 4K
+http://199.127.62.234:2086/streams/181_.m3u8
+
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://i.ibb.co/stn1js5/axnb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] AXN HD
+http://199.127.62.234:2086/streams/181_.m3u8
+
+#EXTINF:-1 tvg-name="Canal Brasil" tvg-logo="https://i.ibb.co/dGDgcDc/canalbrasilb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Canal Brasil HD
+http://199.127.62.234:2086/streams/15_.m3u8
+
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://i.ibb.co/qCx1SLY/cinemax.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Cinemax HD
+http://199.127.62.234:2086/streams/242_.m3u8
+
+#EXTINF:-1 tvg-name="Fox FHD" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Fox 4K
+http://199.127.62.234:2086/streams/162_.m3u8
+
+#EXTINF:-1 tvg-name="Fox" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Fox HD
+http://199.127.62.234:2086/streams/161_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Premium 1 HD" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Fox Premium 1 4K
+http://199.127.62.234:2086/streams/166_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Premium 1 HD" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Fox Premium 1 HD
+http://199.127.62.234:2086/streams/165_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Premium 2 HD" tvg-logo="https://i.ibb.co/ygC4V8r/foxpremium2b.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Fox Premium 2 4K
+http://199.127.62.234:2086/streams/168_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Premium 2 HD" tvg-logo="https://i.ibb.co/ygC4V8r/foxpremium2b.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Fox Premium 2 HD
+http://199.127.62.234:2086/streams/167_.m3u8
+
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] FX 4K
+http://199.127.62.234:2086/streams/113_.m3u8
+
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] FX HD
+http://199.127.62.234:2086/streams/112_.m3u8
+
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] HBO 2 4K
+http://199.127.62.234:2086/streams/188_.m3u8
+
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] HBO 2 HD
+http://199.127.62.234:2086/streams/187_.m3u8
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] HBO 4K
+http://199.127.62.234:2086/streams/186_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] HBO Family 4K
+http://199.127.62.234:2086/streams/194_.m3u8
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] HBO HD
+http://199.127.62.234:2086/streams/185_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="[ALT 1] FILMES E SERIES", [ALT 1] HBO MUNDI 4K
+http://199.127.62.234:2086/streams/196_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="[ALT 1] FILMES E SERIES", [ALT 1] HBO MUNDI HD
+http://199.127.62.234:2086/streams/195_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] HBO Plus 4K
+http://199.127.62.234:2086/streams/190_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] HBO Plus HD
+http://199.127.62.234:2086/streams/189_.m3u8
+
+#EXTINF:-1 tvg-name="HBO POP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbopopb.png" group-title="[ALT 1] FILMES E SERIES", [ALT 1] HBO POP HD
+http://199.127.62.234:2086/streams/183_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] HBO Signature 4K
+http://199.127.62.234:2086/streams/192_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] HBO Signature HD
+http://199.127.62.234:2086/streams/191_.m3u8
+
+#EXTINF:-1 tvg-name="HBO XTREME" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png" group-title="[ALT 1] FILMES E SERIES", [ALT 1] HBO XTREME HD
+http://199.127.62.234:2086/streams/197_.m3u8
+
+#EXTINF:-1 tvg-name="History 2" tvg-logo="https://i.ibb.co/b6w6MWr/h2.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] History 2 HD
+http://199.127.62.234:2086/streams/223_.m3u8
+
+#EXTINF:-1 tvg-name="History" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png Documentario" group-title="[ALT 1] FILMES E SERIES", [ALT 1] History 4K
+http://199.127.62.234:2086/streams/115_.m3u8
+
+#EXTINF:-1 tvg-name="History" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png Documentario" group-title="[ALT 1] FILMES E SERIES", [ALT 1] History HD
+http://199.127.62.234:2086/streams/114_.m3u8
+
+#EXTINF:-1 tvg-name="Megapix" tvg-logo="https://i.ibb.co/Vtq0pNb/megapixb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Megapix HD
+http://199.127.62.234:2086/streams/171_.m3u8
+
+#EXTINF:-1 tvg-name="Paramount" tvg-logo="https://i.ibb.co/D9Lc0JL/paramount.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Paramount HD
+http://199.127.62.234:2086/streams/172_.m3u8
+
+#EXTINF:-1 tvg-name="Sony" tvg-logo="https://i.ibb.co/rFxKrFQ/sony.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Sony HD
+http://199.127.62.234:2086/streams/160_.m3u8
+
+#EXTINF:-1 tvg-name="Space" tvg-logo="https://i.ibb.co/6wYLB5f/space.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Space HD
+http://199.127.62.234:2086/streams/200_.m3u8
+
+#EXTINF:-1 tvg-name="Syfy" tvg-logo="https://i.ibb.co/3pc26zL/syfy2018.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Syfy HD
+http://199.127.62.234:2086/streams/174_.m3u8
+
+#EXTINF:-1 tvg-name="TCM" tvg-logo="https://i.ibb.co/jgP3J7r/tcm.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] TCM HD
+http://199.127.62.234:2086/streams/201_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Action" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Telecine Action 4K
+http://199.127.62.234:2086/streams/214_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Action" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Telecine Action HD
+http://199.127.62.234:2086/streams/213_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Cult" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Telecine Cult 4K
+http://199.127.62.234:2086/streams/203_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Cult" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Telecine Cult HD
+http://199.127.62.234:2086/streams/203_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Fun" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Telecine Fun 4K[LEG]
+http://199.127.62.234:2086/streams/205_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Fun" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Telecine Fun 4K
+http://199.127.62.234:2086/streams/206_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Telecine Pipoca 4K
+http://199.127.62.234:2086/streams/208_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Telecine Pipoca HD
+http://199.127.62.234:2086/streams/207_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Premium" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Telecine Premium 4K
+http://199.127.62.234:2086/streams/210_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Premium" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Telecine Premium HD
+http://199.127.62.234:2086/streams/209_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Touch" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Telecine Touch 4K
+http://199.127.62.234:2086/streams/212_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Touch" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Telecine Touch HD
+http://199.127.62.234:2086/streams/211_.m3u8
+
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://i.ibb.co/BLmwXmN/tnt.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] TNT HD
+http://199.127.62.234:2086/streams/202_.m3u8
+
+#EXTINF:-1 tvg-name="TNT Series" tvg-logo="https://i.ibb.co/KVMQPWv/tntseries.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] TNT Series 4K
+http://199.127.62.234:2086/streams/176_.m3u8
+
+#EXTINF:-1 tvg-name="TNT Series" tvg-logo="https://i.ibb.co/KVMQPWv/tntseries.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] TNT Series HD
+http://199.127.62.234:2086/streams/176_.m3u8
+
+#EXTINF:-1 tvg-name="TV Universal" tvg-logo="https://i.ibb.co/Kq2pHp3/universaltv.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] TV Universal HD
+http://199.127.62.234:2086/streams/178_.m3u8
+
+#EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Warner Channel 4K
+http://199.127.62.234:2086/streams/180_.m3u8
+
+#EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png Filme e Serie" group-title="[ALT 1] FILMES E SERIES", [ALT 1] Warner Channel HD
+http://199.127.62.234:2086/streams/179_.m3u8
+
+#EXTINF:-1 tvg-name="Band" tvg-logo="https://i.ibb.co/pWdRD7J/band.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] Band 4K
+http://199.127.62.234:2086/streams/13_.m3u8
+
+#EXTINF:-1 tvg-name="Band" tvg-logo="https://i.ibb.co/pWdRD7J/band.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] Band HD
+http://199.127.62.234:2086/streams/13_.m3u8
+
+#EXTINF:-1 tvg-name="Canal Brasil" tvg-logo="https://i.ibb.co/dGDgcDc/canalbrasilb.png Filme e Serie" group-title="[ALT 1] CANAL ABERTO", [ALT 1] Canal Brasil HD
+http://199.127.62.234:2086/streams/15_.m3u8
+
+#EXTINF:-1 tvg-name="Canal Rural" tvg-logo="https://i.ibb.co/fxWk6Mh/canalruralb.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] Canal Rural HD
+http://199.127.62.234:2086/streams/17_.m3u8
+
+#EXTINF:-1 tvg-name="Cultura HD" tvg-logo="https://i.ibb.co/CvvkxnR/tvcultura.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] Cultura 4K
+http://199.127.62.234:2086/streams/20_.m3u8
+
+#EXTINF:-1 tvg-name="Cultura" tvg-logo="https://i.ibb.co/CvvkxnR/tvcultura.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] Cultura HD
+http://199.127.62.234:2086/streams/19_.m3u8
+
+#EXTINF:-1 tvg-name="Globo SP" tvg-logo="https://i.ibb.co/kxdMkfw/globosp.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] Globo 4K
+http://199.127.62.234:2086/streams/25_.m3u8
+#EXTINF:-1 tvg-name="Globo RBS" tvg-logo="http://ageniusapp.cc:8099/brlogo/Globo_Porto_Alegre_FHD.png" group-title="[ALT 1] CANAL ABERTO", [ALT 1] Globo RBS 4K
+http://199.127.62.234:2086/streams/259_.m3u8
+
+
+#EXTINF:-1 tvg-name="Globo Rio" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] Globo HD
+http://199.127.62.234:2086/streams/22_.m3u8
+
+#EXTINF:-1 tvg-name="Globo Rio" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] Globo RJ HD
+http://xcui.vitvabc.xyz:8880/XC_Brazil00004611/25366262/24042
+
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] Record 4K
+http://199.127.62.234:2086/streams/30_.m3u8
+
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] Record HD
+http://199.127.62.234:2086/streams/29_.m3u8
+
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] Record RJ
+http://xcui.vitvabc.xyz:8880/XC_Brazil00004611/25366262/15980
+
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] Record RJ HD
+http://xcui.vitvabc.xyz:8880/erbc1790840/369804/15980
+
+#EXTINF:-1 tvg-name="RedeTV!" tvg-logo="https://i.ibb.co/wR1cmgM/redetv.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] RedeTV! 4K
+http://199.127.62.234:2086/streams/34_.m3u8
+
+#EXTINF:-1 tvg-name="RedeTV!" tvg-logo="https://i.ibb.co/wR1cmgM/redetv.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] RedeTV! HD
+http://199.127.62.234:2086/streams/33_.m3u8
+
+#EXTINF:-1 tvg-name="SBT" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] SBT 4K
+http://199.127.62.234:2086/streams/37_.m3u8
+
+#EXTINF:-1 tvg-name="SBT" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] SBT HD
+http://199.127.62.234:2086/streams/37_.m3u8
+
+#EXTINF:-1 tvg-name="TV Aparecida" tvg-logo="https://i.ibb.co/8xkPXfn/tvaparecida.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] TV Aparecida HD
+http://199.127.62.234:2086/streams/38_.m3u8
+
+#EXTINF:-1 tvg-name="TV Brasil" tvg-logo="https://i.ibb.co/PgcdPNt/tvbrasil.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] TV Brasil 4K
+http://199.127.62.234:2086/streams/40_.m3u8
+
+#EXTINF:-1 tvg-name="TV Justica" tvg-logo="https://i.ibb.co/58Yvjj2/tvjustica.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] TV Justica HD
+http://199.127.62.234:2086/streams/42_.m3u8
+
+#EXTINF:-1 tvg-name="TV Brasil" tvg-logo="https://i.ibb.co/PgcdPNt/tvbrasil.png TV Aberta" group-title="[ALT 1] CANAL ABERTO", [ALT 1] TV Brasil HD
+http://199.127.62.234:2086/streams/39_.m3u8
+
+#EXTINF:-1 tvg-name="TV Ratimbum" tvg-logo="https://i.ibb.co/GvYCgHy/tvratimbum.png Infantil" group-title="[ALT 1] CANAL ABERTO", [ALT 1] TV Ratimbum HD
+http://199.127.62.234:2086/streams/136_.m3u8
+
+#EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://i.ibb.co/t8H0fk0/bandsports.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] Band Sports HD
+http://199.127.62.234:2086/streams/46_.m3u8
+
+#EXTINF:-1 tvg-name="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] Combate 4K
+http://199.127.62.234:2086/streams/49_.m3u8
+
+#EXTINF:-1 tvg-name="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] Combate HD
+http://199.127.62.234:2086/streams/49_.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="[ALT 1] ESPORTES", [ALT 1] ESPN 2 HD
+http://199.127.62.234:2086/streams/241_.m3u8
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png Infantil" group-title="[ALT 1] ESPORTES", [ALT 1] ESPN 4K
+http://199.127.62.234:2086/streams/52_.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png Infantil" group-title="[ALT 1] ESPORTES", [ALT 1] ESPN Brasil HD
+http://199.127.62.234:2086/streams/53_.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Extra" tvg-logo="https://i.ibb.co/QbCjwYR/espnextra.png Infantil" group-title="[ALT 1] ESPORTES", [ALT 1] ESPN Extra HD
+http://199.127.62.234:2086/streams/50_.m3u8
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png Infantil" group-title="[ALT 1] ESPORTES", [ALT 1] ESPN HD
+http://199.127.62.234:2086/streams/51_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://i.ibb.co/mtBgHht/foxsports2.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] Fox Sports 2 HD
+http://199.127.62.234:2086/streams/57_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports" tvg-logo="https://i.ibb.co/sPwqG58/foxsports.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] Fox Sports HD
+http://199.127.62.234:2086/streams/56_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 2" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] Premiere 2 HD
+http://199.127.62.234:2086/streams/63_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 3" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] Premiere 3 HD
+http://199.127.62.234:2086/streams/64_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 4" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] Premiere 4 HD
+http://199.127.62.234:2086/streams/65_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 5" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] Premiere 5 HD
+http://199.127.62.234:2086/streams/66_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 6" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] Premiere 6 HD
+http://199.127.62.234:2086/streams/67_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 7" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] Premiere 7 HD
+http://199.127.62.234:2086/streams/68_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 8" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] Premiere 8 HD
+http://199.127.62.234:2086/streams/69_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere Clubes" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] Premiere Clubes 4K
+http://199.127.62.234:2086/streams/62_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere Clubes" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] Premiere Clubes HD
+http://199.127.62.234:2086/streams/61_.m3u8
+
+#EXTINF:-1 tvg-name="SporTV 2" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] SporTV 2 HD
+http://199.127.62.234:2086/streams/72_.m3u8
+
+#EXTINF:-1 tvg-name="SporTV 3" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] SporTV 3 HD
+http://199.127.62.234:2086/streams/74_.m3u8
+
+#EXTINF:-1 tvg-name="SporTV" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] SporTV 4K
+http://199.127.62.234:2086/streams/71_.m3u8
+
+#EXTINF:-1 tvg-name="SporTV" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png Esporte" group-title="[ALT 1] ESPORTES", [ALT 1] SporTV HD
+http://199.127.62.234:2086/streams/70_.m3u8
+
+#EXTINF:-1 tvg-name="Band News" tvg-logo="https://i.ibb.co/tHgNtbw/bandnews.png Noticia" group-title="[ALT 1] NOTICIAS", [ALT 1] Band News 4K
+http://199.127.62.234:2086/streams/85_.m3u8
+
+#EXTINF:-1 tvg-name="Band News" tvg-logo="https://i.ibb.co/tHgNtbw/bandnews.png Noticia" group-title="[ALT 1] NOTICIAS", [ALT 1] Band News HD
+http://199.127.62.234:2086/streams/85_.m3u8
+
+#EXTINF:-1 tvg-name="Canal Brasil" tvg-logo="https://i.ibb.co/dGDgcDc/canalbrasilb.png Filme e Serie" group-title="[ALT 1] NOTICIAS", [ALT 1] Canal Brasil HD
+http://199.127.62.234:2086/streams/15_.m3u8
+
+#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="[ALT 1] NOTICIAS", [ALT 1] CNN Brasil HD
+http://199.127.62.234:2086/streams/240_.m3u8
+
+#EXTINF:-1 tvg-name="GloboNews" tvg-logo="https://i.ibb.co/Y0zj4xn/globonews.png Noticia" group-title="[ALT 1] NOTICIAS", [ALT 1] GloboNews HD
+http://199.127.62.234:2086/streams/84_.m3u8
+
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://i.ibb.co/yfscShb/babytv.png Infantil" group-title="[ALT 1] INFANTIL", [ALT 1] Baby TV 4K
+http://199.127.62.234:2086/streams/126_.m3u8
+
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://i.ibb.co/yfscShb/babytv.png Infantil" group-title="[ALT 1] INFANTIL", [ALT 1] Baby TV HD
+http://199.127.62.234:2086/streams/126_.m3u8
+
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png Infantil" group-title="[ALT 1] INFANTIL", [ALT 1] Boomerang 4K
+http://199.127.62.234:2086/streams/127_.m3u8
+
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png Infantil" group-title="[ALT 1] INFANTIL", [ALT 1] Boomerang HD
+http://199.127.62.234:2086/streams/127_.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png Infantil" group-title="[ALT 1] INFANTIL", [ALT 1] Cartoon Network 4K
+http://199.127.62.234:2086/streams/128_.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png Infantil" group-title="[ALT 1] INFANTIL", [ALT 1] Cartoon Network HD
+http://199.127.62.234:2086/streams/128_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png Infantil" group-title="[ALT 1] INFANTIL", [ALT 1] Discovery Kids HD
+http://199.127.62.234:2086/streams/138_.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png Infantil" group-title="[ALT 1] INFANTIL", [ALT 1] Disney Channel HD
+http://199.127.62.234:2086/streams/129_.m3u8
+
+#EXTINF:-1 tvg-name="Disney JR" tvg-logo="https://i.ibb.co/0MBKmFY/disneyjuniorb.png Infantil" group-title="[ALT 1] INFANTIL", [ALT 1] Disney JR HD
+http://199.127.62.234:2086/streams/130_.m3u8
+
+#EXTINF:-1 tvg-name="Gloob" tvg-logo="https://i.ibb.co/MSnGHZL/gloob.png Infantil" group-title="[ALT 1] INFANTIL", [ALT 1] Gloob 4K
+http://199.127.62.234:2086/streams/133_.m3u8
+
+#EXTINF:-1 tvg-name="Gloob" tvg-logo="https://i.ibb.co/MSnGHZL/gloob.png Infantil" group-title="[ALT 1] INFANTIL", [ALT 1] Gloob HD
+http://199.127.62.234:2086/streams/132_.m3u8
+
+#EXTINF:-1 tvg-name="NatGeo Kids" tvg-logo="https://i.ibb.co/m86jr31/natgeokids.png Infantil" group-title="[ALT 1] INFANTIL", [ALT 1] NatGeo Kids HD
+http://199.127.62.234:2086/streams/134_.m3u8
+
+#EXTINF:-1 tvg-name="Nick Jr." tvg-logo="https://i.ibb.co/nn5x9pD/nickjr.png Infantil" group-title="[ALT 1] INFANTIL", [ALT 1] Nick Jr. HD
+http://199.127.62.234:2086/streams/139_.m3u8
+
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png Infantil" group-title="[ALT 1] INFANTIL", [ALT 1] Nickelodeon HD
+http://199.127.62.234:2086/streams/135_.m3u8
+
+#EXTINF:-1 tvg-name="Tooncast" tvg-logo="https://i.ibb.co/9YDb4fW/tooncast.png Infantil" group-title="[ALT 1] INFANTIL", [ALT 1] Tooncast 4K
+http://199.127.62.234:2086/streams/222_.m3u8
+
+#EXTINF:-1 tvg-name="Tooncast" tvg-logo="https://i.ibb.co/9YDb4fW/tooncast.png Infantil" group-title="[ALT 1] INFANTIL", [ALT 1] Tooncast HD
+http://199.127.62.234:2086/streams/222_.m3u8
+
+#EXTINF:-1 tvg-name="TV Ratimbum" tvg-logo="https://i.ibb.co/GvYCgHy/tvratimbum.png Infantil" group-title="[ALT 1] INFANTIL", [ALT 1] TV Ratimbum HD
+http://199.127.62.234:2086/streams/136_.m3u8
+
+#EXTINF:-1 tvg-name="Animal Planet FHD" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png Documentario" group-title="[ALT 1] 4K", [ALT 1] Animal Planet 4K
+http://199.127.62.234:2086/streams/99_.m3u8
+
+#EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://i.ibb.co/QNkBQc6/arte1.png Variedade" group-title="[ALT 1] 4K", [ALT 1] Arte 1 4K
+http://199.127.62.234:2086/streams/147_.m3u8
+
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://i.ibb.co/stn1js5/axnb.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] AXN 4K
+http://199.127.62.234:2086/streams/181_.m3u8
+
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://i.ibb.co/yfscShb/babytv.png Infantil" group-title="[ALT 1] 4K", [ALT 1] Baby TV 4K
+http://199.127.62.234:2086/streams/126_.m3u8
+
+#EXTINF:-1 tvg-name="Band" tvg-logo="https://i.ibb.co/pWdRD7J/band.png TV Aberta" group-title="[ALT 1] 4K", [ALT 1] Band 4K
+http://199.127.62.234:2086/streams/13_.m3u8
+
+#EXTINF:-1 tvg-name="Band News" tvg-logo="https://i.ibb.co/tHgNtbw/bandnews.png Noticia" group-title="[ALT 1] 4K", [ALT 1] Band News 4K
+http://199.127.62.234:2086/streams/85_.m3u8
+
+#EXTINF:-1 tvg-name="BIS" tvg-logo="https://i.ibb.co/B2DbLdN/bis.png Entretenimento e Musica" group-title="[ALT 1] 4K", [ALT 1] BIS 4K
+http://199.127.62.234:2086/streams/140_.m3u8
+
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png Infantil" group-title="[ALT 1] 4K", [ALT 1] Boomerang 4K
+http://199.127.62.234:2086/streams/127_.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png Infantil" group-title="[ALT 1] 4K", [ALT 1] Cartoon Network 4K
+http://199.127.62.234:2086/streams/128_.m3u8
+
+#EXTINF:-1 tvg-name="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png Esporte" group-title="[ALT 1] 4K", [ALT 1] Combate 4K
+http://199.127.62.234:2086/streams/49_.m3u8
+
+#EXTINF:-1 tvg-name="Comedy Central FHD" tvg-logo="https://i.ibb.co/Jxy45YQ/comedycentralb.png Entretenimento" group-title="[ALT 1] 4K", [ALT 1] Comedy Central 4K
+http://199.127.62.234:2086/streams/149_.m3u8
+
+#EXTINF:-1 tvg-name="Cultura HD" tvg-logo="https://i.ibb.co/CvvkxnR/tvcultura.png TV Aberta" group-title="[ALT 1] 4K", [ALT 1] Cultura 4K
+http://199.127.62.234:2086/streams/20_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png Documentario" group-title="[ALT 1] 4K", [ALT 1] Discovery Channel 4K
+http://199.127.62.234:2086/streams/103_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://i.ibb.co/LkFmVss/discoveryturbob.png Documentario" group-title="[ALT 1] 4K", [ALT 1] Discovery Turbo 4K
+http://199.127.62.234:2086/streams/107_.m3u8
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png Infantil" group-title="[ALT 1] 4K", [ALT 1] ESPN 4K
+http://199.127.62.234:2086/streams/52_.m3u8
+
+#EXTINF:-1 tvg-name="Fox FHD" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] Fox 4K
+http://199.127.62.234:2086/streams/162_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Life FHD" tvg-logo="https://i.ibb.co/Z6hgvP7/foxlifeb.png Entretenimento" group-title="[ALT 1] 4K", [ALT 1] Fox Life 4K
+http://199.127.62.234:2086/streams/164_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Premium 1 HD" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] Fox Premium 1 4K
+http://199.127.62.234:2086/streams/166_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Premium 2 HD" tvg-logo="https://i.ibb.co/ygC4V8r/foxpremium2b.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] Fox Premium 2 4K
+http://199.127.62.234:2086/streams/168_.m3u8
+
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] FX 4K
+http://199.127.62.234:2086/streams/113_.m3u8
+
+#EXTINF:-1 tvg-name="Globo SP" tvg-logo="https://i.ibb.co/kxdMkfw/globosp.png TV Aberta" group-title="[ALT 1] 4K", [ALT 1] Globo 4K
+http://199.127.62.234:2086/streams/25_.m3u8
+
+#EXTINF:-1 tvg-name="Gloob" tvg-logo="https://i.ibb.co/MSnGHZL/gloob.png Infantil" group-title="[ALT 1] 4K", [ALT 1] Gloob 4K
+http://199.127.62.234:2086/streams/133_.m3u8
+
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] HBO 2 4K
+http://199.127.62.234:2086/streams/188_.m3u8
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] HBO 4K
+http://199.127.62.234:2086/streams/186_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] HBO Family 4K
+http://199.127.62.234:2086/streams/194_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="[ALT 1] 4K", [ALT 1] HBO MUNDI 4K
+http://199.127.62.234:2086/streams/196_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] HBO Plus 4K
+http://199.127.62.234:2086/streams/190_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] HBO Signature 4K
+http://199.127.62.234:2086/streams/192_.m3u8
+
+#EXTINF:-1 tvg-name="History" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png Documentario" group-title="[ALT 1] 4K", [ALT 1] History 4K
+http://199.127.62.234:2086/streams/115_.m3u8
+
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://i.ibb.co/W5VwW2N/mtvb.png Entretenimento e Musica" group-title="[ALT 1] 4K", [ALT 1] MTV EUA 4K
+http://199.127.62.234:2086/streams/142_.m3u8
+
+#EXTINF:-1 tvg-name="Natgeo Wild" tvg-logo="https://i.ibb.co/HCQCNbY/natgeowild.png Documentario" group-title="[ALT 1] 4K", [ALT 1] Natgeo Wild 4K
+http://199.127.62.234:2086/streams/119_.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://i.ibb.co/q1gGdrD/natgeo.png Documentario" group-title="[ALT 1] 4K", [ALT 1] National Geographic 4K
+http://199.127.62.234:2086/streams/118_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere Clubes" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] 4K", [ALT 1] Premiere Clubes 4K
+http://199.127.62.234:2086/streams/62_.m3u8
+
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png TV Aberta" group-title="[ALT 1] 4K", [ALT 1] Record 4K
+http://199.127.62.234:2086/streams/30_.m3u8
+
+#EXTINF:-1 tvg-name="RedeTV!" tvg-logo="https://i.ibb.co/wR1cmgM/redetv.png TV Aberta" group-title="[ALT 1] 4K", [ALT 1] RedeTV! 4K
+http://199.127.62.234:2086/streams/34_.m3u8
+
+#EXTINF:-1 tvg-name="SBT" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png TV Aberta" group-title="[ALT 1] 4K", [ALT 1] SBT 4K
+http://199.127.62.234:2086/streams/37_.m3u8
+
+#EXTINF:-1 tvg-name="SporTV 2" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png Esporte" group-title="[ALT 1] 4K", [ALT 1] SporTV 2 4K
+http://199.127.62.234:2086/streams/73_.m3u8
+
+#EXTINF:-1 tvg-name="SporTV" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png Esporte" group-title="[ALT 1] 4K", [ALT 1] SporTV 4K
+http://199.127.62.234:2086/streams/71_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Action" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] Telecine Action 4K
+http://199.127.62.234:2086/streams/214_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Cult" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] Telecine Cult 4K
+http://199.127.62.234:2086/streams/203_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Fun" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] Telecine Fun 4K
+http://199.127.62.234:2086/streams/205_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] Telecine Pipoca 4K
+http://199.127.62.234:2086/streams/208_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Premium" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] Telecine Premium 4K
+http://199.127.62.234:2086/streams/210_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Touch" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] Telecine Touch 4K
+http://199.127.62.234:2086/streams/212_.m3u8
+
+#EXTINF:-1 tvg-name="TNT Series" tvg-logo="https://i.ibb.co/KVMQPWv/tntseries.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] TNT Series 4K
+http://199.127.62.234:2086/streams/176_.m3u8
+
+#EXTINF:-1 tvg-name="Tooncast" tvg-logo="https://i.ibb.co/9YDb4fW/tooncast.png Infantil" group-title="[ALT 1] 4K", [ALT 1] Tooncast 4K
+http://199.127.62.234:2086/streams/222_.m3u8
+
+#EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png Filme e Serie" group-title="[ALT 1] 4K", [ALT 1] Warner Channel 4K
+http://199.127.62.234:2086/streams/180_.m3u8
+
+#EXTINF:-1 tvg-name="Woohoo" tvg-logo="https://i.ibb.co/rvT7WT5/woohoo.png Variedade" group-title="[ALT 1] 4K", [ALT 1] Woohoo 4K
+http://199.127.62.234:2086/streams/154_.m3u8
+
+#EXTINF:-1 tvg-name="Zoomoo HD" tvg-logo="https://i.ibb.co/XL5sJVf/zoomoo.png Infantil" group-title="[ALT 1] 4K", [ALT 1] Zoomoo 4K
+http://199.127.62.234:2086/streams/137_.m3u8
+
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] AMC HD
+http://199.127.62.234:2086/streams/158_.m3u8
+
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png Documentario" group-title="[ALT 1] HD", [ALT 1] Animal Planet HD
+http://199.127.62.234:2086/streams/98_.m3u8
+
+#EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://i.ibb.co/QNkBQc6/arte1.png Variedade" group-title="[ALT 1] HD", [ALT 1] Arte 1 HD
+http://199.127.62.234:2086/streams/147_.m3u8
+
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://i.ibb.co/stn1js5/axnb.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] AXN HD
+http://199.127.62.234:2086/streams/181_.m3u8
+
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://i.ibb.co/yfscShb/babytv.png Infantil" group-title="[ALT 1] HD", [ALT 1] Baby TV HD
+http://199.127.62.234:2086/streams/126_.m3u8
+
+#EXTINF:-1 tvg-name="Band" tvg-logo="https://i.ibb.co/pWdRD7J/band.png TV Aberta" group-title="[ALT 1] HD", [ALT 1] Band HD
+http://199.127.62.234:2086/streams/13_.m3u8
+
+#EXTINF:-1 tvg-name="Band News" tvg-logo="https://i.ibb.co/tHgNtbw/bandnews.png Noticia" group-title="[ALT 1] HD", [ALT 1] Band News HD
+http://199.127.62.234:2086/streams/85_.m3u8
+
+#EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://i.ibb.co/t8H0fk0/bandsports.png Esporte" group-title="[ALT 1] HD", [ALT 1] Band Sports HD
+http://199.127.62.234:2086/streams/46_.m3u8
+
+#EXTINF:-1 tvg-name="BIS" tvg-logo="https://i.ibb.co/B2DbLdN/bis.png Entretenimento e Musica" group-title="[ALT 1] HD", [ALT 1] BIS HD
+http://199.127.62.234:2086/streams/140_.m3u8
+
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png Infantil" group-title="[ALT 1] HD", [ALT 1] Boomerang HD
+http://199.127.62.234:2086/streams/127_.m3u8
+
+#EXTINF:-1 tvg-name="Canal Brasil" tvg-logo="https://i.ibb.co/dGDgcDc/canalbrasilb.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Canal Brasil HD
+http://199.127.62.234:2086/streams/15_.m3u8
+
+#EXTINF:-1 tvg-name="Canal Rural" tvg-logo="https://i.ibb.co/fxWk6Mh/canalruralb.png TV Aberta" group-title="[ALT 1] HD", [ALT 1] Canal Rural HD
+http://199.127.62.234:2086/streams/17_.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png Infantil" group-title="[ALT 1] HD", [ALT 1] Cartoon Network HD
+http://199.127.62.234:2086/streams/128_.m3u8
+
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://i.ibb.co/qCx1SLY/cinemax.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Cinemax HD
+http://199.127.62.234:2086/streams/242_.m3u8
+
+#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="[ALT 1] HD", [ALT 1] CNN Brasil HD
+http://199.127.62.234:2086/streams/240_.m3u8
+
+#EXTINF:-1 tvg-name="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png Esporte" group-title="[ALT 1] HD", [ALT 1] Combate HD
+http://199.127.62.234:2086/streams/49_.m3u8
+
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://i.ibb.co/Jxy45YQ/comedycentralb.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Comedy Central HD
+http://199.127.62.234:2086/streams/148_.m3u8
+
+#EXTINF:-1 tvg-name="Cultura" tvg-logo="https://i.ibb.co/CvvkxnR/tvcultura.png TV Aberta" group-title="[ALT 1] HD", [ALT 1] Cultura HD
+http://199.127.62.234:2086/streams/19_.m3u8
+
+#EXTINF:-1 tvg-name="Curta" tvg-logo="https://i.ibb.co/YRKtq0s/curta.png Variedade" group-title="[ALT 1] HD", [ALT 1] Curta! HD
+http://199.127.62.234:2086/streams/20_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png Documentario" group-title="[ALT 1] HD", [ALT 1] Discovery Channel HD
+http://199.127.62.234:2086/streams/102_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://i.ibb.co/cJwdX8C/discoveryscienceb.png Documentario" group-title="[ALT 1] HD", [ALT 1] Discovery Science HD
+http://199.127.62.234:2086/streams/121_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="https://i.ibb.co/z2JDsg0/discoverytheater.png Documentario" group-title="[ALT 1] HD", [ALT 1] Discovery Theater HD
+http://199.127.62.234:2086/streams/104_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://i.ibb.co/LkFmVss/discoveryturbob.png Documentario" group-title="[ALT 1] HD", [ALT 1] Discovery Turbo HD
+http://199.127.62.234:2086/streams/106_.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png Infantil" group-title="[ALT 1] HD", [ALT 1] Disney Channel HD
+http://199.127.62.234:2086/streams/129_.m3u8
+
+#EXTINF:-1 tvg-name="Disney XD" tvg-logo="https://i.ibb.co/KqXhhC2/disneyxd.png Infantil" group-title="[ALT 1] HD", [ALT 1] Disney XD HD
+http://199.127.62.234:2086/streams/131_.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="[ALT 1] HD", [ALT 1] ESPN 2 HD
+http://199.127.62.234:2086/streams/241_.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png Infantil" group-title="[ALT 1] HD", [ALT 1] ESPN Brasil HD
+http://199.127.62.234:2086/streams/53_.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png Infantil" group-title="[ALT 1] HD", [ALT 1] ESPN Brasil HD
+http://199.127.62.234:2086/streams/54_.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Extra" tvg-logo="https://i.ibb.co/QbCjwYR/espnextra.png Infantil" group-title="[ALT 1] HD", [ALT 1] ESPN Extra HD
+http://199.127.62.234:2086/streams/50_.m3u8
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png Infantil" group-title="[ALT 1] HD", [ALT 1] ESPN HD
+http://199.127.62.234:2086/streams/51_.m3u8
+
+#EXTINF:-1 tvg-name="Fish TV" tvg-logo="https://i.ibb.co/3mqnQx2/fishtv.png Variedade" group-title="[ALT 1] HD", [ALT 1] Fish TV HD
+http://199.127.62.234:2086/streams/109_.m3u8
+
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://i.ibb.co/wS6TzSk/foodnetwork.png Variedade" group-title="[ALT 1] HD", [ALT 1] Food Network HD
+http://199.127.62.234:2086/streams/111_.m3u8
+
+#EXTINF:-1 tvg-name="Fox" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Fox HD
+http://199.127.62.234:2086/streams/161_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Life" tvg-logo="https://i.ibb.co/Z6hgvP7/foxlifeb.png Variedade" group-title="[ALT 1] HD", [ALT 1] Fox Life HD
+http://199.127.62.234:2086/streams/163_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Premium 1 HD" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Fox Premium 1 HD
+http://199.127.62.234:2086/streams/165_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Premium 2 HD" tvg-logo="https://i.ibb.co/ygC4V8r/foxpremium2b.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Fox Premium 2 HD
+http://199.127.62.234:2086/streams/167_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports" tvg-logo="https://i.ibb.co/sPwqG58/foxsports.png Esporte" group-title="[ALT 1] HD", [ALT 1] Fox Sports HD
+http://199.127.62.234:2086/streams/56_.m3u8
+
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] FX HD
+http://199.127.62.234:2086/streams/112_.m3u8
+
+#EXTINF:-1 tvg-name="Globo Rio" tvg-logo="https://i.ibb.co/dcFy14L/globosp.png TV Aberta" group-title="[ALT 1] HD", [ALT 1] Globo HD
+http://199.127.62.234:2086/streams/22_.m3u8
+
+#EXTINF:-1 tvg-name="Globo Rio" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png TV Aberta" group-title="[ALT 1] HD", [ALT 1] Globo RJ HD
+http://xcui.vitvabc.xyz:8880/XC_Brazil00004611/25366262/24042
+
+#EXTINF:-1 tvg-name="GloboNews" tvg-logo="https://i.ibb.co/Y0zj4xn/globonews.png Noticia" group-title="[ALT 1] HD", [ALT 1] GloboNews HD
+http://199.127.62.234:2086/streams/84_.m3u8
+
+#EXTINF:-1 tvg-name="Gloob" tvg-logo="https://i.ibb.co/MSnGHZL/gloob.png Infantil" group-title="[ALT 1] HD", [ALT 1] Gloob HD
+http://199.127.62.234:2086/streams/132_.m3u8
+
+#EXTINF:-1 tvg-name="GNT" tvg-logo="https://i.ibb.co/DDW7Xcz/gnt.png Variedade" group-title="[ALT 1] HD", [ALT 1] GNT HD
+http://199.127.62.234:2086/streams/150_.m3u8
+
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] HBO 2 HD
+http://199.127.62.234:2086/streams/187_.m3u8
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] HBO HD
+http://199.127.62.234:2086/streams/185_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="[ALT 1] HD", [ALT 1] HBO MUNDI HD
+http://199.127.62.234:2086/streams/195_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] HBO Plus HD
+http://199.127.62.234:2086/streams/189_.m3u8
+
+#EXTINF:-1 tvg-name="HBO POP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbopopb.png" group-title="[ALT 1] HD", [ALT 1] HBO POP HD
+http://199.127.62.234:2086/streams/183_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] HBO Signature HD
+http://199.127.62.234:2086/streams/191_.m3u8
+
+#EXTINF:-1 tvg-name="HBO XTREME" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png" group-title="[ALT 1] HD", [ALT 1] HBO XTREME HD
+http://199.127.62.234:2086/streams/197_.m3u8
+
+#EXTINF:-1 tvg-name="History 2" tvg-logo="https://i.ibb.co/b6w6MWr/h2.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] History 2 HD
+http://199.127.62.234:2086/streams/223_.m3u8
+
+#EXTINF:-1 tvg-name="History" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png Documentario" group-title="[ALT 1] HD", [ALT 1] History HD
+http://199.127.62.234:2086/streams/114_.m3u8
+
+#EXTINF:-1 tvg-name="ID" tvg-logo="https://i.ibb.co/GkCFcmY/investigationb.png Documentario" group-title="[ALT 1] HD", [ALT 1] ID HD
+http://199.127.62.234:2086/streams/116_.m3u8
+
+#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://i.ibb.co/5rp1PW0/lifetime.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Lifetime HD
+http://199.127.62.234:2086/streams/169_.m3u8
+
+#EXTINF:-1 tvg-name="Mais Globosat" tvg-logo="https://i.ibb.co/tsRJmPR/maisglobosatb.png Variedade" group-title="[ALT 1] HD", [ALT 1] Mais Globosat HD
+http://199.127.62.234:2086/streams/151_.m3u8
+
+#EXTINF:-1 tvg-name="Megapix" tvg-logo="https://i.ibb.co/Vtq0pNb/megapixb.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Megapix HD
+http://199.127.62.234:2086/streams/171_.m3u8
+
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://i.ibb.co/W5VwW2N/mtvb.png Entretenimento e Musica" group-title="[ALT 1] HD", [ALT 1] MTV HD
+http://199.127.62.234:2086/streams/141_.m3u8
+
+#EXTINF:-1 tvg-name="Multishow" tvg-logo="https://i.ibb.co/R0nqMq0/multishow.png Entretenimento e Musica" group-title="[ALT 1] HD", [ALT 1] Multishow HD
+http://199.127.62.234:2086/streams/143_.m3u8
+
+#EXTINF:-1 tvg-name="NatGeo Kids" tvg-logo="https://i.ibb.co/m86jr31/natgeokids.png Infantil" group-title="[ALT 1] HD", [ALT 1] NatGeo Kids HD
+http://199.127.62.234:2086/streams/134_.m3u8
+
+#EXTINF:-1 tvg-name="Natgeo Wild" tvg-logo="https://i.ibb.co/HCQCNbY/natgeowild.png Documentario" group-title="[ALT 1] HD", [ALT 1] Natgeo Wild HD
+http://199.127.62.234:2086/streams/119_.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://i.ibb.co/q1gGdrD/natgeo.png Documentario" group-title="[ALT 1] HD", [ALT 1] National Geographic HD
+http://199.127.62.234:2086/streams/117_.m3u8
+
+#EXTINF:-1 tvg-name="Nick Jr." tvg-logo="https://i.ibb.co/nn5x9pD/nickjr.png Infantil" group-title="[ALT 1] HD", [ALT 1] Nick Jr. HD
+http://199.127.62.234:2086/streams/139_.m3u8
+
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png Infantil" group-title="[ALT 1] HD", [ALT 1] Nickelodeon HD
+http://199.127.62.234:2086/streams/135_.m3u8
+
+#EXTINF:-1 tvg-name="Off" tvg-logo="https://i.ibb.co/J23V5yZ/canaloffb.png Variedade e Esporte" group-title="[ALT 1] HD", [ALT 1] Off HD
+http://199.127.62.234:2086/streams/59_.m3u8
+
+#EXTINF:-1 tvg-name="Paramount" tvg-logo="https://i.ibb.co/D9Lc0JL/paramount.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Paramount HD
+http://199.127.62.234:2086/streams/172_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 2" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] HD", [ALT 1] Premiere 2 HD
+http://199.127.62.234:2086/streams/63_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 3" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] HD", [ALT 1] Premiere 3 HD
+http://199.127.62.234:2086/streams/64_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 4" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] HD", [ALT 1] Premiere 4 HD
+http://199.127.62.234:2086/streams/65_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 5" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] HD", [ALT 1] Premiere 5 HD
+http://199.127.62.234:2086/streams/66_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 6" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] HD", [ALT 1] Premiere 6 HD
+http://199.127.62.234:2086/streams/67_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 7" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] HD", [ALT 1] Premiere 7 HD
+http://199.127.62.234:2086/streams/68_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 8" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] HD", [ALT 1] Premiere 8 HD
+http://199.127.62.234:2086/streams/69_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere Clubes" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] HD", [ALT 1] Premiere Clubes HD
+http://199.127.62.234:2086/streams/61_.m3u8
+
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png TV Aberta" group-title="[ALT 1] HD", [ALT 1] Record HD
+http://199.127.62.234:2086/streams/29_.m3u8
+
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png TV Aberta" group-title="[ALT 1] HD", [ALT 1] Record RJ HD
+http://xcui.vitvabc.xyz:8880/XC_Brazil00004611/25366262/15980
+
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png TV Aberta" group-title="[ALT 1] HD", [ALT 1] Record RJ HD*
+http://xcui.vitvabc.xyz:8880/erbc1790840/369804/15980
+
+#EXTINF:-1 tvg-name="Record News" tvg-logo="https://i.ibb.co/gjYJCG8/recordnewsb.png Noticia" group-title="[ALT 1] HD", [ALT 1] Record News HD
+http://199.127.62.234:2086/streams/80_.m3u8
+
+#EXTINF:-1 tvg-name="RedeTV!" tvg-logo="https://i.ibb.co/wR1cmgM/redetv.png TV Aberta" group-title="[ALT 1] HD", [ALT 1] RedeTV! HD
+http://199.127.62.234:2086/streams/33_.m3u8
+
+#EXTINF:-1 tvg-name="SBT" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png TV Aberta" group-title="[ALT 1] HD", [ALT 1] SBT HD
+http://199.127.62.234:2086/streams/37_.m3u8
+
+#EXTINF:-1 tvg-name="Sony" tvg-logo="https://i.ibb.co/rFxKrFQ/sony.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Sony HD
+http://199.127.62.234:2086/streams/160_.m3u8
+
+#EXTINF:-1 tvg-name="Space" tvg-logo="https://i.ibb.co/6wYLB5f/space.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Space HD
+http://199.127.62.234:2086/streams/200_.m3u8
+
+#EXTINF:-1 tvg-name="SporTV 2" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png Esporte" group-title="[ALT 1] HD", [ALT 1] SporTV 2 HD
+http://199.127.62.234:2086/streams/72_.m3u8
+
+#EXTINF:-1 tvg-name="SporTV 3" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png Esporte" group-title="[ALT 1] HD", [ALT 1] SporTV 3 HD
+http://199.127.62.234:2086/streams/74_.m3u8
+
+#EXTINF:-1 tvg-name="SporTV" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png Esporte" group-title="[ALT 1] HD", [ALT 1] SporTV HD
+http://199.127.62.234:2086/streams/70_.m3u8
+
+#EXTINF:-1 tvg-name="Syfy" tvg-logo="https://i.ibb.co/3pc26zL/syfy2018.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Syfy HD
+http://199.127.62.234:2086/streams/174_.m3u8
+
+#EXTINF:-1 tvg-name="TBS" tvg-logo="https://i.ibb.co/kXhr2Cr/tbsb.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] TBS HD
+http://199.127.62.234:2086/streams/175_.m3u8
+
+#EXTINF:-1 tvg-name="TCM" tvg-logo="https://i.ibb.co/jgP3J7r/tcm.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] TCM HD
+http://199.127.62.234:2086/streams/201_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Action" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Telecine Action HD
+http://199.127.62.234:2086/streams/213_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Cult" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Telecine Cult HD
+http://199.127.62.234:2086/streams/203_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Fun" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Telecine Fun HD[LEG]
+http://199.127.62.234:2086/streams/205_.m3u8
+#EXTINF:-1 tvg-name="Telecine Fun" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Telecine Fun HD
+http://199.127.62.234:2086/streams/206_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Telecine Pipoca HD
+http://199.127.62.234:2086/streams/207_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Premium" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Telecine Premium HD
+http://199.127.62.234:2086/streams/209_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Touch" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Telecine Touch HD
+http://199.127.62.234:2086/streams/211_.m3u8
+
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://i.ibb.co/njTvjL1/tlc.png Variedade" group-title="[ALT 1] HD", [ALT 1] TLC HD
+http://199.127.62.234:2086/streams/122_.m3u8
+
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://i.ibb.co/BLmwXmN/tnt.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] TNT HD
+http://199.127.62.234:2086/streams/202_.m3u8
+
+#EXTINF:-1 tvg-name="TNT Series" tvg-logo="https://i.ibb.co/KVMQPWv/tntseries.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] TNT Series HD
+http://199.127.62.234:2086/streams/176_.m3u8
+
+#EXTINF:-1 tvg-name="Tooncast" tvg-logo="https://i.ibb.co/9YDb4fW/tooncast.png Infantil" group-title="[ALT 1] HD", [ALT 1] Tooncast HD
+http://199.127.62.234:2086/streams/222_.m3u8
+
+#EXTINF:-1 tvg-name="TV Aparecida" tvg-logo="https://i.ibb.co/8xkPXfn/tvaparecida.png TV Aberta" group-title="[ALT 1] HD", [ALT 1] TV Aparecida HD
+http://199.127.62.234:2086/streams/38_.m3u8
+
+#EXTINF:-1 tvg-name="TV Brasil" tvg-logo="https://i.ibb.co/PgcdPNt/tvbrasil.png TV Aberta" group-title="[ALT 1] HD", [ALT 1] TV Brasil HD
+http://199.127.62.234:2086/streams/39_.m3u8
+
+#EXTINF:-1 tvg-name="TV Justica" tvg-logo="https://i.ibb.co/58Yvjj2/tvjustica.png TV Aberta" group-title="[ALT 1] HD", [ALT 1] TV Justica HD
+http://199.127.62.234:2086/streams/42_.m3u8
+
+#EXTINF:-1 tvg-name="TV Ratimbum" tvg-logo="https://i.ibb.co/GvYCgHy/tvratimbum.png Infantil" group-title="[ALT 1] HD", [ALT 1] TV Ratimbum HD
+http://199.127.62.234:2086/streams/136_.m3u8
+
+#EXTINF:-1 tvg-name="TV Senado" tvg-logo="https://i.ibb.co/nwtkNYt/tvsenado.png TV Aberta" group-title="[ALT 1] HD", [ALT 1] TV Senado HD
+http://199.127.62.234:2086/streams/44_.m3u8
+
+#EXTINF:-1 tvg-name="TV Universal" tvg-logo="https://i.ibb.co/Kq2pHp3/universaltv.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] TV Universal HD
+http://199.127.62.234:2086/streams/178_.m3u8
+
+#EXTINF:-1 tvg-name="VH1" tvg-logo="https://i.ibb.co/p3cFRcS/vh1.png Entretenimento e Musica" group-title="[ALT 1] HD", [ALT 1] VH1 HD
+http://199.127.62.234:2086/streams/145_.m3u8
+
+#EXTINF:-1 tvg-name="VH1 Megahits" tvg-logo="https://i.ibb.co/WHdMy8M/vh1megahits.png Entretenimento e Musica" group-title="[ALT 1] HD", [ALT 1] VH1 Megahits HD
+http://199.127.62.234:2086/streams/146_.m3u8
+
+#EXTINF:-1 tvg-name="Viva" tvg-logo="https://i.ibb.co/W0w20Dn/viva2018.png Variedade" group-title="[ALT 1] HD", [ALT 1] Viva HD
+http://199.127.62.234:2086/streams/153_.m3u8
+
+#EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png Filme e Serie" group-title="[ALT 1] HD", [ALT 1] Warner Channel HD
+http://199.127.62.234:2086/streams/179_.m3u8
+
+#EXTINF:-1 tvg-name="Woohoo" tvg-logo="https://i.ibb.co/rvT7WT5/woohoo.png Variedade" group-title="[ALT 1] HD", [ALT 1] Woohoo HD
+http://199.127.62.234:2086/streams/154_.m3u8
+
+#EXTINF:-1 tvg-name="Zoomoo HD" tvg-logo="https://i.ibb.co/XL5sJVf/zoomoo.png Infantil" group-title="[ALT 1] HD", [ALT 1] Zoomoo HD
+http://199.127.62.234:2086/streams/137_.m3u8
+
+#EXTINF:-1 tvg-name="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] A&E 4K
+http://199.127.62.234:2086/streams/157_.m3u8
+
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] AMC HD
+http://199.127.62.234:2086/streams/158_.m3u8
+
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] AMC 4K
+http://199.127.62.234:2086/streams/158_.m3u8
+
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png Documentario" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Animal Planet HD
+http://199.127.62.234:2086/streams/98_.m3u8
+
+#EXTINF:-1 tvg-name="Animal Planet FHD" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png Documentario" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Animal Planet 4K
+http://199.127.62.234:2086/streams/99_.m3u8
+
+#EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://i.ibb.co/QNkBQc6/arte1.png Variedade" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Arte 1 HD
+http://199.127.62.234:2086/streams/147_.m3u8
+
+#EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://i.ibb.co/QNkBQc6/arte1.png Variedade" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Arte 1 4K
+http://199.127.62.234:2086/streams/147_.m3u8
+
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://i.ibb.co/stn1js5/axnb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] AXN HD
+http://199.127.62.234:2086/streams/181_.m3u8
+
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://i.ibb.co/stn1js5/axnb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] AXN 4K
+http://199.127.62.234:2086/streams/181_.m3u8
+
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://i.ibb.co/yfscShb/babytv.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Baby TV HD
+http://199.127.62.234:2086/streams/126_.m3u8
+
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://i.ibb.co/yfscShb/babytv.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Baby TV 4K
+http://199.127.62.234:2086/streams/126_.m3u8
+
+#EXTINF:-1 tvg-name="Band" tvg-logo="https://i.ibb.co/pWdRD7J/band.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Band HD
+http://199.127.62.234:2086/streams/13_.m3u8
+
+#EXTINF:-1 tvg-name="Band" tvg-logo="https://i.ibb.co/pWdRD7J/band.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Band 4K
+http://199.127.62.234:2086/streams/13_.m3u8
+
+#EXTINF:-1 tvg-name="Band News" tvg-logo="https://i.ibb.co/tHgNtbw/bandnews.png Noticia" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Band News HD
+http://199.127.62.234:2086/streams/85_.m3u8
+
+#EXTINF:-1 tvg-name="Band News" tvg-logo="https://i.ibb.co/tHgNtbw/bandnews.png Noticia" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Band News 4K
+http://199.127.62.234:2086/streams/85_.m3u8
+
+#EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://i.ibb.co/t8H0fk0/bandsports.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Band Sports HD
+http://199.127.62.234:2086/streams/46_.m3u8
+
+#EXTINF:-1 tvg-name="BIS" tvg-logo="https://i.ibb.co/B2DbLdN/bis.png Entretenimento e Musica" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] BIS HD
+http://199.127.62.234:2086/streams/140_.m3u8
+
+#EXTINF:-1 tvg-name="BIS" tvg-logo="https://i.ibb.co/B2DbLdN/bis.png Entretenimento e Musica" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] BIS 4K
+http://199.127.62.234:2086/streams/140_.m3u8
+
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Boomerang HD
+http://199.127.62.234:2086/streams/127_.m3u8
+
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Boomerang 4K
+http://199.127.62.234:2086/streams/127_.m3u8
+
+#EXTINF:-1 tvg-name="Canal Brasil" tvg-logo="https://i.ibb.co/dGDgcDc/canalbrasilb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Canal Brasil HD
+http://199.127.62.234:2086/streams/15_.m3u8
+
+#EXTINF:-1 tvg-name="Canal Rural" tvg-logo="https://i.ibb.co/fxWk6Mh/canalruralb.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Canal Rural HD
+http://199.127.62.234:2086/streams/17_.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Cartoon Network HD
+http://199.127.62.234:2086/streams/128_.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Cartoon Network 4K
+http://199.127.62.234:2086/streams/128_.m3u8
+
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://i.ibb.co/qCx1SLY/cinemax.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Cinemax HD
+http://199.127.62.234:2086/streams/242_.m3u8
+
+#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] CNN Brasil HD
+http://199.127.62.234:2086/streams/240_.m3u8
+
+#EXTINF:-1 tvg-name="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Combate HD
+http://199.127.62.234:2086/streams/49_.m3u8
+
+#EXTINF:-1 tvg-name="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Combate 4K
+http://199.127.62.234:2086/streams/49_.m3u8
+
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://i.ibb.co/Jxy45YQ/comedycentralb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Comedy Central HD
+http://199.127.62.234:2086/streams/148_.m3u8
+
+#EXTINF:-1 tvg-name="Comedy Central FHD" tvg-logo="https://i.ibb.co/Jxy45YQ/comedycentralb.png Entretenimento" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Comedy Central 4K
+http://199.127.62.234:2086/streams/149_.m3u8
+
+#EXTINF:-1 tvg-name="Cultura" tvg-logo="https://i.ibb.co/CvvkxnR/tvcultura.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Cultura HD
+http://199.127.62.234:2086/streams/19_.m3u8
+
+#EXTINF:-1 tvg-name="Cultura HD" tvg-logo="https://i.ibb.co/CvvkxnR/tvcultura.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Cultura 4K
+http://199.127.62.234:2086/streams/20_.m3u8
+
+#EXTINF:-1 tvg-name="Curta" tvg-logo="https://i.ibb.co/YRKtq0s/curta.png Variedade" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Curta! HD
+http://199.127.62.234:2086/streams/20_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png Documentario" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Discovery Channel HD
+http://199.127.62.234:2086/streams/102_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png Documentario" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Discovery Channel 4K
+http://199.127.62.234:2086/streams/103_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Home & Health" tvg-logo="https://i.imgur.com/TZRHb9R.png" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Discovery Home & Health HD
+http://199.127.62.234:2086/streams/100_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Home & Health FHD" tvg-logo="https://i.imgur.com/TZRHb9R.png" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Discovery Home & Health 4K
+http://199.127.62.234:2086/streams/101_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Discovery Kids HD
+http://199.127.62.234:2086/streams/138_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://i.ibb.co/cJwdX8C/discoveryscienceb.png Documentario" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Discovery Science HD
+http://199.127.62.234:2086/streams/121_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="https://i.ibb.co/z2JDsg0/discoverytheater.png Documentario" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Discovery Theater HD
+http://199.127.62.234:2086/streams/104_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://i.ibb.co/LkFmVss/discoveryturbob.png Documentario" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Discovery Turbo HD
+http://199.127.62.234:2086/streams/106_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://i.ibb.co/LkFmVss/discoveryturbob.png Documentario" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Discovery Turbo 4K
+http://199.127.62.234:2086/streams/107_.m3u8
+
+#EXTINF:-1 tvg-name="Discovery World" tvg-logo="https://i.ibb.co/yYCzY9k/discoveryworld.png Documentario" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Discovery World HD
+http://199.127.62.234:2086/streams/108_.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Disney Channel HD
+http://199.127.62.234:2086/streams/129_.m3u8
+
+#EXTINF:-1 tvg-name="Disney JR" tvg-logo="https://i.ibb.co/0MBKmFY/disneyjuniorb.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Disney JR HD
+http://199.127.62.234:2086/streams/130_.m3u8
+
+#EXTINF:-1 tvg-name="Disney XD" tvg-logo="https://i.ibb.co/KqXhhC2/disneyxd.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Disney XD HD
+http://199.127.62.234:2086/streams/131_.m3u8
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] ESPN HD
+http://199.127.62.234:2086/streams/51_.m3u8
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] ESPN 4K
+http://199.127.62.234:2086/streams/52_.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] ESPN 2 HD
+http://199.127.62.234:2086/streams/241_.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] ESPN Brasil HD
+http://199.127.62.234:2086/streams/53_.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] ESPN Brasil HD
+http://199.127.62.234:2086/streams/54_.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Extra" tvg-logo="https://i.ibb.co/QbCjwYR/espnextra.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] ESPN Extra HD
+http://199.127.62.234:2086/streams/50_.m3u8
+
+#EXTINF:-1 tvg-name="Fish TV" tvg-logo="https://i.ibb.co/3mqnQx2/fishtv.png Variedade" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Fish TV HD
+http://199.127.62.234:2086/streams/109_.m3u8
+
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://i.ibb.co/wS6TzSk/foodnetwork.png Variedade" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Food Network HD
+http://199.127.62.234:2086/streams/111_.m3u8
+
+#EXTINF:-1 tvg-name="Fox" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Fox HD
+http://199.127.62.234:2086/streams/161_.m3u8
+
+#EXTINF:-1 tvg-name="Fox FHD" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Fox 4K
+http://199.127.62.234:2086/streams/162_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Life" tvg-logo="https://i.ibb.co/Z6hgvP7/foxlifeb.png Variedade" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Fox Life HD
+http://199.127.62.234:2086/streams/163_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Life FHD" tvg-logo="https://i.ibb.co/Z6hgvP7/foxlifeb.png Entretenimento" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Fox Life 4K
+http://199.127.62.234:2086/streams/164_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Premium 1 HD" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Fox Premium 1 HD
+http://199.127.62.234:2086/streams/165_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Premium 1 HD" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Fox Premium 1 4K
+http://199.127.62.234:2086/streams/166_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Premium 2 HD" tvg-logo="https://i.ibb.co/ygC4V8r/foxpremium2b.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Fox Premium 2 HD
+http://199.127.62.234:2086/streams/167_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Premium 2 HD" tvg-logo="https://i.ibb.co/ygC4V8r/foxpremium2b.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Fox Premium 2 4K
+http://199.127.62.234:2086/streams/168_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports" tvg-logo="https://i.ibb.co/sPwqG58/foxsports.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Fox Sports HD
+http://199.127.62.234:2086/streams/56_.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://i.ibb.co/mtBgHht/foxsports2.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Fox Sports 2 HD
+http://199.127.62.234:2086/streams/57_.m3u8
+
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] FX HD
+http://199.127.62.234:2086/streams/112_.m3u8
+
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] FX 4K
+http://199.127.62.234:2086/streams/113_.m3u8
+
+#EXTINF:-1 tvg-name="Globo Rio" tvg-logo="https://i.ibb.co/dcFy14L/globosp.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Globo HD
+http://199.127.62.234:2086/streams/22_.m3u8
+
+#EXTINF:-1 tvg-name="Globo Rio" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Globo RJ HD
+http://xcui.vitvabc.xyz:8880/XC_Brazil00004611/25366262/24042
+
+#EXTINF:-1 tvg-name="Globo SP" tvg-logo="https://i.ibb.co/kxdMkfw/globosp.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Globo 4K
+http://199.127.62.234:2086/streams/25_.m3u8
+
+#EXTINF:-1 tvg-name="GloboNews" tvg-logo="https://i.ibb.co/Y0zj4xn/globonews.png Noticia" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] GloboNews HD
+http://199.127.62.234:2086/streams/84_.m3u8
+
+#EXTINF:-1 tvg-name="Gloob" tvg-logo="https://i.ibb.co/MSnGHZL/gloob.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Gloob HD
+http://199.127.62.234:2086/streams/132_.m3u8
+
+#EXTINF:-1 tvg-name="Gloob" tvg-logo="https://i.ibb.co/MSnGHZL/gloob.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Gloob 4K
+http://199.127.62.234:2086/streams/133_.m3u8
+
+#EXTINF:-1 tvg-name="GNT" tvg-logo="https://i.ibb.co/DDW7Xcz/gnt.png Variedade" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] GNT HD
+http://199.127.62.234:2086/streams/150_.m3u8
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] HBO HD
+http://199.127.62.234:2086/streams/185_.m3u8
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] HBO 4K
+http://199.127.62.234:2086/streams/186_.m3u8
+
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] HBO 2 HD
+http://199.127.62.234:2086/streams/187_.m3u8
+
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] HBO 2 4K
+http://199.127.62.234:2086/streams/188_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] HBO Family 4K
+http://199.127.62.234:2086/streams/194_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] HBO MUNDI HD
+http://199.127.62.234:2086/streams/195_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] HBO MUNDI 4K
+http://199.127.62.234:2086/streams/196_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] HBO Plus HD
+http://199.127.62.234:2086/streams/189_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] HBO Plus 4K
+http://199.127.62.234:2086/streams/190_.m3u8
+
+#EXTINF:-1 tvg-name="HBO POP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbopopb.png" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] HBO POP HD
+http://199.127.62.234:2086/streams/183_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] HBO Signature HD
+http://199.127.62.234:2086/streams/191_.m3u8
+
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] HBO Signature 4K
+http://199.127.62.234:2086/streams/192_.m3u8
+
+#EXTINF:-1 tvg-name="HBO XTREME" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] HBO XTREME HD
+http://199.127.62.234:2086/streams/197_.m3u8
+
+#EXTINF:-1 tvg-name="History" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png Documentario" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] History HD
+http://199.127.62.234:2086/streams/114_.m3u8
+
+#EXTINF:-1 tvg-name="History" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png Documentario" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] History 4K
+http://199.127.62.234:2086/streams/115_.m3u8
+
+#EXTINF:-1 tvg-name="History 2" tvg-logo="https://i.ibb.co/b6w6MWr/h2.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] History 2 HD
+http://199.127.62.234:2086/streams/223_.m3u8
+
+#EXTINF:-1 tvg-name="ID" tvg-logo="https://i.ibb.co/GkCFcmY/investigationb.png Documentario" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] ID HD
+http://199.127.62.234:2086/streams/116_.m3u8
+
+#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://i.ibb.co/5rp1PW0/lifetime.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Lifetime HD
+http://199.127.62.234:2086/streams/169_.m3u8
+
+#EXTINF:-1 tvg-name="Mais Globosat" tvg-logo="https://i.ibb.co/tsRJmPR/maisglobosatb.png Variedade" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Mais Globosat HD
+http://199.127.62.234:2086/streams/151_.m3u8
+
+#EXTINF:-1 tvg-name="Megapix" tvg-logo="https://i.ibb.co/Vtq0pNb/megapixb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Megapix HD
+http://199.127.62.234:2086/streams/171_.m3u8
+
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://i.ibb.co/W5VwW2N/mtvb.png Entretenimento e Musica" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] MTV HD
+http://199.127.62.234:2086/streams/141_.m3u8
+
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://i.ibb.co/W5VwW2N/mtvb.png Entretenimento e Musica" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] MTV EUA 4K
+http://199.127.62.234:2086/streams/142_.m3u8
+
+#EXTINF:-1 tvg-name="Multishow" tvg-logo="https://i.ibb.co/R0nqMq0/multishow.png Entretenimento e Musica" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Multishow HD
+http://199.127.62.234:2086/streams/143_.m3u8
+
+#EXTINF:-1 tvg-name="NatGeo Kids" tvg-logo="https://i.ibb.co/m86jr31/natgeokids.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] NatGeo Kids HD
+http://199.127.62.234:2086/streams/134_.m3u8
+
+#EXTINF:-1 tvg-name="Natgeo Wild" tvg-logo="https://i.ibb.co/HCQCNbY/natgeowild.png Documentario" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Natgeo Wild HD
+http://199.127.62.234:2086/streams/119_.m3u8
+
+#EXTINF:-1 tvg-name="Natgeo Wild" tvg-logo="https://i.ibb.co/HCQCNbY/natgeowild.png Documentario" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Natgeo Wild 4K
+http://199.127.62.234:2086/streams/119_.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://i.ibb.co/q1gGdrD/natgeo.png Documentario" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] National Geographic HD
+http://199.127.62.234:2086/streams/117_.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://i.ibb.co/q1gGdrD/natgeo.png Documentario" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] National Geographic 4K
+http://199.127.62.234:2086/streams/118_.m3u8
+
+#EXTINF:-1 tvg-name="Nick Jr." tvg-logo="https://i.ibb.co/nn5x9pD/nickjr.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Nick Jr. HD
+http://199.127.62.234:2086/streams/139_.m3u8
+
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Nickelodeon HD
+http://199.127.62.234:2086/streams/135_.m3u8
+
+#EXTINF:-1 tvg-name="Off" tvg-logo="https://i.ibb.co/J23V5yZ/canaloffb.png Variedade e Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Off HD
+http://199.127.62.234:2086/streams/59_.m3u8
+
+#EXTINF:-1 tvg-name="Paramount" tvg-logo="https://i.ibb.co/D9Lc0JL/paramount.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Paramount HD
+http://199.127.62.234:2086/streams/172_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 2" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Premiere 2 HD
+http://199.127.62.234:2086/streams/63_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 3" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Premiere 3 HD
+http://199.127.62.234:2086/streams/64_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 4" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Premiere 4 HD
+http://199.127.62.234:2086/streams/65_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 5" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Premiere 5 HD
+http://199.127.62.234:2086/streams/66_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 6" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Premiere 6 HD
+http://199.127.62.234:2086/streams/67_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 7" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Premiere 7 HD
+http://199.127.62.234:2086/streams/68_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 8" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Premiere 8 HD
+http://199.127.62.234:2086/streams/69_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere Clubes" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Premiere Clubes HD
+http://199.127.62.234:2086/streams/61_.m3u8
+
+#EXTINF:-1 tvg-name="Premiere Clubes" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Premiere Clubes 4K
+http://199.127.62.234:2086/streams/62_.m3u8
+
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Record HD
+http://199.127.62.234:2086/streams/29_.m3u8
+
+
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Record 4K
+http://199.127.62.234:2086/streams/30_.m3u8
+
+#EXTINF:-1 tvg-name="Record News" tvg-logo="https://i.ibb.co/gjYJCG8/recordnewsb.png Noticia" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Record News HD
+http://199.127.62.234:2086/streams/80_.m3u8
+
+#EXTINF:-1 tvg-name="RedeTV!" tvg-logo="https://i.ibb.co/wR1cmgM/redetv.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] RedeTV! HD
+http://199.127.62.234:2086/streams/33_.m3u8
+
+#EXTINF:-1 tvg-name="RedeTV!" tvg-logo="https://i.ibb.co/wR1cmgM/redetv.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] RedeTV! 4K
+http://199.127.62.234:2086/streams/34_.m3u8
+
+#EXTINF:-1 tvg-name="SBT" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] SBT HD
+http://199.127.62.234:2086/streams/37_.m3u8
+
+#EXTINF:-1 tvg-name="SBT" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] SBT 4K
+http://199.127.62.234:2086/streams/37_.m3u8
+
+#EXTINF:-1 tvg-name="Sony" tvg-logo="https://i.ibb.co/rFxKrFQ/sony.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Sony HD
+http://199.127.62.234:2086/streams/160_.m3u8
+
+#EXTINF:-1 tvg-name="Space" tvg-logo="https://i.ibb.co/6wYLB5f/space.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Space HD
+http://199.127.62.234:2086/streams/200_.m3u8
+
+#EXTINF:-1 tvg-name="SporTV" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] SporTV HD
+http://199.127.62.234:2086/streams/70_.m3u8
+
+#EXTINF:-1 tvg-name="SporTV" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] SporTV 4K
+http://199.127.62.234:2086/streams/71_.m3u8
+
+#EXTINF:-1 tvg-name="SporTV 2" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] SporTV 2 HD
+http://199.127.62.234:2086/streams/72_.m3u8
+
+#EXTINF:-1 tvg-name="SporTV 2" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] SporTV 2 4K
+http://199.127.62.234:2086/streams/73_.m3u8
+
+#EXTINF:-1 tvg-name="SporTV 3" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png Esporte" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] SporTV 3 HD
+http://199.127.62.234:2086/streams/74_.m3u8
+
+#EXTINF:-1 tvg-name="Syfy" tvg-logo="https://i.ibb.co/3pc26zL/syfy2018.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Syfy HD
+http://199.127.62.234:2086/streams/174_.m3u8
+
+#EXTINF:-1 tvg-name="TBS" tvg-logo="https://i.ibb.co/kXhr2Cr/tbsb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] TBS HD
+http://199.127.62.234:2086/streams/175_.m3u8
+
+#EXTINF:-1 tvg-name="TCM" tvg-logo="https://i.ibb.co/jgP3J7r/tcm.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] TCM HD
+http://199.127.62.234:2086/streams/201_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Action" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Telecine Action HD
+http://199.127.62.234:2086/streams/213_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Action" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Telecine Action 4K
+http://199.127.62.234:2086/streams/214_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Cult" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Telecine Cult HD
+http://199.127.62.234:2086/streams/203_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Cult" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Telecine Cult 4K
+http://199.127.62.234:2086/streams/203_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Fun" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Telecine Fun 4K[LEG]
+http://199.127.62.234:2086/streams/205_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Fun" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Telecine Fun 4K
+http://199.127.62.234:2086/streams/206_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Telecine Pipoca HD
+http://199.127.62.234:2086/streams/207_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Telecine Pipoca 4K
+http://199.127.62.234:2086/streams/208_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Premium" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Telecine Premium HD
+http://199.127.62.234:2086/streams/209_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Premium" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Telecine Premium 4K
+http://199.127.62.234:2086/streams/210_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Touch" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Telecine Touch HD
+http://199.127.62.234:2086/streams/211_.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Touch" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Telecine Touch 4K
+http://199.127.62.234:2086/streams/212_.m3u8
+
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://i.ibb.co/njTvjL1/tlc.png Variedade" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] TLC HD
+http://199.127.62.234:2086/streams/122_.m3u8
+
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://i.ibb.co/BLmwXmN/tnt.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] TNT HD
+http://199.127.62.234:2086/streams/202_.m3u8
+
+#EXTINF:-1 tvg-name="TNT Series" tvg-logo="https://i.ibb.co/KVMQPWv/tntseries.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] TNT Series HD
+http://199.127.62.234:2086/streams/176_.m3u8
+
+#EXTINF:-1 tvg-name="TNT Series" tvg-logo="https://i.ibb.co/KVMQPWv/tntseries.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] TNT Series 4K
+http://199.127.62.234:2086/streams/176_.m3u8
+
+#EXTINF:-1 tvg-name="Tooncast" tvg-logo="https://i.ibb.co/9YDb4fW/tooncast.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Tooncast HD
+http://199.127.62.234:2086/streams/222_.m3u8
+
+#EXTINF:-1 tvg-name="Tooncast" tvg-logo="https://i.ibb.co/9YDb4fW/tooncast.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Tooncast 4K
+http://199.127.62.234:2086/streams/222_.m3u8
+
+#EXTINF:-1 tvg-name="TV Aparecida" tvg-logo="https://i.ibb.co/8xkPXfn/tvaparecida.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] TV Aparecida HD
+http://199.127.62.234:2086/streams/38_.m3u8
+
+#EXTINF:-1 tvg-name="TV Brasil" tvg-logo="https://i.ibb.co/PgcdPNt/tvbrasil.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] TV Brasil HD
+http://199.127.62.234:2086/streams/39_.m3u8
+
+#EXTINF:-1 tvg-name="TV Brasil" tvg-logo="https://i.ibb.co/PgcdPNt/tvbrasil.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] TV Brasil 4K
+http://199.127.62.234:2086/streams/40_.m3u8
+
+#EXTINF:-1 tvg-name="TV Justica" tvg-logo="https://i.ibb.co/58Yvjj2/tvjustica.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] TV Justica HD
+http://199.127.62.234:2086/streams/42_.m3u8
+
+#EXTINF:-1 tvg-name="TV Ratimbum" tvg-logo="https://i.ibb.co/GvYCgHy/tvratimbum.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] TV Ratimbum HD
+http://199.127.62.234:2086/streams/136_.m3u8
+
+#EXTINF:-1 tvg-name="TV Senado" tvg-logo="https://i.ibb.co/nwtkNYt/tvsenado.png TV Aberta" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] TV Senado HD
+http://199.127.62.234:2086/streams/44_.m3u8
+
+#EXTINF:-1 tvg-name="TV Universal" tvg-logo="https://i.ibb.co/Kq2pHp3/universaltv.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] TV Universal HD
+http://199.127.62.234:2086/streams/178_.m3u8
+
+#EXTINF:-1 tvg-name="VH1" tvg-logo="https://i.ibb.co/p3cFRcS/vh1.png Entretenimento e Musica" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] VH1 HD
+http://199.127.62.234:2086/streams/145_.m3u8
+
+#EXTINF:-1 tvg-name="VH1 Megahits" tvg-logo="https://i.ibb.co/WHdMy8M/vh1megahits.png Entretenimento e Musica" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] VH1 Megahits HD
+http://199.127.62.234:2086/streams/146_.m3u8
+
+#EXTINF:-1 tvg-name="Viva" tvg-logo="https://i.ibb.co/W0w20Dn/viva2018.png Variedade" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Viva HD
+http://199.127.62.234:2086/streams/153_.m3u8
+
+#EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Warner Channel HD
+http://199.127.62.234:2086/streams/179_.m3u8
+
+#EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png Filme e Serie" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Warner Channel 4K
+http://199.127.62.234:2086/streams/180_.m3u8
+
+#EXTINF:-1 tvg-name="Woohoo" tvg-logo="https://i.ibb.co/rvT7WT5/woohoo.png Variedade" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Woohoo HD
+http://199.127.62.234:2086/streams/154_.m3u8
+
+#EXTINF:-1 tvg-name="Woohoo" tvg-logo="https://i.ibb.co/rvT7WT5/woohoo.png Variedade" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Woohoo 4K
+http://199.127.62.234:2086/streams/154_.m3u8
+
+
+#EXTINF:-1 tvg-name="Zoomoo HD" tvg-logo="https://i.ibb.co/XL5sJVf/zoomoo.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Zoomoo HD
+http://199.127.62.234:2086/streams/137_.m3u8
+
+#EXTINF:-1 tvg-name="Zoomoo HD" tvg-logo="https://i.ibb.co/XL5sJVf/zoomoo.png Infantil" group-title="[ALT 1] TODOS OS CANAIS", [ALT 1] Zoomoo 4K
+http://199.127.62.234:2086/streams/137_.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="a181601855005687234e909147efa60c" tvg-name="BR: A&E HD 4K" tvg-logo="http://cdn.netflix.ipv6.fr34you.top/logos/img_white/aehd.png" group-title="Séries",BR: A&E HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/1
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC HD 4K" tvg-logo="" group-title="Filmes",BR: AMC HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/43
+#EXTINF:-1 tvg-id="34bc0ca89eafd831c82db8664fa02ad8" tvg-name="BR: ANIMAL PLANET HD 4K" tvg-logo="https://api.fr34you.top/api_v4/freesky/gold_v7/logos/AnimalPlanet.png" group-title="Documentários",BR: ANIMAL PLANET HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/2
+#EXTINF:-1 tvg-id="6662dbcf739a4cf825be05d35740703d" tvg-name="BR: APARECIDA HD" tvg-logo="" group-title="Abertos",BR: APARECIDA HD
+http://magicflix.cx750.xyz:36114/alex/teste/85
+#EXTINF:-1 tvg-id="" tvg-name="BR: ARTE 1 HD" tvg-logo="" group-title="Documentários",BR: ARTE 1 HD
+http://magicflix.cx750.xyz:36114/alex/teste/255
+#EXTINF:-1 tvg-id="" tvg-name="BR: AXN HD 4K" tvg-logo="" group-title="Séries",BR: AXN HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/29
+#EXTINF:-1 tvg-id="" tvg-name="BR: BABY TV HD" tvg-logo="" group-title="Abertos",BR: BABY TV HD
+http://magicflix.cx750.xyz:36114/alex/teste/86
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND HD SP" tvg-logo="" group-title="Jornalismo",BR: BAND HD SP
+http://magicflix.cx750.xyz:36114/alex/teste/79
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND NEWS HD 4K" tvg-logo="" group-title="Jornalismo",BR: BAND NEWS HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/19
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORTS HD 4K" tvg-logo="" group-title="Esportes",BR: BAND SPORTS HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/23
+#EXTINF:-1 tvg-id="" tvg-name="BR: BIS HD 4K" tvg-logo="" group-title="Variedades",BR: BIS HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/55
+#EXTINF:-1 tvg-id="" tvg-name="BR: BLOOMBERG HD" tvg-logo="" group-title="Mundo",BR: BLOOMBERG HD
+http://magicflix.cx750.xyz:36114/alex/teste/256
+#EXTINF:-1 tvg-id="" tvg-name="BR: BOOMERANG HD 4K" tvg-logo="" group-title="Infantil",BR: BOOMERANG HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/59
+#EXTINF:-1 tvg-id="" tvg-name="BR: CAMPEONATO CAPIXABA HD" tvg-logo="" group-title="Esportes",BR: CAMPEONATO CAPIXABA HD
+http://magicflix.cx750.xyz:36114/alex/teste/4608
+#EXTINF:-1 tvg-id="" tvg-name="BR: CAMPEONATO CATARINENSE HD" tvg-logo="" group-title="Esportes",BR: CAMPEONATO CATARINENSE HD
+http://magicflix.cx750.xyz:36114/alex/teste/4609
+#EXTINF:-1 tvg-id="" tvg-name="BR: CANAL BRASIL HD 4K" tvg-logo="" group-title="Filmes",BR: CANAL BRASIL HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/87
+#EXTINF:-1 tvg-id="" tvg-name="BR: CANAL RURAL" tvg-logo="" group-title="Abertos",BR: CANAL RURAL
+http://magicflix.cx750.xyz:36114/alex/teste/88
+#EXTINF:-1 tvg-id="" tvg-name="BR: CANAL SONY HD 4K" tvg-logo="" group-title="Variedades",BR: CANAL SONY HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/62
+#EXTINF:-1 tvg-id="72c5d348a8e81a1af1a8b6e2a0067410" tvg-name="BR: CANÇÃO NOVA HD" tvg-logo="" group-title="Abertos",BR: CANÇÃO NOVA HD
+http://magicflix.cx750.xyz:36114/alex/teste/1446
+#EXTINF:-1 tvg-id="" tvg-name="BR: CARTOON HD 4K" tvg-logo="" group-title="Infantil",BR: CARTOON HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/32
+#EXTINF:-1 tvg-id="59b0224c3621a35fb0d7f2607d55c689" tvg-name="BR: CHEF TV HD" tvg-logo="" group-title="Variedades",BR: CHEF TV HD
+http://magicflix.cx750.xyz:36114/alex/teste/384
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINEMAX HD 4K" tvg-logo="" group-title="Filmes",BR: CINEMAX HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/44
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN BRASIL HD" tvg-logo="" group-title="Jornalismo",BR: CNN BRASIL HD
+http://magicflix.cx750.xyz:36114/alex/teste/257
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN INTERNACIONAL HD" tvg-logo="" group-title="Jornalismo",BR: CNN INTERNACIONAL HD
+http://magicflix.cx750.xyz:36114/alex/teste/258
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE HD 4K" tvg-logo="" group-title="Esportes",BR: COMBATE HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/24
+#EXTINF:-1 tvg-id="" tvg-name="BR: CONMEBOL 1 HD" tvg-logo="" group-title="Esportes",BR: CONMEBOL 1 HD
+http://magicflix.cx750.xyz:36114/alex/teste/1545
+#EXTINF:-1 tvg-id="" tvg-name="BR: CONMEBOL 2 HD" tvg-logo="" group-title="Esportes",BR: CONMEBOL 2 HD
+http://magicflix.cx750.xyz:36114/alex/teste/1546
+#EXTINF:-1 tvg-id="" tvg-name="BR: CONMEBOL 3 HD" tvg-logo="" group-title="Esportes",BR: CONMEBOL 3 HD
+http://magicflix.cx750.xyz:36114/alex/teste/1547
+#EXTINF:-1 tvg-id="" tvg-name="BR: CONMEBOL 4 HD" tvg-logo="" group-title="Abertos",BR: CONMEBOL 4 HD
+http://magicflix.cx750.xyz:36114/alex/teste/1548
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMEDY CENTRAL HD 4K" tvg-logo="" group-title="Variedades",BR: COMEDY CENTRAL HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/71
+#EXTINF:-1 tvg-id="" tvg-name="BR: COPA NORDESTE 2 HD" tvg-logo="" group-title="Esportes",BR: COPA NORDESTE 2 HD
+http://magicflix.cx750.xyz:36114/alex/teste/1550
+#EXTINF:-1 tvg-id="" tvg-name="BR: CURTA HD" tvg-logo="" group-title="Variedades",BR: CURTA HD
+http://magicflix.cx750.xyz:36114/alex/teste/389
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN HD" tvg-logo="" group-title="Esportes",BR: DAZN HD
+http://magicflix.cx750.xyz:36114/alex/teste/1549
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISC. H&H HD 4K" tvg-logo="" group-title="Documentários",BR: DISC. H&H HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/83
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISC. KIDS HD 4K" tvg-logo="" group-title="Infantil",BR: DISC. KIDS HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/42
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISC. SCIENCE HD 4K" tvg-logo="" group-title="Documentários",BR: DISC. SCIENCE HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/53
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISC. THEATER HD 4K" tvg-logo="" group-title="Documentários",BR: DISC. THEATER HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/41
+#EXTINF:-1 tvg-id="7fa202e4e479d4c357a1a7ce909ad543" tvg-name="BR: DISC. TURBO HD 4K" tvg-logo="" group-title="Documentários",BR: DISC. TURBO HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/5
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISC. WORLD HD 4K" tvg-logo="" group-title="Documentários",BR: DISC. WORLD HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/46
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY HD 4K" tvg-logo="" group-title="Documentários",BR: DISCOVERY HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/28
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY HD 4K" tvg-logo="" group-title="Infantil",BR: DISNEY HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/37
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY JR. HD 4K" tvg-logo="" group-title="Infantil",BR: DISNEY JR. HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/38
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY XD HD" tvg-logo="" group-title="Infantil",BR: DISNEY XD HD
+http://magicflix.cx750.xyz:36114/alex/teste/388
+#EXTINF:-1 tvg-id="" tvg-name="BR: DOG TV HD" tvg-logo="" group-title="Variedades",BR: DOG TV HD
+http://magicflix.cx750.xyz:36114/alex/teste/1551
+#EXTINF:-1 tvg-id="" tvg-name="BR: E! HD" tvg-logo="" group-title="Variedades",BR: E! HD
+http://magicflix.cx750.xyz:36114/alex/teste/387
+#EXTINF:-1 tvg-id="" tvg-name="BR: EPTV CAMPINAS HD" tvg-logo="" group-title="Abertos",BR: EPTV CAMPINAS HD
+http://magicflix.cx750.xyz:36114/alex/teste/385
+#EXTINF:-1 tvg-id="" tvg-name="BR: EPTV SUL DE MINAS HD" tvg-logo="" group-title="Abertos",BR: EPTV SUL DE MINAS HD
+http://magicflix.cx750.xyz:36114/alex/teste/386
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2 HD 4K" tvg-logo="" group-title="Esportes",BR: ESPN 2 HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/52
+#EXTINF:-1 tvg-id="d6ce8cd1dc736e1919c4453c5e834874" tvg-name="BR: ESPN BRASIL HD 4K" tvg-logo="" group-title="Esportes",BR: ESPN BRASIL HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/69
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN EXTRA HD 4K" tvg-logo="" group-title="Esportes",BR: ESPN EXTRA HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/84
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN HD 4K" tvg-logo="" group-title="Esportes",BR: ESPN HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/49
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPORTE INTERATIVO 1 HD" tvg-logo="" group-title="Esportes",BR: ESPORTE INTERATIVO 1 HD
+http://magicflix.cx750.xyz:36114/alex/teste/1552
+#EXTINF:-1 tvg-id="" tvg-name="BR: EURONEWS HD" tvg-logo="" group-title="Mundo",BR: EURONEWS HD
+http://magicflix.cx750.xyz:36114/alex/teste/3705
+#EXTINF:-1 tvg-id="2df319abf89e140f942afd33f4186031" tvg-name="BR: FISH TV HD" tvg-logo="" group-title="Variedades",BR: FISH TV HD
+http://magicflix.cx750.xyz:36114/alex/teste/268
+#EXTINF:-1 tvg-id="" tvg-name="BR: CAMPEONATO CARIOCA 1 HD" tvg-logo="http://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png" group-title="Esportes",BR: CAMPEONATO CARIOCA 1 HD
+http://magicflix.cx750.xyz:36114/alex/teste/3716
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOODNETWORK HD 4K" tvg-logo="" group-title="Documentários",BR: FOODNETWORK HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/60
+#EXTINF:-1 tvg-id="" tvg-name="BR: STAR CHANNEL HD 4K" tvg-logo="" group-title="Variedades",BR: STAR CHANNEL HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/21
+#EXTINF:-1 tvg-id="" tvg-name="BR: STAR LIFE HD 4K" tvg-logo="" group-title="Documentários",BR: STAR LIFE HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/75
+#EXTINF:-1 tvg-id="d16c7b99db2e095fa08415a47e191d63" tvg-name="BR: STAR HITS 1 HD" tvg-logo="" group-title="Séries",BR: STAR HITS 1 HD
+http://magicflix.cx750.xyz:36114/alex/teste/266
+#EXTINF:-1 tvg-id="96f9e37ff35ed5b17433112e2a89ba47" tvg-name="BR: STAR HITS 2 HD" tvg-logo="" group-title="Séries",BR: STAR HITS 2 HD
+http://magicflix.cx750.xyz:36114/alex/teste/267
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 1 HD 4K" tvg-logo="" group-title="Esportes",BR: FOX SPORTS 1 HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/27
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2 HD 4K" tvg-logo="" group-title="Esportes",BR: FOX SPORTS 2 HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/30
+#EXTINF:-1 tvg-id="" tvg-name="BR: FUTURA HD" tvg-logo="" group-title="Abertos",BR: FUTURA HD
+http://magicflix.cx750.xyz:36114/alex/teste/1544
+#EXTINF:-1 tvg-id="" tvg-name="BR: FX HD 4K" tvg-logo="" group-title="Filmes",BR: FX HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/47
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO ANHAGUERA GOIANIA HD" tvg-logo="" group-title="Abertos",BR: GLOBO ANHAGUERA GOIANIA HD
+http://magicflix.cx750.xyz:36114/alex/teste/244
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO BRASILIA HD" tvg-logo="" group-title="Abertos",BR: GLOBO BRASILIA HD
+http://magicflix.cx750.xyz:36114/alex/teste/249
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO MINAS HD" tvg-logo="" group-title="Abertos",BR: GLOBO MINAS HD
+http://magicflix.cx750.xyz:36114/alex/teste/243
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NACIONAL HD " tvg-logo="" group-title="Abertos",BR: GLOBO NACIONAL HD 
+http://magicflix.cx750.xyz:36114/alex/teste/50
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NEWS HD 4K" tvg-logo="" group-title="Jornalismo",BR: GLOBO NEWS HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/72
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NORDESTE HD" tvg-logo="" group-title="Abertos",BR: GLOBO NORDESTE HD
+http://magicflix.cx750.xyz:36114/alex/teste/245
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NSC FLORIANOPOLIS HD" tvg-logo="" group-title="Abertos",BR: GLOBO NSC FLORIANOPOLIS HD
+http://magicflix.cx750.xyz:36114/alex/teste/1554
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RBS POA HD" tvg-logo="" group-title="Abertos",BR: GLOBO RBS POA HD
+http://magicflix.cx750.xyz:36114/alex/teste/70
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RJ HD" tvg-logo="" group-title="Abertos",BR: GLOBO RJ HD
+http://magicflix.cx750.xyz:36114/alex/teste/248
+#EXTINF:-1 tvg-id="066c4ae8042376f7158c0279e938c6d6" tvg-name="BR: GLOBO RPC CURITIBA HD" tvg-logo="" group-title="Abertos",BR: GLOBO RPC CURITIBA HD
+http://magicflix.cx750.xyz:36114/alex/teste/247
+#EXTINF:-1 tvg-id="79c730807f53b8f34f1ff080b7bef293" tvg-name="BR: GLOBO RPC FOZ" tvg-logo="" group-title="Abertos",BR: GLOBO RPC FOZ
+http://magicflix.cx750.xyz:36114/alex/teste/240
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RPC MARINGÁ HD" tvg-logo="" group-title="Abertos",BR: GLOBO RPC MARINGÁ HD
+http://magicflix.cx750.xyz:36114/alex/teste/1557
+#EXTINF:-1 tvg-id="ded54d64bc6eb6ca3c246ce69499abcc" tvg-name="BR: GLOBO SP HD 4K" tvg-logo="https://2.bp.blogspot.com/-kNXwvxhSF4g/XHqYJmCHxZI/AAAAAAAAHY4/krb-uf2oXaMYp5iO_SftZ68dXUBIAZD3wCK4BGAYYCw/s1600/globosp%2B%25281%2529.png" group-title="Abertos",BR: GLOBO SP HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/3
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV BAHIA HD" tvg-logo="" group-title="Abertos",BR: GLOBO TV BAHIA HD
+http://magicflix.cx750.xyz:36114/alex/teste/270
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV GAZETA VITORIA HD" tvg-logo="" group-title="Abertos",BR: GLOBO TV GAZETA VITORIA HD
+http://magicflix.cx750.xyz:36114/alex/teste/281
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV MORENA HD" tvg-logo="" group-title="Abertos",BR: GLOBO TV MORENA HD
+http://magicflix.cx750.xyz:36114/alex/teste/1555
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV TEM SJRP HD" tvg-logo="" group-title="Abertos",BR: GLOBO TV TEM SJRP HD
+http://magicflix.cx750.xyz:36114/alex/teste/1558
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO VERDES MARES HD" tvg-logo="" group-title="Abertos",BR: GLOBO VERDES MARES HD
+http://magicflix.cx750.xyz:36114/alex/teste/246
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOOB HD" tvg-logo="" group-title="Infantil",BR: GLOOB HD
+http://magicflix.cx750.xyz:36114/alex/teste/250
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOOBINHO HD" tvg-logo="" group-title="Infantil",BR: GLOOBINHO HD
+http://magicflix.cx750.xyz:36114/alex/teste/82
+#EXTINF:-1 tvg-id="" tvg-name="BR: GNT HD" tvg-logo="" group-title="Variedades",BR: GNT HD
+http://magicflix.cx750.xyz:36114/alex/teste/251
+#EXTINF:-1 tvg-id="70a0421d8a1deb14202b66781ea1c7a0" tvg-name="BR: H2 HD 4K" tvg-logo="" group-title="Documentários",BR: H2 HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/9
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO + HD 4K" tvg-logo="" group-title="Filmes",BR: HBO + HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/36
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2 HD 4K" tvg-logo="" group-title="Filmes",BR: HBO 2 HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/35
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO FAMILY HD 4K" tvg-logo="" group-title="Filmes",BR: HBO FAMILY HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/33
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO HD 4K" tvg-logo="" group-title="Filmes",BR: HBO HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/34
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO MUNDI HD 4K" tvg-logo="" group-title="Filmes",BR: HBO MUNDI HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/40
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO POP HD 4K" tvg-logo="" group-title="Filmes",BR: HBO POP HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/73
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO SIGNATURE HD 4K" tvg-logo="" group-title="Filmes",BR: HBO SIGNATURE HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/39
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO XTREME HD 4K" tvg-logo="" group-title="Filmes",BR: HBO XTREME HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/77
+#EXTINF:-1 tvg-id="" tvg-name="BR: HGTV HD 4K" tvg-logo="" group-title="Documentários",BR: HGTV HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/54
+#EXTINF:-1 tvg-id="" tvg-name="BR: HISTORY HD 4K" tvg-logo="" group-title="Documentários",BR: HISTORY HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/25
+#EXTINF:-1 tvg-id="" tvg-name="BR: I-SAT HD" tvg-logo="" group-title="Filmes",BR: I-SAT HD
+http://magicflix.cx750.xyz:36114/alex/teste/398
+#EXTINF:-1 tvg-id="" tvg-name="BR: ID HD" tvg-logo="" group-title="Documentários",BR: ID HD
+http://magicflix.cx750.xyz:36114/alex/teste/74
+#EXTINF:-1 tvg-id="" tvg-name="BR: Igreja Cristã Maranata HD" tvg-logo="" group-title="Religiosos",BR: Igreja Cristã Maranata HD
+http://magicflix.cx750.xyz:36114/alex/teste/3715
+#EXTINF:-1 tvg-id="" tvg-name="BR: IGREJA MUNDIAL" tvg-logo="" group-title="Abertos",BR: IGREJA MUNDIAL
+http://magicflix.cx750.xyz:36114/alex/teste/3706
+#EXTINF:-1 tvg-id="" tvg-name="BR: ISTV" tvg-logo="" group-title="Variedades",BR: ISTV
+http://magicflix.cx750.xyz:36114/alex/teste/4621
+#EXTINF:-1 tvg-id="" tvg-name="BR: Jovem Pan News HD" tvg-logo="" group-title="Jornalismo",BR: Jovem Pan News HD
+http://magicflix.cx750.xyz:36114/alex/teste/3711
+#EXTINF:-1 tvg-id="" tvg-name="BR: LIFETIME HD 4K" tvg-logo="" group-title="Variedades",BR: LIFETIME HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/64
+#EXTINF:-1 tvg-id="" tvg-name="BR: MAIS NA TELA HD" tvg-logo="" group-title="Variedades",BR: MAIS NA TELA HD
+http://magicflix.cx750.xyz:36114/alex/teste/239
+#EXTINF:-1 tvg-id="" tvg-name="BR: Mapa COVID" tvg-logo="" group-title="Mundo",BR: Mapa COVID
+http://magicflix.cx750.xyz:36114/alex/teste/3719
+#EXTINF:-1 tvg-id="" tvg-name="BR: MEGAPIX HD 4K" tvg-logo="" group-title="Filmes",BR: MEGAPIX HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/45
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV HD 4K" tvg-logo="" group-title="Variedades",BR: MTV HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/63
+#EXTINF:-1 tvg-id="" tvg-name="BR: MULTISHOW HD 4K" tvg-logo="" group-title="Variedades",BR: MULTISHOW HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/51
+#EXTINF:-1 tvg-id="79c730807f53b8f34f1ff080b7bef293" tvg-name="BR: MUSICBOX BRASIL HD" tvg-logo="" group-title="Música",BR: MUSICBOX BRASIL HD
+http://magicflix.cx750.xyz:36114/alex/teste/269
+#EXTINF:-1 tvg-id="" tvg-name="BR: NATGEO HD 4K" tvg-logo="" group-title="Documentários",BR: NATGEO HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/57
+#EXTINF:-1 tvg-id="" tvg-name="BR: NATGEO KIDS HD 4K" tvg-logo="" group-title="Infantil",BR: NATGEO KIDS HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/81
+#EXTINF:-1 tvg-id="" tvg-name="BR: NETGEO WILD HD 4K" tvg-logo="" group-title="Documentários",BR: NETGEO WILD HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/15
+#EXTINF:-1 tvg-id="" tvg-name="BR: NHK WORLD HD" tvg-logo="" group-title="Mundo",BR: NHK WORLD HD
+http://magicflix.cx750.xyz:36114/alex/teste/399
+#EXTINF:-1 tvg-id="" tvg-name="BR: NICK HD 4K" tvg-logo="" group-title="Infantil",BR: NICK HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/58
+#EXTINF:-1 tvg-id="" tvg-name="BR: NICK JR. HD 4K" tvg-logo="" group-title="Infantil",BR: NICK JR. HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/78
+#EXTINF:-1 tvg-id="" tvg-name="BR: NOVA MANCHETE HD" tvg-logo="" group-title="Variedades",BR: NOVA MANCHETE HD
+http://magicflix.cx750.xyz:36114/alex/teste/1553
+#EXTINF:-1 tvg-id="" tvg-name="BR: NOVO TEMPO HD" tvg-logo="" group-title="Abertos",BR: NOVO TEMPO HD
+http://magicflix.cx750.xyz:36114/alex/teste/400
+#EXTINF:-1 tvg-id="" tvg-name="BR: OFF HD" tvg-logo="" group-title="Variedades",BR: OFF HD
+http://magicflix.cx750.xyz:36114/alex/teste/253
+#EXTINF:-1 tvg-id="" tvg-name="BR: PARAMOUNT HD 4K" tvg-logo="" group-title="Filmes",BR: PARAMOUNT HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/65
+#EXTINF:-1 tvg-id="" tvg-name="BR: PEPPA PIG HD 24 HORAS" tvg-logo="" group-title="Abertos",BR: PEPPA PIG HD 24 HORAS
+http://magicflix.cx750.xyz:36114/alex/teste/3707
+#EXTINF:-1 tvg-id="" tvg-name="BR: PFC 2 HD 4K" tvg-logo="" group-title="Esportes",BR: PFC 2 HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/7
+#EXTINF:-1 tvg-id="" tvg-name="BR: PFC 3 HD 4K" tvg-logo="" group-title="Esportes",BR: PFC 3 HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/17
+#EXTINF:-1 tvg-id="" tvg-name="BR: PFC 4 HD 4K" tvg-logo="" group-title="Esportes",BR: PFC 4 HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/16
+#EXTINF:-1 tvg-id="" tvg-name="BR: PFC 5 HD" tvg-logo="" group-title="Esportes",BR: PFC 5 HD
+http://magicflix.cx750.xyz:36114/alex/teste/20
+#EXTINF:-1 tvg-id="" tvg-name="BR: PFC 637 HD 4K" tvg-logo="" group-title="Esportes",BR: PFC 637 HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/22
+#EXTINF:-1 tvg-id="" tvg-name="BR: PFC 638" tvg-logo="" group-title="Esportes",BR: PFC 638
+http://magicflix.cx750.xyz:36114/alex/teste/4
+#EXTINF:-1 tvg-id="" tvg-name="BR: PLAY KIDS HD" tvg-logo="" group-title="Infantil",BR: PLAY KIDS HD
+http://magicflix.cx750.xyz:36114/alex/teste/1559
+#EXTINF:-1 tvg-id="" tvg-name="BR: POCOYO 24 horas HD" tvg-logo="" group-title="Infantil",BR: POCOYO 24 horas HD
+http://magicflix.cx750.xyz:36114/alex/teste/3709
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES HD 4K" tvg-logo="" group-title="Esportes",BR: PREMIERE CLUBES HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/6
+#EXTINF:-1 tvg-id="" tvg-name="BR: PRIME BOX" tvg-logo="" group-title="Variedades",BR: PRIME BOX
+http://magicflix.cx750.xyz:36114/alex/teste/401
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD HD" tvg-logo="" group-title="Abertos",BR: RECORD HD
+http://magicflix.cx750.xyz:36114/alex/teste/68
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD NEWS HD" tvg-logo="" group-title="Jornalismo",BR: RECORD NEWS HD
+http://magicflix.cx750.xyz:36114/alex/teste/259
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE SECULO 21" tvg-logo="" group-title="Abertos",BR: REDE SECULO 21
+http://magicflix.cx750.xyz:36114/alex/teste/282
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE VIDA HD" tvg-logo="" group-title="Abertos",BR: REDE VIDA HD
+http://magicflix.cx750.xyz:36114/alex/teste/271
+#EXTINF:-1 tvg-id="f0f03728fb8e9f079445ee8609a89778" tvg-name="BR: REDETV! HD" tvg-logo="" group-title="Abertos",BR: REDETV! HD
+http://magicflix.cx750.xyz:36114/alex/teste/260
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDETV! HD PARANÁ" tvg-logo="" group-title="Abertos",BR: REDETV! HD PARANÁ
+http://magicflix.cx750.xyz:36114/alex/teste/1560
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDETV! RS" tvg-logo="" group-title="Abertos",BR: REDETV! RS
+http://magicflix.cx750.xyz:36114/alex/teste/4625
+#EXTINF:-1 tvg-id="" tvg-name="BR: RIT TV HD" tvg-logo="" group-title="Religiosos",BR: RIT TV HD
+http://magicflix.cx750.xyz:36114/alex/teste/3712
+#EXTINF:-1 tvg-id="9abc9b7d0f64fa3483cca95b5dc88e20" tvg-name="BR: SBT HD" tvg-logo="" group-title="Abertos",BR: SBT HD
+http://magicflix.cx750.xyz:36114/alex/teste/254
+#EXTINF:-1 tvg-id="" tvg-name="BR: Sertanejo 2021 Mais Tocadas" tvg-logo="" group-title="Música",BR: Sertanejo 2021 Mais Tocadas
+http://magicflix.cx750.xyz:36114/alex/teste/3708
+#EXTINF:-1 tvg-id="" tvg-name="BR: SHOPTIME HD" tvg-logo="" group-title="Abertos",BR: SHOPTIME HD
+http://magicflix.cx750.xyz:36114/alex/teste/1556
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPACE HD 4K" tvg-logo="" group-title="Filmes",BR: SPACE HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/48
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1 HD 4K" tvg-logo="" group-title="Esportes",BR: SPORTV 1 HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/26
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2 HD 4K" tvg-logo="" group-title="Esportes",BR: SPORTV 2 HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/31
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3 HD 4K" tvg-logo="" group-title="Esportes",BR: SPORTV 3 HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/56
+#EXTINF:-1 tvg-id="" tvg-name="BR: STUDIO HD 4K" tvg-logo="" group-title="Filmes",BR: STUDIO HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/76
+#EXTINF:-1 tvg-id="" tvg-name="BR: SYFY HD 4K" tvg-logo="" group-title="Filmes",BR: SYFY HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/61
+#EXTINF:-1 tvg-id="9782829aa32dc74c9d3dc7d00b932afc" tvg-name="BR: TBS HD" tvg-logo="" group-title="Filmes",BR: TBS HD
+http://magicflix.cx750.xyz:36114/alex/teste/261
+#EXTINF:-1 tvg-id="675b12b4872c2915241fe36f43c56d77" tvg-name="BR: TC ACTION HD 4K" tvg-logo="" group-title="Filmes",BR: TC ACTION HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TC CULT HD 4K" tvg-logo="" group-title="Filmes",BR: TC CULT HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/12
+#EXTINF:-1 tvg-id="" tvg-name="BR: TC FUN HD 4K" tvg-logo="" group-title="Filmes",BR: TC FUN HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/10
+#EXTINF:-1 tvg-id="" tvg-name="BR: TC PIPOCA HD 4K" tvg-logo="" group-title="Filmes",BR: TC PIPOCA HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/11
+#EXTINF:-1 tvg-id="" tvg-name="BR: TC PREMIUM HD 4K" tvg-logo="" group-title="Filmes",BR: TC PREMIUM HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/18
+#EXTINF:-1 tvg-id="" tvg-name="BR: TC TOUCH HD 4K" tvg-logo="" group-title="Filmes",BR: TC TOUCH HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/80
+#EXTINF:-1 tvg-id="" tvg-name="BR: TCM HD" tvg-logo="" group-title="Filmes",BR: TCM HD
+http://magicflix.cx750.xyz:36114/alex/teste/252
+#EXTINF:-1 tvg-id="fd4d1af71a52e6cdb21215302f6de5ec" tvg-name="BR: TERRA VIVA HD" tvg-logo="" group-title="Abertos",BR: TERRA VIVA HD
+http://magicflix.cx750.xyz:36114/alex/teste/1445
+#EXTINF:-1 tvg-id="" tvg-name="BR: TLC HD" tvg-logo="" group-title="Documentários",BR: TLC HD
+http://magicflix.cx750.xyz:36114/alex/teste/262
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT HD" tvg-logo="" group-title="Filmes",BR: TNT HD
+http://magicflix.cx750.xyz:36114/alex/teste/14
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT SERIES HD" tvg-logo="" group-title="Séries",BR: TNT SERIES HD
+http://magicflix.cx750.xyz:36114/alex/teste/13
+#EXTINF:-1 tvg-id="" tvg-name="BR: TOONCAST HD" tvg-logo="" group-title="Infantil",BR: TOONCAST HD
+http://magicflix.cx750.xyz:36114/alex/teste/394
+#EXTINF:-1 tvg-id="669f9e21ce2ce66a6db1b4a2571e98a0" tvg-name="BR: TRUTV HD" tvg-logo="" group-title="Variedades",BR: TRUTV HD
+http://magicflix.cx750.xyz:36114/alex/teste/277
+#EXTINF:-1 tvg-id="954c95058e9842d8b063b8536e33aec4" tvg-name="BR: TV BRASIL HD" tvg-logo="" group-title="Abertos",BR: TV BRASIL HD
+http://magicflix.cx750.xyz:36114/alex/teste/276
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV CAMARA HD" tvg-logo="" group-title="Abertos",BR: TV CAMARA HD
+http://magicflix.cx750.xyz:36114/alex/teste/274
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV CARIOCA.NET" tvg-logo="" group-title="Variedades",BR: TV CARIOCA.NET
+http://magicflix.cx750.xyz:36114/alex/teste/4610
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV CULTURA HD" tvg-logo="" group-title="Abertos",BR: TV CULTURA HD
+http://magicflix.cx750.xyz:36114/alex/teste/278
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV DIARIO" tvg-logo="" group-title="Abertos",BR: TV DIARIO
+http://magicflix.cx750.xyz:36114/alex/teste/264
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV ESCOLA HD" tvg-logo="" group-title="Abertos",BR: TV ESCOLA HD
+http://magicflix.cx750.xyz:36114/alex/teste/279
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV EVANGELIZAR" tvg-logo="" group-title="Abertos",BR: TV EVANGELIZAR
+http://magicflix.cx750.xyz:36114/alex/teste/272
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV GAZETA HD" tvg-logo="" group-title="Abertos",BR: TV GAZETA HD
+http://magicflix.cx750.xyz:36114/alex/teste/280
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV JORNAL DO NORDESTE" tvg-logo="" group-title="Variedades",BR: TV JORNAL DO NORDESTE
+http://magicflix.cx750.xyz:36114/alex/teste/4620
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV MAIS BRASIL" tvg-logo="" group-title="Filmes",BR: TV MAIS BRASIL
+http://magicflix.cx750.xyz:36114/alex/teste/4618
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV RÁ TIM BUM HD" tvg-logo="" group-title="Infantil",BR: TV RÁ TIM BUM HD
+http://magicflix.cx750.xyz:36114/alex/teste/403
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV5" tvg-logo="" group-title="Mundo",BR: TV5
+http://magicflix.cx750.xyz:36114/alex/teste/1737
+#EXTINF:-1 tvg-id="" tvg-name="BR: UNIVERSAL HD 4K" tvg-logo="" group-title="Filmes",BR: UNIVERSAL HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/66
+#EXTINF:-1 tvg-id="" tvg-name="BR: VH1 MEGAHITS HD" tvg-logo="" group-title="Música",BR: VH1 MEGAHITS HD
+http://magicflix.cx750.xyz:36114/alex/teste/395
+#EXTINF:-1 tvg-id="" tvg-name="BR: VINTAGE TV" tvg-logo="" group-title="Variedades",BR: VINTAGE TV
+http://magicflix.cx750.xyz:36114/alex/teste/4612
+#EXTINF:-1 tvg-id="ea94047a8dff7195cb02588685317c52" tvg-name="BR: VIVA HD" tvg-logo="" group-title="Séries",BR: VIVA HD
+http://magicflix.cx750.xyz:36114/alex/teste/263
+#EXTINF:-1 tvg-id="" tvg-name="BR: WARNER HD 4K" tvg-logo="" group-title="Séries",BR: WARNER HD 4K
+http://magicflix.cx750.xyz:36114/alex/teste/67
+#EXTINF:-1 tvg-id="" tvg-name="BR: WB Kids HD" tvg-logo="https://www.youtube.com/watch?v=IK388eZtxsw" group-title="Infantil",BR: WB Kids HD
+http://magicflix.cx750.xyz:36114/alex/teste/3710
+#EXTINF:-1 tvg-id="" tvg-name="BR: WOOHOO HD" tvg-logo="" group-title="Esportes",BR: WOOHOO HD
+http://magicflix.cx750.xyz:36114/alex/teste/275
+#EXTINF:-1 tvg-id="" tvg-name="BR: Yeeaah! HD" tvg-logo="" group-title="Variedades",BR: Yeeaah! HD
+http://magicflix.cx750.xyz:36114/alex/teste/1444
+#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau 24 Horas" tvg-logo="" group-title="Infantil",Pica-Pau 24 Horas
+http://magicflix.cx750.xyz:36114/alex/teste/3702
+#EXTINF:-1 tvg-id="" tvg-name="MOSAICO 1" tvg-logo="" group-title="Abertos",MOSAICO 1
+http://magicflix.cx750.xyz:36114/alex/teste/4644
+#EXTINF:-1 tvg-id="" tvg-name="MOSAICO 2" tvg-logo="" group-title="Abertos",MOSAICO 2
+http://magicflix.cx750.xyz:36114/alex/teste/4645
+#EXTINF:-1 tvg-id="" tvg-name="BR: CAMERA PONTE DA AMIZADE" tvg-logo="" group-title="Abertos",BR: CAMERA PONTE DA AMIZADE
+http://magicflix.cx750.xyz:36114/alex/teste/4647
+#EXTINF:-1 tvg-id="2f98d118ce841cbabad6976ca40aaabe" tvg-name="BR: ZOOMOO KIDS" tvg-logo="" group-title="Infantil",BR: ZOOMOO KIDS
+http://magicflix.cx750.xyz:36114/alex/teste/4667
+#EXTINF:-1 tvg-id="" tvg-name="BR: COPA NORDESTE 1 HD" tvg-logo="" group-title="Esportes",BR: COPA NORDESTE 1 HD
+http://magicflix.cx750.xyz:36114/alex/teste/4668
+#EXTINF:-1 tvg-id="9c68f7a95b37f6e27dd92a2adc3d96b9" tvg-name="BR: FILM & ARTS HD" tvg-logo="" group-title="Filmes",BR: FILM & ARTS HD
+http://magicflix.cx750.xyz:36114/alex/teste/4669
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RPC FOZ (PVR)" tvg-logo="" group-title="Abertos",BR: GLOBO RPC FOZ (PVR)
+http://magicflix.cx750.xyz:36114/alex/teste/4683
+#EXTINF:-1 tvg-id="" tvg-name="BR: CAMPEONATO CARIOCA 2 HD" tvg-logo="" group-title="Esportes",BR: CAMPEONATO CARIOCA 2 HD
+http://magicflix.cx750.xyz:36114/alex/teste/4684
+#EXTINF:-1 tvg-id="ae43f93f9353b2bb14e23a052a9dcdf2" tvg-name="BR: REDE MASSA (SBT) HD" tvg-logo="" group-title="Abertos",BR: REDE MASSA (SBT) HD
+http://magicflix.cx750.xyz:36114/alex/teste/4690
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND TV TAROBA HD" tvg-logo="" group-title="Abertos",BR: BAND TV TAROBA HD
+http://magicflix.cx750.xyz:36114/alex/teste/4691
+#EXTINF:-1 tvg-id="" tvg-name="Sincrônico (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGJfkoYhe1DJeUhhlYbAIKwHsnO.jpg" group-title="MaxCine",Sincrônico (2020)
+http://magicflix.cx750.xyz:36114/movie/alex/teste/4693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CNT" tvg-logo="" group-title="Abertos",CNT
+http://magicflix.cx750.xyz:36114/alex/teste/4711
+#EXTINF:-1 tvg-id="" tvg-name="Like HD" tvg-logo="" group-title="Variedades",Like HD
+http://magicflix.cx750.xyz:36114/alex/teste/4712
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Vanguarda S.J. HD" tvg-logo="" group-title="Abertos",Globo Tv Vanguarda S.J. HD
+http://magicflix.cx750.xyz:36114/alex/teste/4713
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Tribuna Santos HD" tvg-logo="" group-title="Abertos",Globo Tv Tribuna Santos HD
+http://magicflix.cx750.xyz:36114/alex/teste/4714
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Tem Sorocaba HD" tvg-logo="" group-title="Abertos",Globo Tv Tem Sorocaba HD
+http://magicflix.cx750.xyz:36114/alex/teste/4715
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Tem Bauru HD" tvg-logo="" group-title="Abertos",Globo Tv Tem Bauru HD
+http://magicflix.cx750.xyz:36114/alex/teste/4716
+#EXTINF:-1 tvg-id="" tvg-name="Tv Pai Eterno HD" tvg-logo="" group-title="Abertos",Tv Pai Eterno HD
+http://magicflix.cx750.xyz:36114/alex/teste/4717
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Amazonas HD" tvg-logo="" group-title="Abertos",Globo Tv Amazonas HD
+http://magicflix.cx750.xyz:36114/alex/teste/4718
+#EXTINF:-1 tvg-id="" tvg-name="24h os Simpsons" tvg-logo="" group-title="Variedades",24h os Simpsons
+http://magicflix.cx750.xyz:36114/alex/teste/4719
+#EXTINF:-1 tvg-id="9646c18a081b82322afd77a2dae74cc0" tvg-name="BR: PREMIERE 1" tvg-logo="http://api.fr34you.top/logos/icon2/premiere.png" group-title="Esportes",BR: PREMIERE 1
+http://magicflix.cx750.xyz:36114/alex/teste/4721
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 2" tvg-logo="http://api.fr34you.top/logos/icon2/premiere.png" group-title="Esportes",BR: PREMIERE 2
+http://magicflix.cx750.xyz:36114/alex/teste/4722
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 3" tvg-logo="http://api.fr34you.top/logos/icon2/premiere.png" group-title="Esportes",BR: Premiere 3
+http://magicflix.cx750.xyz:36114/alex/teste/4723
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 4" tvg-logo="http://api.fr34you.top/logos/icon2/premiere.png" group-title="Esportes",BR: Premiere 4
+http://magicflix.cx750.xyz:36114/alex/teste/4724
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 5" tvg-logo="http://api.fr34you.top/logos/icon2/premiere.png" group-title="Esportes",BR: Premiere 5
+http://magicflix.cx750.xyz:36114/alex/teste/4725
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 6" tvg-logo="http://api.fr34you.top/logos/icon2/premiere.png" group-title="Abertos",BR: Premiere 6
+http://magicflix.cx750.xyz:36114/alex/teste/4726
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 7" tvg-logo="http://api.fr34you.top/logos/icon2/premiere.png" group-title="Esportes",BR: Premiere 7
+http://magicflix.cx750.xyz:36114/alex/teste/4727
+#EXTINF:-1 tvg-id="" tvg-name="BR: RBI HD" tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-rbi-tv-sky-2.png" group-title="Abertos",BR: RBI HD
+http://magicflix.cx750.xyz:36114/alex/teste/4728
+#EXTINF:-1 tvg-id="" tvg-name="LAT: 13 HD CHILE" tvg-logo="" group-title="Latino",LAT: 13 HD CHILE
+http://magicflix.cx750.xyz:36114/alex/teste/89
+#EXTINF:-1 tvg-id="" tvg-name="LAT: 13 MAXHD" tvg-logo="" group-title="Latino",LAT: 13 MAXHD
+http://magicflix.cx750.xyz:36114/alex/teste/242
+#EXTINF:-1 tvg-id="" tvg-name="LAT: A&E" tvg-logo="http://nextplaytv.online:25461/restreamroberto/1929494954050/62" group-title="Latino",LAT: A&E
+http://magicflix.cx750.xyz:36114/alex/teste/90
+#EXTINF:-1 tvg-id="" tvg-name="LAT: A24 ARGENTINA" tvg-logo="" group-title="Latino",LAT: A24 ARGENTINA
+http://magicflix.cx750.xyz:36114/alex/teste/91
+#EXTINF:-1 tvg-id="" tvg-name="LAT: ABC TV HD PY" tvg-logo="" group-title="Latino",LAT: ABC TV HD PY
+http://magicflix.cx750.xyz:36114/alex/teste/92
+#EXTINF:-1 tvg-id="" tvg-name="LAT: AMC HD" tvg-logo="" group-title="Latino",LAT: AMC HD
+http://magicflix.cx750.xyz:36114/alex/teste/93
+#EXTINF:-1 tvg-id="" tvg-name="LAT: AMERICA TV ARGENTINA" tvg-logo="" group-title="Latino",LAT: AMERICA TV ARGENTINA
+http://magicflix.cx750.xyz:36114/alex/teste/94
+#EXTINF:-1 tvg-id="" tvg-name="LAT: AMERICA TV PERU HD" tvg-logo="" group-title="Latino",LAT: AMERICA TV PERU HD
+http://magicflix.cx750.xyz:36114/alex/teste/95
+#EXTINF:-1 tvg-id="" tvg-name="LAT: ANIMAL PLANET HD" tvg-logo="" group-title="Latino",LAT: ANIMAL PLANET HD
+http://magicflix.cx750.xyz:36114/alex/teste/96
+#EXTINF:-1 tvg-id="" tvg-name="LAT: ANTENA 3 HD" tvg-logo="" group-title="Latino",LAT: ANTENA 3 HD
+http://magicflix.cx750.xyz:36114/alex/teste/97
+#EXTINF:-1 tvg-id="" tvg-name="LAT: AXN HD" tvg-logo="" group-title="Latino",LAT: AXN HD
+http://magicflix.cx750.xyz:36114/alex/teste/98
+#EXTINF:-1 tvg-id="" tvg-name="LAT: AZ MUNDO" tvg-logo="" group-title="Latino",LAT: AZ MUNDO
+http://magicflix.cx750.xyz:36114/alex/teste/99
+#EXTINF:-1 tvg-id="" tvg-name="LAT: BABY TV" tvg-logo="" group-title="Latino",LAT: BABY TV
+http://magicflix.cx750.xyz:36114/alex/teste/100
+#EXTINF:-1 tvg-id="" tvg-name="LAT: BOLIVIA TV" tvg-logo="" group-title="Latino",LAT: BOLIVIA TV
+http://magicflix.cx750.xyz:36114/alex/teste/101
+#EXTINF:-1 tvg-id="" tvg-name="LAT: BOLIVISION" tvg-logo="" group-title="Latino",LAT: BOLIVISION
+http://magicflix.cx750.xyz:36114/alex/teste/102
+#EXTINF:-1 tvg-id="" tvg-name="LAT: BOOMERANG HD" tvg-logo="" group-title="Latino",LAT: BOOMERANG HD
+http://magicflix.cx750.xyz:36114/alex/teste/103
+#EXTINF:-1 tvg-id="" tvg-name="LAT: C5N ARGENTINA" tvg-logo="" group-title="Latino",LAT: C5N ARGENTINA
+http://magicflix.cx750.xyz:36114/alex/teste/104
+#EXTINF:-1 tvg-id="" tvg-name="LAT: C9N NOTICIAS HD" tvg-logo="" group-title="Latino",LAT: C9N NOTICIAS HD
+http://magicflix.cx750.xyz:36114/alex/teste/105
+#EXTINF:-1 tvg-id="" tvg-name="LAT: CANAL 10 URUGUAY" tvg-logo="" group-title="Latino",LAT: CANAL 10 URUGUAY
+http://magicflix.cx750.xyz:36114/alex/teste/106
+#EXTINF:-1 tvg-id="" tvg-name="LAT: CANAL 26 HD" tvg-logo="" group-title="Latino",LAT: CANAL 26 HD
+http://magicflix.cx750.xyz:36114/alex/teste/241
+#EXTINF:-1 tvg-id="" tvg-name="LAT: CANAL 4 MONTECARLO URUGUAY" tvg-logo="" group-title="Latino",LAT: CANAL 4 MONTECARLO URUGUAY
+http://magicflix.cx750.xyz:36114/alex/teste/107
+#EXTINF:-1 tvg-id="" tvg-name="LAT: CANAL 5 MEXICO" tvg-logo="" group-title="Latino",LAT: CANAL 5 MEXICO
+http://magicflix.cx750.xyz:36114/alex/teste/108
+#EXTINF:-1 tvg-id="" tvg-name="LAT: CANAL DE LAS ESTRELLAS" tvg-logo="" group-title="Latino",LAT: CANAL DE LAS ESTRELLAS
+http://magicflix.cx750.xyz:36114/alex/teste/109
+#EXTINF:-1 tvg-id="" tvg-name="LAT: CARACOL HD" tvg-logo="" group-title="Latino",LAT: CARACOL HD
+http://magicflix.cx750.xyz:36114/alex/teste/110
+#EXTINF:-1 tvg-id="" tvg-name="LAT: CARTOON NETWORK" tvg-logo="" group-title="Latino",LAT: CARTOON NETWORK
+http://magicflix.cx750.xyz:36114/alex/teste/111
+#EXTINF:-1 tvg-id="" tvg-name="LAT: CAZA Y PEZCA HD" tvg-logo="" group-title="Latino",LAT: CAZA Y PEZCA HD
+http://magicflix.cx750.xyz:36114/alex/teste/112
+#EXTINF:-1 tvg-id="" tvg-name="LAT: CHILEVISION" tvg-logo="" group-title="Latino",LAT: CHILEVISION
+http://magicflix.cx750.xyz:36114/alex/teste/114
+#EXTINF:-1 tvg-id="" tvg-name="LAT: CINECANAL HD" tvg-logo="" group-title="Latino",LAT: CINECANAL HD
+http://magicflix.cx750.xyz:36114/alex/teste/115
+#EXTINF:-1 tvg-id="" tvg-name="LAT: CINEMA DINAMITA" tvg-logo="" group-title="Latino",LAT: CINEMA DINAMITA
+http://magicflix.cx750.xyz:36114/alex/teste/116
+#EXTINF:-1 tvg-id="" tvg-name="LAT: CINEMAX HD" tvg-logo="" group-title="Latino",LAT: CINEMAX HD
+http://magicflix.cx750.xyz:36114/alex/teste/117
+#EXTINF:-1 tvg-id="" tvg-name="LAT: CNN CHILE HD" tvg-logo="" group-title="Latino",LAT: CNN CHILE HD
+http://magicflix.cx750.xyz:36114/alex/teste/118
+#EXTINF:-1 tvg-id="" tvg-name="LAT: CRONICA TV ARGENTINA" tvg-logo="" group-title="Latino",LAT: CRONICA TV ARGENTINA
+http://magicflix.cx750.xyz:36114/alex/teste/119
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DE PELICULA" tvg-logo="" group-title="Latino",LAT: DE PELICULA
+http://magicflix.cx750.xyz:36114/alex/teste/120
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DIRECTV SPORT HD" tvg-logo="" group-title="Latino",LAT: DIRECTV SPORT HD
+http://magicflix.cx750.xyz:36114/alex/teste/121
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DIRECTV SPORT PLUS" tvg-logo="" group-title="Latino",LAT: DIRECTV SPORT PLUS
+http://magicflix.cx750.xyz:36114/alex/teste/122
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISCOVERY CHANNEL" tvg-logo="" group-title="Latino",LAT: DISCOVERY CHANNEL
+http://magicflix.cx750.xyz:36114/alex/teste/123
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISCOVERY CIVILIZATION" tvg-logo="" group-title="Latino",LAT: DISCOVERY CIVILIZATION
+http://magicflix.cx750.xyz:36114/alex/teste/124
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISCOVERY H&H" tvg-logo="" group-title="Latino",LAT: DISCOVERY H&H
+http://magicflix.cx750.xyz:36114/alex/teste/125
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISCOVERY INVESTIGACION" tvg-logo="" group-title="Latino",LAT: DISCOVERY INVESTIGACION
+http://magicflix.cx750.xyz:36114/alex/teste/126
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISCOVERY KIDS" tvg-logo="" group-title="Latino",LAT: DISCOVERY KIDS
+http://magicflix.cx750.xyz:36114/alex/teste/127
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISCOVERY SCIENCIE" tvg-logo="" group-title="Latino",LAT: DISCOVERY SCIENCIE
+http://magicflix.cx750.xyz:36114/alex/teste/128
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISCOVERY THEATER" tvg-logo="" group-title="Latino",LAT: DISCOVERY THEATER
+http://magicflix.cx750.xyz:36114/alex/teste/129
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISCOVERY TLC" tvg-logo="" group-title="Latino",LAT: DISCOVERY TLC
+http://magicflix.cx750.xyz:36114/alex/teste/130
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISCOVERY TURBO HD" tvg-logo="" group-title="Latino",LAT: DISCOVERY TURBO HD
+http://magicflix.cx750.xyz:36114/alex/teste/131
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISCOVERY WORLD HD" tvg-logo="" group-title="Latino",LAT: DISCOVERY WORLD HD
+http://magicflix.cx750.xyz:36114/alex/teste/132
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISNEY CHANNEL" tvg-logo="" group-title="Latino",LAT: DISNEY CHANNEL
+http://magicflix.cx750.xyz:36114/alex/teste/133
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISNEY JR" tvg-logo="" group-title="Latino",LAT: DISNEY JR
+http://magicflix.cx750.xyz:36114/alex/teste/134
+#EXTINF:-1 tvg-id="" tvg-name="LAT: DISNEY XD" tvg-logo="" group-title="Latino",LAT: DISNEY XD
+http://magicflix.cx750.xyz:36114/alex/teste/135
+#EXTINF:-1 tvg-id="" tvg-name="LAT: ECUADOR TV" tvg-logo="" group-title="Latino",LAT: ECUADOR TV
+http://magicflix.cx750.xyz:36114/alex/teste/136
+#EXTINF:-1 tvg-id="" tvg-name="LAT: EL GOURMET" tvg-logo="" group-title="Latino",LAT: EL GOURMET
+http://magicflix.cx750.xyz:36114/alex/teste/137
+#EXTINF:-1 tvg-id="" tvg-name="LAT: EL NUEVE ARGENTINA" tvg-logo="" group-title="Latino",LAT: EL NUEVE ARGENTINA
+http://magicflix.cx750.xyz:36114/alex/teste/138
+#EXTINF:-1 tvg-id="" tvg-name="LAT: EL TRECE HD" tvg-logo="" group-title="Latino",LAT: EL TRECE HD
+http://magicflix.cx750.xyz:36114/alex/teste/139
+#EXTINF:-1 tvg-id="" tvg-name="LAT: ESPN 2 HD" tvg-logo="" group-title="Latino",LAT: ESPN 2 HD
+http://magicflix.cx750.xyz:36114/alex/teste/140
+#EXTINF:-1 tvg-id="" tvg-name="LAT: ESPN 3 HD" tvg-logo="" group-title="Latino",LAT: ESPN 3 HD
+http://magicflix.cx750.xyz:36114/alex/teste/141
+#EXTINF:-1 tvg-id="" tvg-name="LAT: ESPN HD" tvg-logo="" group-title="Latino",LAT: ESPN HD
+http://magicflix.cx750.xyz:36114/alex/teste/142
+#EXTINF:-1 tvg-id="" tvg-name="LAT: ESPN PLUS" tvg-logo="" group-title="Latino",LAT: ESPN PLUS
+http://magicflix.cx750.xyz:36114/alex/teste/143
+#EXTINF:-1 tvg-id="" tvg-name="LAT: ETC TV CHILE" tvg-logo="" group-title="Latino",LAT: ETC TV CHILE
+http://magicflix.cx750.xyz:36114/alex/teste/144
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOOD NETWORK" tvg-logo="" group-title="Latino",LAT: FOOD NETWORK
+http://magicflix.cx750.xyz:36114/alex/teste/145
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX ACTION HD" tvg-logo="" group-title="Latino",LAT: FOX ACTION HD
+http://magicflix.cx750.xyz:36114/alex/teste/146
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX CINEMA HD" tvg-logo="" group-title="Latino",LAT: FOX CINEMA HD
+http://magicflix.cx750.xyz:36114/alex/teste/147
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX CLASSIC HD" tvg-logo="" group-title="Latino",LAT: FOX CLASSIC HD
+http://magicflix.cx750.xyz:36114/alex/teste/148
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX COMEDY HD" tvg-logo="" group-title="Latino",LAT: FOX COMEDY HD
+http://magicflix.cx750.xyz:36114/alex/teste/149
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX FAMILY HD" tvg-logo="" group-title="Latino",LAT: FOX FAMILY HD
+http://magicflix.cx750.xyz:36114/alex/teste/150
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX HD" tvg-logo="" group-title="Latino",LAT: FOX HD
+http://magicflix.cx750.xyz:36114/alex/teste/151
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX LIFE HD" tvg-logo="" group-title="Latino",LAT: FOX LIFE HD
+http://magicflix.cx750.xyz:36114/alex/teste/152
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX MOVIES HD" tvg-logo="" group-title="Latino",LAT: FOX MOVIES HD
+http://magicflix.cx750.xyz:36114/alex/teste/153
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX SERIES" tvg-logo="" group-title="Latino",LAT: FOX SERIES
+http://magicflix.cx750.xyz:36114/alex/teste/154
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX SPORT 1 MEXICO" tvg-logo="" group-title="Latino",LAT: FOX SPORT 1 MEXICO
+http://magicflix.cx750.xyz:36114/alex/teste/155
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX SPORT 2 ARGENTINA" tvg-logo="" group-title="Latino",LAT: FOX SPORT 2 ARGENTINA
+http://magicflix.cx750.xyz:36114/alex/teste/156
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX SPORT 2 HD" tvg-logo="" group-title="Latino",LAT: FOX SPORT 2 HD
+http://magicflix.cx750.xyz:36114/alex/teste/157
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX SPORT 2 MEXICO" tvg-logo="" group-title="Latino",LAT: FOX SPORT 2 MEXICO
+http://magicflix.cx750.xyz:36114/alex/teste/158
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX SPORT 3 ARGENTINA" tvg-logo="" group-title="Latino",LAT: FOX SPORT 3 ARGENTINA
+http://magicflix.cx750.xyz:36114/alex/teste/159
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX SPORT 3 HD" tvg-logo="" group-title="Latino",LAT: FOX SPORT 3 HD
+http://magicflix.cx750.xyz:36114/alex/teste/160
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX SPORT 3 MEXICO" tvg-logo="" group-title="Latino",LAT: FOX SPORT 3 MEXICO
+http://magicflix.cx750.xyz:36114/alex/teste/161
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX SPORT HD ARGENTINA" tvg-logo="" group-title="Latino",LAT: FOX SPORT HD ARGENTINA
+http://magicflix.cx750.xyz:36114/alex/teste/162
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX SPORT PREMIUM HD" tvg-logo="" group-title="Latino",LAT: FOX SPORT PREMIUM HD
+http://magicflix.cx750.xyz:36114/alex/teste/163
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FX HD" tvg-logo="" group-title="Latino",LAT: FX HD
+http://magicflix.cx750.xyz:36114/alex/teste/164
+#EXTINF:-1 tvg-id="" tvg-name="LAT: FXM HD" tvg-logo="" group-title="Latino",LAT: FXM HD
+http://magicflix.cx750.xyz:36114/alex/teste/165
+#EXTINF:-1 tvg-id="" tvg-name="LAT: GLITZ" tvg-logo="" group-title="Latino",LAT: GLITZ
+http://magicflix.cx750.xyz:36114/alex/teste/166
+#EXTINF:-1 tvg-id="" tvg-name="LAT: GOL PERU" tvg-logo="" group-title="Latino",LAT: GOL PERU
+http://magicflix.cx750.xyz:36114/alex/teste/167
+#EXTINF:-1 tvg-id="" tvg-name="LAT: GOLDEN" tvg-logo="" group-title="Latino",LAT: GOLDEN
+http://magicflix.cx750.xyz:36114/alex/teste/168
+#EXTINF:-1 tvg-id="" tvg-name="LAT: GOLDEN EDGE" tvg-logo="" group-title="Latino",LAT: GOLDEN EDGE
+http://magicflix.cx750.xyz:36114/alex/teste/169
+#EXTINF:-1 tvg-id="" tvg-name="LAT: GOLDEN PLUS" tvg-logo="" group-title="Latino",LAT: GOLDEN PLUS
+http://magicflix.cx750.xyz:36114/alex/teste/170
+#EXTINF:-1 tvg-id="" tvg-name="LAT: HBO 2 HD" tvg-logo="" group-title="Latino",LAT: HBO 2 HD
+http://magicflix.cx750.xyz:36114/alex/teste/171
+#EXTINF:-1 tvg-id="" tvg-name="LAT: HBO EXTREME HD" tvg-logo="" group-title="Latino",LAT: HBO EXTREME HD
+http://magicflix.cx750.xyz:36114/alex/teste/172
+#EXTINF:-1 tvg-id="" tvg-name="LAT: HBO FAMILY HD" tvg-logo="" group-title="Latino",LAT: HBO FAMILY HD
+http://magicflix.cx750.xyz:36114/alex/teste/173
+#EXTINF:-1 tvg-id="" tvg-name="LAT: HBO HD" tvg-logo="" group-title="Latino",LAT: HBO HD
+http://magicflix.cx750.xyz:36114/alex/teste/174
+#EXTINF:-1 tvg-id="" tvg-name="LAT: HBO MUNDI" tvg-logo="" group-title="Latino",LAT: HBO MUNDI
+http://magicflix.cx750.xyz:36114/alex/teste/175
+#EXTINF:-1 tvg-id="" tvg-name="LAT: HBO PLUS HD" tvg-logo="" group-title="Latino",LAT: HBO PLUS HD
+http://magicflix.cx750.xyz:36114/alex/teste/176
+#EXTINF:-1 tvg-id="" tvg-name="LAT: HBO POP" tvg-logo="" group-title="Latino",LAT: HBO POP
+http://magicflix.cx750.xyz:36114/alex/teste/177
+#EXTINF:-1 tvg-id="" tvg-name="LAT: HBO SIGNATURE HD" tvg-logo="" group-title="Latino",LAT: HBO SIGNATURE HD
+http://magicflix.cx750.xyz:36114/alex/teste/178
+#EXTINF:-1 tvg-id="" tvg-name="LAT: HISTORY HD" tvg-logo="" group-title="Latino",LAT: HISTORY HD
+http://magicflix.cx750.xyz:36114/alex/teste/179
+#EXTINF:-1 tvg-id="" tvg-name="LAT: IPE PERU" tvg-logo="" group-title="Latino",LAT: IPE PERU
+http://magicflix.cx750.xyz:36114/alex/teste/180
+#EXTINF:-1 tvg-id="" tvg-name="LAT: ISAT" tvg-logo="" group-title="Latino",LAT: ISAT
+http://magicflix.cx750.xyz:36114/alex/teste/181
+#EXTINF:-1 tvg-id="" tvg-name="LAT: LA RED CHILE HD" tvg-logo="" group-title="Latino",LAT: LA RED CHILE HD
+http://magicflix.cx750.xyz:36114/alex/teste/182
+#EXTINF:-1 tvg-id="" tvg-name="LAT: LA TELE" tvg-logo="" group-title="Latino",LAT: LA TELE
+http://magicflix.cx750.xyz:36114/alex/teste/183
+#EXTINF:-1 tvg-id="" tvg-name="LAT: LA TELE  URUGUAY" tvg-logo="" group-title="Latino",LAT: LA TELE  URUGUAY
+http://magicflix.cx750.xyz:36114/alex/teste/184
+#EXTINF:-1 tvg-id="" tvg-name="LAT: LATINA TV PERU" tvg-logo="" group-title="Latino",LAT: LATINA TV PERU
+http://magicflix.cx750.xyz:36114/alex/teste/185
+#EXTINF:-1 tvg-id="" tvg-name="LAT: MEGA CHILE HD" tvg-logo="" group-title="Latino",LAT: MEGA CHILE HD
+http://magicflix.cx750.xyz:36114/alex/teste/186
+#EXTINF:-1 tvg-id="" tvg-name="LAT: MOVISTAR DEPORTES PERU" tvg-logo="" group-title="Latino",LAT: MOVISTAR DEPORTES PERU
+http://magicflix.cx750.xyz:36114/alex/teste/187
+#EXTINF:-1 tvg-id="" tvg-name="LAT: MTV HD" tvg-logo="" group-title="Latino",LAT: MTV HD
+http://magicflix.cx750.xyz:36114/alex/teste/188
+#EXTINF:-1 tvg-id="" tvg-name="LAT: MTV LIVE" tvg-logo="" group-title="Latino",LAT: MTV LIVE
+http://magicflix.cx750.xyz:36114/alex/teste/189
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NATGEO HD" tvg-logo="" group-title="Latino",LAT: NATGEO HD
+http://magicflix.cx750.xyz:36114/alex/teste/190
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NATGEO KIDS HD" tvg-logo="" group-title="Latino",LAT: NATGEO KIDS HD
+http://magicflix.cx750.xyz:36114/alex/teste/191
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NATGEO WILD HD" tvg-logo="" group-title="Latino",LAT: NATGEO WILD HD
+http://magicflix.cx750.xyz:36114/alex/teste/192
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NICK" tvg-logo="" group-title="Latino",LAT: NICK
+http://magicflix.cx750.xyz:36114/alex/teste/193
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NICK JR HD" tvg-logo="" group-title="Latino",LAT: NICK JR HD
+http://magicflix.cx750.xyz:36114/alex/teste/194
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NICKTOONS" tvg-logo="" group-title="Latino",LAT: NICKTOONS
+http://magicflix.cx750.xyz:36114/alex/teste/195
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NOTICIAS PARAGUAY HD" tvg-logo="" group-title="Latino",LAT: NOTICIAS PARAGUAY HD
+http://magicflix.cx750.xyz:36114/alex/teste/196
+#EXTINF:-1 tvg-id="" tvg-name="LAT: PARAGUAY TV" tvg-logo="" group-title="Latino",LAT: PARAGUAY TV
+http://magicflix.cx750.xyz:36114/alex/teste/197
+#EXTINF:-1 tvg-id="" tvg-name="LAT: PARAMOUNT CHANNEL HD" tvg-logo="" group-title="Latino",LAT: PARAMOUNT CHANNEL HD
+http://magicflix.cx750.xyz:36114/alex/teste/198
+#EXTINF:-1 tvg-id="" tvg-name="LAT: PARAVISION HD" tvg-logo="" group-title="Latino",LAT: PARAVISION HD
+http://magicflix.cx750.xyz:36114/alex/teste/199
+#EXTINF:-1 tvg-id="" tvg-name="LAT: QUIERO MUSICA" tvg-logo="" group-title="Latino",LAT: QUIERO MUSICA
+http://magicflix.cx750.xyz:36114/alex/teste/200
+#EXTINF:-1 tvg-id="" tvg-name="LAT: RCN COLOMBIA" tvg-logo="" group-title="Latino",LAT: RCN COLOMBIA
+http://magicflix.cx750.xyz:36114/alex/teste/201
+#EXTINF:-1 tvg-id="" tvg-name="LAT: RCN PARAGUAY TV" tvg-logo="" group-title="Latino",LAT: RCN PARAGUAY TV
+http://magicflix.cx750.xyz:36114/alex/teste/202
+#EXTINF:-1 tvg-id="" tvg-name="LAT: RCN TELENOVELAS" tvg-logo="" group-title="Latino",LAT: RCN TELENOVELAS
+http://magicflix.cx750.xyz:36114/alex/teste/203
+#EXTINF:-1 tvg-id="" tvg-name="LAT: RTP BOLIVIA" tvg-logo="" group-title="Latino",LAT: RTP BOLIVIA
+http://magicflix.cx750.xyz:36114/alex/teste/204
+#EXTINF:-1 tvg-id="" tvg-name="LAT: RTS ECUADOR" tvg-logo="" group-title="Latino",LAT: RTS ECUADOR
+http://magicflix.cx750.xyz:36114/alex/teste/205
+#EXTINF:-1 tvg-id="" tvg-name="LAT: SNT HD" tvg-logo="" group-title="Latino",LAT: SNT HD
+http://magicflix.cx750.xyz:36114/alex/teste/206
+#EXTINF:-1 tvg-id="" tvg-name="LAT: SONY" tvg-logo="" group-title="Latino",LAT: SONY
+http://magicflix.cx750.xyz:36114/alex/teste/207
+#EXTINF:-1 tvg-id="" tvg-name="LAT: SPACE HD" tvg-logo="" group-title="Latino",LAT: SPACE HD
+http://magicflix.cx750.xyz:36114/alex/teste/208
+#EXTINF:-1 tvg-id="" tvg-name="LAT: STUDIO UNIVERSAL HD" tvg-logo="" group-title="Latino",LAT: STUDIO UNIVERSAL HD
+http://magicflix.cx750.xyz:36114/alex/teste/209
+#EXTINF:-1 tvg-id="" tvg-name="LAT: SUR TV" tvg-logo="" group-title="Latino",LAT: SUR TV
+http://magicflix.cx750.xyz:36114/alex/teste/210
+#EXTINF:-1 tvg-id="" tvg-name="LAT: SYFY" tvg-logo="" group-title="Latino",LAT: SYFY
+http://magicflix.cx750.xyz:36114/alex/teste/211
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TCM" tvg-logo="" group-title="Latino",LAT: TCM
+http://magicflix.cx750.xyz:36114/alex/teste/212
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TELEFE ARGENTINA" tvg-logo="" group-title="Latino",LAT: TELEFE ARGENTINA
+http://magicflix.cx750.xyz:36114/alex/teste/213
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TELEFUTURO HD" tvg-logo="" group-title="Latino",LAT: TELEFUTURO HD
+http://magicflix.cx750.xyz:36114/alex/teste/214
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TELEMUNDO HD" tvg-logo="" group-title="Latino",LAT: TELEMUNDO HD
+http://magicflix.cx750.xyz:36114/alex/teste/215
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TIGO SPORT EVENTOS HD" tvg-logo="" group-title="Latino",LAT: TIGO SPORT EVENTOS HD
+http://magicflix.cx750.xyz:36114/alex/teste/216
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TIGO SPORT PLUS HD" tvg-logo="" group-title="Latino",LAT: TIGO SPORT PLUS HD
+http://magicflix.cx750.xyz:36114/alex/teste/217
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TL NOVELAS" tvg-logo="" group-title="Latino",LAT: TL NOVELAS
+http://magicflix.cx750.xyz:36114/alex/teste/218
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TN NOTICIAS HD" tvg-logo="" group-title="Latino",LAT: TN NOTICIAS HD
+http://magicflix.cx750.xyz:36114/alex/teste/219
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TNT HD" tvg-logo="" group-title="Latino",LAT: TNT HD
+http://magicflix.cx750.xyz:36114/alex/teste/220
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TNT SERIES HD" tvg-logo="" group-title="Latino",LAT: TNT SERIES HD
+http://magicflix.cx750.xyz:36114/alex/teste/221
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TNT SPORT HD" tvg-logo="" group-title="Latino",LAT: TNT SPORT HD
+http://magicflix.cx750.xyz:36114/alex/teste/222
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TNT SPORTS HD" tvg-logo="" group-title="Latino",LAT: TNT SPORTS HD
+http://magicflix.cx750.xyz:36114/alex/teste/113
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TOONCAST" tvg-logo="" group-title="Latino",LAT: TOONCAST
+http://magicflix.cx750.xyz:36114/alex/teste/223
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TRECE COLOMBIA" tvg-logo="" group-title="Latino",LAT: TRECE COLOMBIA
+http://magicflix.cx750.xyz:36114/alex/teste/224
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TV PERU" tvg-logo="" group-title="Latino",LAT: TV PERU
+http://magicflix.cx750.xyz:36114/alex/teste/225
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TV PUBLICA ARGENTINA HD" tvg-logo="" group-title="Latino",LAT: TV PUBLICA ARGENTINA HD
+http://magicflix.cx750.xyz:36114/alex/teste/226
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TVN CHILE HD" tvg-logo="" group-title="Latino",LAT: TVN CHILE HD
+http://magicflix.cx750.xyz:36114/alex/teste/227
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TVS ENCARNACION HD" tvg-logo="" group-title="Latino",LAT: TVS ENCARNACION HD
+http://magicflix.cx750.xyz:36114/alex/teste/228
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TYC SPORT" tvg-logo="" group-title="Latino",LAT: TYC SPORT
+http://magicflix.cx750.xyz:36114/alex/teste/229
+#EXTINF:-1 tvg-id="" tvg-name="LAT: UFC FIGHT PASS" tvg-logo="" group-title="Latino",LAT: UFC FIGHT PASS
+http://magicflix.cx750.xyz:36114/alex/teste/230
+#EXTINF:-1 tvg-id="" tvg-name="LAT: UNICABLE" tvg-logo="" group-title="Latino",LAT: UNICABLE
+http://magicflix.cx750.xyz:36114/alex/teste/231
+#EXTINF:-1 tvg-id="" tvg-name="LAT: UNICANAL HD" tvg-logo="" group-title="Latino",LAT: UNICANAL HD
+http://magicflix.cx750.xyz:36114/alex/teste/232
+#EXTINF:-1 tvg-id="" tvg-name="LAT: UNITEL BOLIVIA" tvg-logo="" group-title="Latino",LAT: UNITEL BOLIVIA
+http://magicflix.cx750.xyz:36114/alex/teste/233
+#EXTINF:-1 tvg-id="" tvg-name="LAT: UNIVERSAL CHANNEL HD" tvg-logo="" group-title="Latino",LAT: UNIVERSAL CHANNEL HD
+http://magicflix.cx750.xyz:36114/alex/teste/234
+#EXTINF:-1 tvg-id="" tvg-name="LAT: VTV HD" tvg-logo="" group-title="Latino",LAT: VTV HD
+http://magicflix.cx750.xyz:36114/alex/teste/235
+#EXTINF:-1 tvg-id="" tvg-name="LAT: VTV PLUS URUGUAY" tvg-logo="" group-title="Latino",LAT: VTV PLUS URUGUAY
+http://magicflix.cx750.xyz:36114/alex/teste/236
+#EXTINF:-1 tvg-id="" tvg-name="LAT: WARNER HD" tvg-logo="" group-title="Latino",LAT: WARNER HD
+http://magicflix.cx750.xyz:36114/alex/teste/237
+#EXTINF:-1 tvg-id="" tvg-name="LAT: WIN SPORT" tvg-logo="" group-title="Latino",LAT: WIN SPORT
+http://magicflix.cx750.xyz:36114/alex/teste/238
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: M FORMULA 1 HD" tvg-logo="" group-title="Esportes",ESPORTES: M FORMULA 1 HD
+http://magicflix.cx750.xyz:36114/alex/teste/320
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: M GOLD HD" tvg-logo="" group-title="Esportes",ESPORTES: M GOLD HD
+http://magicflix.cx750.xyz:36114/alex/teste/321
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: M DEPORTES HD" tvg-logo="" group-title="Esportes",ESPORTES: M DEPORTES HD
+http://magicflix.cx750.xyz:36114/alex/teste/322
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: TOROS HD" tvg-logo="" group-title="Esportes",ESPORTES: TOROS HD
+http://magicflix.cx750.xyz:36114/alex/teste/323
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: M LA LIGA 1 HD" tvg-logo="" group-title="Esportes",ESPORTES: M LA LIGA 1 HD
+http://magicflix.cx750.xyz:36114/alex/teste/324
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: M LA LIGA 2 HD" tvg-logo="" group-title="Esportes",ESPORTES: M LA LIGA 2 HD
+http://magicflix.cx750.xyz:36114/alex/teste/325
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: LA LIGA TV BAR. HD" tvg-logo="" group-title="Esportes",ESPORTES: LA LIGA TV BAR. HD
+http://magicflix.cx750.xyz:36114/alex/teste/326
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: VAMOS HD" tvg-logo="" group-title="Esportes",ESPORTES: VAMOS HD
+http://magicflix.cx750.xyz:36114/alex/teste/327
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: M LALIGA HD" tvg-logo="" group-title="Esportes",ESPORTES: M LALIGA HD
+http://magicflix.cx750.xyz:36114/alex/teste/328
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: EUROSPORT 1 HD" tvg-logo="" group-title="Esportes",ESPORTES: EUROSPORT 1 HD
+http://magicflix.cx750.xyz:36114/alex/teste/329
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: EUROSPORT 2 HD" tvg-logo="" group-title="Esportes",ESPORTES: EUROSPORT 2 HD
+http://magicflix.cx750.xyz:36114/alex/teste/330
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: GOL HD" tvg-logo="" group-title="Esportes",ESPORTES: GOL HD
+http://magicflix.cx750.xyz:36114/alex/teste/331
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: ML CAMPEON HD" tvg-logo="" group-title="Esportes",ESPORTES: ML CAMPEON HD
+http://magicflix.cx750.xyz:36114/alex/teste/332
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: ML CAMPEON 1 HD" tvg-logo="" group-title="Esportes",ESPORTES: ML CAMPEON 1 HD
+http://magicflix.cx750.xyz:36114/alex/teste/333
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: ML CAMPEON 2 HD" tvg-logo="" group-title="Esportes",ESPORTES: ML CAMPEON 2 HD
+http://magicflix.cx750.xyz:36114/alex/teste/334
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="Esportes",ESPORTES: ELEVEN SPORTS 1 HD
+http://magicflix.cx750.xyz:36114/alex/teste/335
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Esportes",ESPORTES: ELEVEN SPORTS 2 HD
+http://magicflix.cx750.xyz:36114/alex/teste/336
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="Esportes",ESPORTES: ELEVEN SPORTS 3 HD
+http://magicflix.cx750.xyz:36114/alex/teste/337
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Esportes",ESPORTES: ELEVEN SPORTS 4 HD
+http://magicflix.cx750.xyz:36114/alex/teste/338
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="Esportes",ESPORTES: ELEVEN SPORTS 5 HD
+http://magicflix.cx750.xyz:36114/alex/teste/339
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="Esportes",ESPORTES: ELEVEN SPORTS 6 HD
+http://magicflix.cx750.xyz:36114/alex/teste/340
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: BTV 1 HD" tvg-logo="" group-title="Esportes",ESPORTES: BTV 1 HD
+http://magicflix.cx750.xyz:36114/alex/teste/341
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: SPORTTV 1 - PORTUGUAL" tvg-logo="" group-title="Esportes",ESPORTES: SPORTTV 1 - PORTUGUAL
+http://magicflix.cx750.xyz:36114/alex/teste/342
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: SPORTTV 2 - PORTUGUAL" tvg-logo="" group-title="Esportes",ESPORTES: SPORTTV 2 - PORTUGUAL
+http://magicflix.cx750.xyz:36114/alex/teste/343
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: SPORTTV 3 - PORTUGUAL" tvg-logo="" group-title="Esportes",ESPORTES: SPORTTV 3 - PORTUGUAL
+http://magicflix.cx750.xyz:36114/alex/teste/344
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: SPORTTV 4 - PORTUGUAL" tvg-logo="" group-title="Esportes",ESPORTES: SPORTTV 4 - PORTUGUAL
+http://magicflix.cx750.xyz:36114/alex/teste/345
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: SPORTTV 5 - PORTUGUAL" tvg-logo="" group-title="Esportes",ESPORTES: SPORTTV 5 - PORTUGUAL
+http://magicflix.cx750.xyz:36114/alex/teste/346
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: SPORTTV PLUS - PORTUGUAL" tvg-logo="" group-title="Esportes",ESPORTES: SPORTTV PLUS - PORTUGUAL
+http://magicflix.cx750.xyz:36114/alex/teste/347
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: NBA HD" tvg-logo="" group-title="Esportes",ESPORTES: NBA HD
+http://magicflix.cx750.xyz:36114/alex/teste/348
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: KOMBAT SPORT HD" tvg-logo="" group-title="Esportes",ESPORTES: KOMBAT SPORT HD
+http://magicflix.cx750.xyz:36114/alex/teste/349
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: EUROSPORT 1" tvg-logo="" group-title="Esportes",ESPORTES: EUROSPORT 1
+http://magicflix.cx750.xyz:36114/alex/teste/350
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: PFC INTERNACIONAL" tvg-logo="" group-title="Esportes",ESPORTES: PFC INTERNACIONAL
+http://magicflix.cx750.xyz:36114/alex/teste/351
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: SKY SPORTS NEWS HD" tvg-logo="" group-title="Esportes",ESPORTES: SKY SPORTS NEWS HD
+http://magicflix.cx750.xyz:36114/alex/teste/352
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: SKY SPORTS FOOTBALL HD" tvg-logo="" group-title="Esportes",ESPORTES: SKY SPORTS FOOTBALL HD
+http://magicflix.cx750.xyz:36114/alex/teste/353
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: SKY SPORTS PREMIERE LEAGUE HD" tvg-logo="" group-title="Esportes",ESPORTES: SKY SPORTS PREMIERE LEAGUE HD
+http://magicflix.cx750.xyz:36114/alex/teste/354
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: SKY SPORTS ARENA HD" tvg-logo="" group-title="Esportes",ESPORTES: SKY SPORTS ARENA HD
+http://magicflix.cx750.xyz:36114/alex/teste/355
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: SKY SPORTS MAIN EVENT HD" tvg-logo="" group-title="Esportes",ESPORTES: SKY SPORTS MAIN EVENT HD
+http://magicflix.cx750.xyz:36114/alex/teste/356
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: SKY SPORTS MIX HD" tvg-logo="" group-title="Esportes",ESPORTES: SKY SPORTS MIX HD
+http://magicflix.cx750.xyz:36114/alex/teste/357
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: SKY SPORTS ACTION HD" tvg-logo="" group-title="Esportes",ESPORTES: SKY SPORTS ACTION HD
+http://magicflix.cx750.xyz:36114/alex/teste/358
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: SKY SPORTS CRICKET HD" tvg-logo="" group-title="Esportes",ESPORTES: SKY SPORTS CRICKET HD
+http://magicflix.cx750.xyz:36114/alex/teste/359
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: SKY SPORTS GOLD HD" tvg-logo="" group-title="Esportes",ESPORTES: SKY SPORTS GOLD HD
+http://magicflix.cx750.xyz:36114/alex/teste/360
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: SKY SPORTS F1 HD" tvg-logo="" group-title="Esportes",ESPORTES: SKY SPORTS F1 HD
+http://magicflix.cx750.xyz:36114/alex/teste/361
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: SKY SPORTS RACING HD" tvg-logo="" group-title="Esportes",ESPORTES: SKY SPORTS RACING HD
+http://magicflix.cx750.xyz:36114/alex/teste/362
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: LA LIGA TV HD - UK" tvg-logo="" group-title="Esportes",ESPORTES: LA LIGA TV HD - UK
+http://magicflix.cx750.xyz:36114/alex/teste/363
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: BT SPORT EXTRA 1 HD" tvg-logo="" group-title="Esportes",ESPORTES: BT SPORT EXTRA 1 HD
+http://magicflix.cx750.xyz:36114/alex/teste/364
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: BT SPORT EXTRA 2 HD" tvg-logo="" group-title="Esportes",ESPORTES: BT SPORT EXTRA 2 HD
+http://magicflix.cx750.xyz:36114/alex/teste/365
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: BT SPORT EXTRA 3 HD" tvg-logo="" group-title="Esportes",ESPORTES: BT SPORT EXTRA 3 HD
+http://magicflix.cx750.xyz:36114/alex/teste/366
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: BT SPORT EXTRA 4 HD" tvg-logo="" group-title="Esportes",ESPORTES: BT SPORT EXTRA 4 HD
+http://magicflix.cx750.xyz:36114/alex/teste/367
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: BT SPORT EXTRA 5 HD" tvg-logo="" group-title="Esportes",ESPORTES: BT SPORT EXTRA 5 HD
+http://magicflix.cx750.xyz:36114/alex/teste/368
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: FREESPORTS HD" tvg-logo="" group-title="Esportes",ESPORTES: FREESPORTS HD
+http://magicflix.cx750.xyz:36114/alex/teste/369
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: WWWE HD" tvg-logo="" group-title="Esportes",ESPORTES: WWWE HD
+http://magicflix.cx750.xyz:36114/alex/teste/370
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: RACING TV HD" tvg-logo="" group-title="Esportes",ESPORTES: RACING TV HD
+http://magicflix.cx750.xyz:36114/alex/teste/371
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: BOXNATION" tvg-logo="" group-title="Esportes",ESPORTES: BOXNATION
+http://magicflix.cx750.xyz:36114/alex/teste/372
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: LFCTV HD" tvg-logo="" group-title="Esportes",ESPORTES: LFCTV HD
+http://magicflix.cx750.xyz:36114/alex/teste/373
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: EIR SPORT 1 HD" tvg-logo="" group-title="Esportes",ESPORTES: EIR SPORT 1 HD
+http://magicflix.cx750.xyz:36114/alex/teste/374
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: PREMIER 1 HD" tvg-logo="" group-title="Esportes",ESPORTES: PREMIER 1 HD
+http://magicflix.cx750.xyz:36114/alex/teste/375
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: PREMIER 2 HD" tvg-logo="" group-title="Esportes",ESPORTES: PREMIER 2 HD
+http://magicflix.cx750.xyz:36114/alex/teste/376
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: EUROSPORT HD" tvg-logo="" group-title="Esportes",ESPORTES: EUROSPORT HD
+http://magicflix.cx750.xyz:36114/alex/teste/377
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: EUROSPORT 2 HD" tvg-logo="" group-title="Esportes",ESPORTES: EUROSPORT 2 HD
+http://magicflix.cx750.xyz:36114/alex/teste/378
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: BT SPORT 1 HD" tvg-logo="" group-title="Esportes",ESPORTES: BT SPORT 1 HD
+http://magicflix.cx750.xyz:36114/alex/teste/379
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: BT SPORT 2 HD" tvg-logo="" group-title="Esportes",ESPORTES: BT SPORT 2 HD
+http://magicflix.cx750.xyz:36114/alex/teste/380
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: BT SPORT 3 HD" tvg-logo="" group-title="Esportes",ESPORTES: BT SPORT 3 HD
+http://magicflix.cx750.xyz:36114/alex/teste/381
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES: BT Sport ESPN HD" tvg-logo="" group-title="Esportes",ESPORTES: BT Sport ESPN HD
+http://magicflix.cx750.xyz:36114/alex/teste/382
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN ESPANHOL HD" tvg-logo="" group-title="Jornalismo",BR: CNN ESPANHOL HD
+http://magicflix.cx750.xyz:36114/alex/teste/396
+#EXTINF:-1 tvg-id="" tvg-name="BR: DW HD" tvg-logo="" group-title="Mundo",BR: DW HD
+http://magicflix.cx750.xyz:36114/alex/teste/397
+#EXTINF:-1 tvg-id="" tvg-name="BR: RAI NEWS 24 HD" tvg-logo="" group-title="Mundo",BR: RAI NEWS 24 HD
+http://magicflix.cx750.xyz:36114/alex/teste/402
