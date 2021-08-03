@@ -24,3 +24,39 @@ http://sv1.casaplayer.cf:80/valtinho/102030/4064
 http://sv1.casaplayer.cf:80/valtinho/102030/6567
 #EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8" tvg-logo="http://floriu.com/imagem/premiere8.jpg" group-title="PREMIERE",PREMIERE 8
 http://sv1.casaplayer.cf:80/valtinho/102030/6569
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="ESPORTE",SporTV
+http://sv1.casaplayer.cf:80/valtinho/102030/27922
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SporTV 2
+http://sv1.casaplayer.cf:80/valtinho/102030/3508
+#EXTINF:-1 tvg-id="SporTV 2 [Alter]" tvg-name="SPORTV 2 4K" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SPORTV 2 4K
+http://sv1.casaplayer.cf:80/valtinho/102030/3382
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SPORTV 2 HD
+http://sv1.casaplayer.cf:80/valtinho/102030/3507
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SporTV 3
+http://sv1.casaplayer.cf:80/valtinho/102030/3506
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 4K" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SPORTV 3 4K
+http://sv1.casaplayer.cf:80/valtinho/102030/3383
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SPORTV 3 HD
+http://sv1.casaplayer.cf:80/valtinho/102030/3505
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="ESPORTE",SPORTV 4K
+http://sv1.casaplayer.cf:80/valtinho/102030/46536
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="ESPORTE",SPORTV HD
+http://sv1.casaplayer.cf:80/valtinho/102030/46723
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2" tvg-logo="http://floriu.com/imagem/foxsports2.png" group-title="ESPORTE",Fox Sports 2
+http://sv1.casaplayer.cf:80/valtinho/102030/3641
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS 2 4K" tvg-logo="http://floriu.com/imagem/foxsports2.png" group-title="ESPORTE",FOX SPORTS 2 4K
+http://sv1.casaplayer.cf:80/valtinho/102030/3342
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://floriu.com/imagem/foxsports2.png" group-title="ESPORTE",FOX SPORTS 2 HD
+http://sv1.casaplayer.cf:80/valtinho/102030/3640
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports 4k²" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",Fox Sports 4k²
+http://sv1.casaplayer.cf:80/valtinho/102030/46954
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports HD²" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",Fox Sports HD²
+http://sv1.casaplayer.cf:80/valtinho/102030/46955
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports SD²" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",Fox Sports SD²
+http://sv1.casaplayer.cf:80/valtinho/102030/46956
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports¹" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",Fox Sports¹
+http://sv1.casaplayer.cf:80/valtinho/102030/46725
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS¹ HD" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",FOX SPORTS¹ HD
+http://sv1.casaplayer.cf:80/valtinho/102030/46921
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS¹4k" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",FOX SPORTS¹4k
+http://sv1.casaplayer.cf:80/valtinho/102030/46943
