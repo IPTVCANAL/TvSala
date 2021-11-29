@@ -1,7 +1,6 @@
-#EXTINF:
-#EXTINF:-1 tvg-id="RBSTVPortoAlegreHD" tvg-name="Globo RBS Porto Alegre FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RBS Porto Alegre FHD
-http://serverfulltop.com:80/moacir/123456/749
-#EXTINF:-1 tvg-id="RBSTVPortoAlegreHD" tvg-name="Globo RBS Porto Alegre HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RBS Porto Alegre HD
-http://serverfulltop.com:80/moacir/123456/471
-#EXTINF:-1 tvg-id="RBSTVPortoAlegreHD" tvg-name="Globo RBS Porto Alegre SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RBS Porto Alegre SD
-http://serverfulltop.com:80/moacir/123456/472
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://sbocs.no-ip.net/newlogos/USA/AandE.png" group-title="Canais | FILMES E SÉRIES ",A&E FHD
+http://51.89.98.62:8080/atilio/atilio/20253
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://sbocs.no-ip.net/newlogos/USA/AandE.png" group-title="Canais | FILMES E SÉRIES ",A&E HD
+http://51.89.98.62:8080/atilio/atilio/236
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://sbocs.no-ip.net/newlogos/USA/AandE.png" group-title="Canais | FILMES E SÉRIES ",A&E SD
+http://51.89.98.62:8080/atilio/atilio/235
