@@ -1,6 +1,2 @@
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://sbocs.no-ip.net/newlogos/USA/AandE.png" group-title="Canais | FILMES E SÉRIES ",A&E FHD
-http://51.89.98.62:8080/atilio/atilio/20253
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://sbocs.no-ip.net/newlogos/USA/AandE.png" group-title="Canais | FILMES E SÉRIES ",A&E HD
-http://51.89.98.62:8080/atilio/atilio/236
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://sbocs.no-ip.net/newlogos/USA/AandE.png" group-title="Canais | FILMES E SÉRIES ",A&E SD
-http://51.89.98.62:8080/atilio/atilio/235
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E 4K" tvg-logo="http://floriu.com/imagem/aee.png" group-title="FILMES E SERIES",A&E 4K
+http://cms-eu-01.casap2p.online:8080/Gildesio/123456/3311
