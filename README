@@ -1,12 +1,24 @@
-#EXTINF:-1 tvg-id="" tvg-name="BR:PREMIERE CLUBES HD" tvg-logo="" group-title="BRAZIL ",BR:PREMIERE CLUBES HD
-http://atlaspro.live:80/V5c9iiztUFp4HAvXa6IEd/UInapuNYd1/101922
-#EXTINF:-1 tvg-id="" tvg-name="BR:PREMIERE 2 HD" tvg-logo="" group-title="BRAZIL ",BR:PREMIERE 2 HD
-http://atlaspro.live:80/V5c9iiztUFp4HAvXa6IEd/UInapuNYd1/101917
-#EXTINF:-1 tvg-id="" tvg-name="BR:PREMIERE 3 HD" tvg-logo="" group-title="BRAZIL ",BR:PREMIERE 3 HD
-http://atlaspro.live:80/V5c9iiztUFp4HAvXa6IEd/UInapuNYd1/101918
-#EXTINF:-1 tvg-id="" tvg-name="BR:PREMIERE 4 HD" tvg-logo="" group-title="BRAZIL ",BR:PREMIERE 4 HD
-http://atlaspro.live:80/V5c9iiztUFp4HAvXa6IEd/UInapuNYd1/101919
-#EXTINF:-1 tvg-id="" tvg-name="BR:PREMIERE 5 HD" tvg-logo="" group-title="BRAZIL ",BR:PREMIERE 5 HD
-http://atlaspro.live:80/V5c9iiztUFp4HAvXa6IEd/UInapuNYd1/101920
-#EXTINF:-1 tvg-id="" tvg-name="BR:PREMIERE 6 HD" tvg-logo="" group-title="BRAZIL ",BR:PREMIERE 6 HD
-http://atlaspro.live:80/V5c9iiztUFp4HAvXa6IEd/UInapuNYd1/101921
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes HD
+http://dgbr.io:80/vinicios2022/2022vinicios/24674
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD²  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes HD²  [Alter]
+http://dgbr.io:80/vinicios2022/2022vinicios/95729
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD³  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes HD³  [Alter]
+http://dgbr.io:80/vinicios2022/2022vinicios/120127
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes FHD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes FHD
+http://dgbr.io:80/vinicios2022/2022vinicios/24671
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - HD" tvg-logo="http://xsrv.me/logos/img/sportv.png" group-title="- SporTV",SporTv - HD
+http://dgbr.io:80/vinicios2022/2022vinicios/24610
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - FHD" tvg-logo="http://xsrv.me/logos/img/sportv.png" group-title="- SporTV",SporTv - FHD
+http://dgbr.io:80/vinicios2022/2022vinicios/24607
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - SD" tvg-logo="http://dgbr.io:80/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="- SporTV",SporTv 2 - SD
+http://dgbr.io:80/vinicios2022/2022vinicios/24620
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - HD" tvg-logo="http://dgbr.io:80/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="- SporTV",SporTv 2 - HD
+http://dgbr.io:80/vinicios2022/2022vinicios/24617
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - FHD" tvg-logo="http://dgbr.io:80/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="- SporTV",SporTv 2 - FHD
+http://dgbr.io:80/vinicios2022/2022vinicios/24615
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv  3 - SD" tvg-logo="http://dgbr.io:80/images/365fc6d09ecab42eb99b787a6df6477b.png" group-title="- SporTV",SporTv  3 - SD
+http://dgbr.io:80/vinicios2022/2022vinicios/24628
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv 3 - HD" tvg-logo="http://dgbr.io:80/images/365fc6d09ecab42eb99b787a6df6477b.png" group-title="- SporTV",SporTv 3 - HD
+http://dgbr.io:80/vinicios2022/2022vinicios/24625
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv 3 - FHD" tvg-logo="http://xsrv.me/logos/img/sportv3.png" group-title="- SporTV",SporTv 3 - FHD
+http://dgbr.io:80/vinicios2022/2022vinicios/24623
