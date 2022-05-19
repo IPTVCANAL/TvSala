@@ -1,4 +1,24 @@
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 1 FHD" tvg-logo="http://24sr.online/ESPORTES/sporttv1.png" group-title="CANAIS | ESPORTES",SPORTV 1 FHD
-http://cdn.cteam.me:80/jenifer/101010/1368570.ts
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV 1 HD" tvg-logo="http://24sr.online/ESPORTES/sporttv1.png" group-title="CANAIS | ESPORTES",SPORTV 1 HD
-http://cdn.cteam.me:80/jenifer/101010/1368571.ts
+#EXTINF:-1,BR - PREMIERE CLUBES HD
+http://artitv.xyz:80/2CCFFC45A55D6C3/o2tWNDpZgH/76266
+#EXTINF:-1,BR - PREMIERE 2 HD
+http://artitv.xyz:80/2CCFFC45A55D6C3/o2tWNDpZgH/76267
+#EXTINF:-1,BR - PREMIERE 3 HD
+http://artitv.xyz:80/2CCFFC45A55D6C3/o2tWNDpZgH/76268
+#EXTINF:-1,BR - PREMIERE 4 HD
+http://artitv.xyz:80/2CCFFC45A55D6C3/o2tWNDpZgH/76269
+#EXTINF:-1,BR - PREMIERE 5 HD
+http://artitv.xyz:80/2CCFFC45A55D6C3/o2tWNDpZgH/76270
+#EXTINF:-1,BR - PREMIERE 6 HD
+http://artitv.xyz:80/2CCFFC45A55D6C3/o2tWNDpZgH/76271
+#EXTINF:-1,BR - PREMIERE 7 HD
+http://artitv.xyz:80/2CCFFC45A55D6C3/o2tWNDpZgH/76272
+#EXTINF:-1,BR - SPORTV HD
+http://artitv.xyz:80/2CCFFC45A55D6C3/o2tWNDpZgH/76310
+#EXTINF:-1,BR - SPORTV 2 HD
+http://artitv.xyz:80/2CCFFC45A55D6C3/o2tWNDpZgH/76311
+#EXTINF:-1,BR - SPORTV 3 HD
+http://artitv.xyz:80/2CCFFC45A55D6C3/o2tWNDpZgH/76312
+#EXTINF:-1,BR - FOX SPORTS HD
+http://artitv.xyz:80/2CCFFC45A55D6C3/o2tWNDpZgH/76313
+#EXTINF:-1,BR - FOX SPORTS 2 HD
+http://artitv.xyz:80/2CCFFC45A55D6C3/o2tWNDpZgH/76314
