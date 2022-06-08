@@ -1,24 +1,17 @@
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes HD
-http://dgbr.io:80/vinicios2022/2022vinicios/24674
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD²  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes HD²  [Alter]
-http://dgbr.io:80/vinicios2022/2022vinicios/95729
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD³  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes HD³  [Alter]
-http://dgbr.io:80/vinicios2022/2022vinicios/120127
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes FHD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes FHD
-http://dgbr.io:80/vinicios2022/2022vinicios/24671
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - HD" tvg-logo="http://xsrv.me/logos/img/sportv.png" group-title="- SporTV",SporTv - HD
-http://dgbr.io:80/vinicios2022/2022vinicios/24610
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - FHD" tvg-logo="http://xsrv.me/logos/img/sportv.png" group-title="- SporTV",SporTv - FHD
-http://dgbr.io:80/vinicios2022/2022vinicios/24607
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - SD" tvg-logo="http://dgbr.io:80/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="- SporTV",SporTv 2 - SD
-http://dgbr.io:80/vinicios2022/2022vinicios/24620
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - HD" tvg-logo="http://dgbr.io:80/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="- SporTV",SporTv 2 - HD
-http://dgbr.io:80/vinicios2022/2022vinicios/24617
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - FHD" tvg-logo="http://dgbr.io:80/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="- SporTV",SporTv 2 - FHD
-http://dgbr.io:80/vinicios2022/2022vinicios/24615
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv  3 - SD" tvg-logo="http://dgbr.io:80/images/365fc6d09ecab42eb99b787a6df6477b.png" group-title="- SporTV",SporTv  3 - SD
-http://dgbr.io:80/vinicios2022/2022vinicios/24628
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv 3 - HD" tvg-logo="http://dgbr.io:80/images/365fc6d09ecab42eb99b787a6df6477b.png" group-title="- SporTV",SporTv 3 - HD
-http://dgbr.io:80/vinicios2022/2022vinicios/24625
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv 3 - FHD" tvg-logo="http://xsrv.me/logos/img/sportv3.png" group-title="- SporTV",SporTv 3 - FHD
-http://dgbr.io:80/vinicios2022/2022vinicios/24623
+http://cms-eu-01.casap2p.online:8080/luizinho/102030/6567
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 MOSAICO" tvg-logo="http://floriu.com/imagem/premiere8.jpg" group-title="PREMIERE CLUBE",PREMIERE 8 MOSAICO
+http://cms-eu-01.casap2p.online:8080/luizinho/102030/58157
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes 1 (H265)" tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE CLUBE",Premiere Clubes 1 (H265)
+http://cms-eu-01.casap2p.online:8080/luizinho/102030/58133
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE CLUBE",PREMIERE CLUBES 4K
+http://cms-eu-01.casap2p.online:8080/luizinho/102030/3375
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 4K 1 (S1) " tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE CLUBE",PREMIERE CLUBES 4K 1 (S1) 
+http://cms-eu-01.casap2p.online:8080/luizinho/102030/58135
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes 4K 1 ²(S1) " tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE CLUBE",Premiere Clubes 4K 1 ²(S1) 
+http://cms-eu-01.casap2p.online:8080/luizinho/102030/58134
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="PREMIERE CLUBES HD 1" tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE CLUBE",PREMIERE CLUBES HD 1
+http://cms-eu-01.casap2p.online:8080/luizinho/102030/19381
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD 1 (S1) " tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE CLUBE",PREMIERE CLUBES HD 1 (S1) 
+http://cms-eu-01.casap2p.online:8080/luizinho/102030/58136
+#EXTINF:-1 tvg-id="Premiere Clubes SD" tvg-name="PREMIERE CLUBES SD 1 (S1) " tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE CLUBE",PREMIERE CLUBES SD 1 (S1) 
+http://cms-eu-01.casap2p.online:8080/luizinho/102030/58137
