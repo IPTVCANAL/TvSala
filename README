@@ -62,3 +62,29 @@ http://cms-eu-01.casap2p.online:8080/blenda/123456/58265
 http://cms-eu-01.casap2p.online:8080/blenda/123456/58266
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 (H265) (S1) " tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="SPORTV",SporTV2 (H265) (S1) 
 http://cms-eu-01.casap2p.online:8080/blenda/123456/58276
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 1 FHD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 1 FHD
+http://cms-eu-01.casap2p.online:8080/blenda/123456/62657
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 1 HD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 1 HD
+http://cms-eu-01.casap2p.online:8080/blenda/123456/62658
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 1 SD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 1 SD
+http://cms-eu-01.casap2p.online:8080/blenda/123456/62659
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 2 FHD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 2 FHD
+http://cms-eu-01.casap2p.online:8080/blenda/123456/62660
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 2 HD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 2 HD
+http://cms-eu-01.casap2p.online:8080/blenda/123456/62661
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 2 SD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 2 SD
+http://cms-eu-01.casap2p.online:8080/blenda/123456/62662
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 3 4k" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 3 4k
+http://cms-eu-01.casap2p.online:8080/blenda/123456/62663
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 3 HD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 3 HD
+http://cms-eu-01.casap2p.online:8080/blenda/123456/62664
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 3 SD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 3 SD
+http://cms-eu-01.casap2p.online:8080/blenda/123456/62665
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 4 FHD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 4 FHD
+http://cms-eu-01.casap2p.online:8080/blenda/123456/62666
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 4 HD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 4 HD
+http://cms-eu-01.casap2p.online:8080/blenda/123456/62667
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 4 SD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 4 SD
+http://cms-eu-01.casap2p.online:8080/blenda/123456/62668
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 6 HD" tvg-logo="" group-title="CONMEBOL",Conmebol 6 HD
+http://cms-eu-01.casap2p.online:8080/blenda/123456/62669
