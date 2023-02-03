@@ -1,8 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-ID="ext" tvg-name="A Jornada Mágica de Emily" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bhp4YgYqHFMgEVdUOouDjqZ2bu.jpg" group-title="Filmes | Fantasia",A Jornada Mágica de Emily
-http://51.89.98.62:8080/movie/arcanjo/12345678/50002.mp4
-#EXTINF:-1 tvg-ID="ext" tvg-name="A Liga Extraordinária" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQXs7u7ApBDMkChO0xjw8Sw0YfN.jpg" group-title="Filmes | Fantasia",A Liga Extraordinária
-http://51.89.98.62:8080/movie/arcanjo/12345678/6703.mp4
 
 
 
