@@ -1,8 +1,34 @@
-#EXTINF:-1 tvg-ID="ext" tvg-name="A Saga Crepúsculo: Amanhecer - Parte 1 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlpb8Xm7VBDNxZGeIIAgtqhURuT.jpg" group-title="Filmes | Fantasia",A Saga Crepúsculo: Amanhecer - Parte 1 (2011)
-http://51.89.98.62:8080/movie/arcanjo/12345678/22224.mp4
-#EXTINF:-1 tvg-ID="ext" tvg-name="A Saga Crepúsculo: Amanhecer - Parte 2 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVNobbWwSM2xpv2rRejxwnHf4xH.jpg" group-title="Filmes | Fantasia",A Saga Crepúsculo: Amanhecer - Parte 2 (2012)
-http://51.89.98.62:8080/movie/arcanjo/12345678/22223.mp4
-
+#EXTM3U
+#EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE CLUBES 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS | ESPORTES",PREMIERE CLUBES 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-wZh2oxl4Zl/MFNGyZcwtW/165
+#EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS | ESPORTES",PREMIERE CLUBES HD
+http://main.xplus2-main.xyz:2082/Tourobox1-wZh2oxl4Zl/MFNGyZcwtW/164
+#EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE 1 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS | ESPORTES",PREMIERE 1 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-wZh2oxl4Zl/MFNGyZcwtW/148
+#EXTINF:-1 tvg-id="Premiere HD2" tvg-name="PREMIERE 2 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS | ESPORTES",PREMIERE 2 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-wZh2oxl4Zl/MFNGyZcwtW/149
+#EXTINF:-1 tvg-id="Premiere HD2" tvg-name="PREMIERE 2 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS | ESPORTES",PREMIERE 2 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-wZh2oxl4Zl/MFNGyZcwtW/150
+#EXTINF:-1 tvg-id="Premiere HD 3" tvg-name="PREMIERE 3 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS | ESPORTES",PREMIERE 3 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-wZh2oxl4Zl/MFNGyZcwtW/153
+#EXTINF:-1 tvg-id="Premiere HD 3" tvg-name="PREMIERE 3 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS | ESPORTES",PREMIERE 3 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-wZh2oxl4Zl/MFNGyZcwtW/152
+#EXTINF:-1 tvg-id="Premiere HD 4" tvg-name="PREMIERE 4 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS | ESPORTES",PREMIERE 4 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-wZh2oxl4Zl/MFNGyZcwtW/155
+#EXTINF:-1 tvg-id="Premiere HD 4" tvg-name="PREMIERE 4 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS | ESPORTES",PREMIERE 4 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-wZh2oxl4Zl/MFNGyZcwtW/154
+#EXTINF:-1 tvg-id="Premiere HD 5" tvg-name="PREMIERE 5 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS | ESPORTES",PREMIERE 5 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-wZh2oxl4Zl/MFNGyZcwtW/157
+#EXTINF:-1 tvg-id="Premiere HD 5" tvg-name="PREMIERE 5 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS | ESPORTES",PREMIERE 5 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-wZh2oxl4Zl/MFNGyZcwtW/156
+#EXTINF:-1 tvg-id="Premiere HD6" tvg-name="PREMIERE 6 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS | ESPORTES",PREMIERE 6 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-wZh2oxl4Zl/MFNGyZcwtW/159
+#EXTINF:-1 tvg-id="Premiere HD6" tvg-name="PREMIERE 6 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS | ESPORTES",PREMIERE 6 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-wZh2oxl4Zl/MFNGyZcwtW/158
+#EXTINF:-1 tvg-id="Premiere HD7" tvg-name="PREMIERE 7 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS | ESPORTES",PREMIERE 7 4K
+http://main.xplus2-main.xyz:2082/Tourobox1-wZh2oxl4Zl/MFNGyZcwtW/161
+#EXTINF:-1 tvg-id="Premiere HD7" tvg-name="PREMIERE 7 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS | ESPORTES",PREMIERE 7 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-wZh2oxl4Zl/MFNGyZcwtW/160
 
 
 
